@@ -1,5 +1,859 @@
 {
   "titre": "Mes recettes TikTok",
   "sous_titre": "Collection personnelle",
-  "recettes": []
+  "recettes": [
+    {
+      "titre": "Katsu curry (curry japonais)",
+      "categorie": "Plats",
+      "description": "Un classique du curry japonais, poulet pané et légumes fondants dans une sauce curry maison.",
+      "ingredients": [
+        { "groupe": "Légumes et bouillon", "items": ["2 oignons", "2 carottes", "3 patates (pommes de terre)", "1 c. à s. d'huile", "650 ml d'eau", "5 morceaux de golden curry (bloc de pâte de curry japonais)"] },
+        { "groupe": "Poulet pané", "items": ["Poulet (quantité non précisée)", "Farine", "Œuf", "Huile de friture"] }
+      ],
+      "etapes": [
+        "Couper les légumes : oignons, carottes et patates.",
+        "Cuire les légumes avec 1 c. à s. d'huile dans une casserole.",
+        "Ajouter 650 ml d'eau, réduire le feu et laisser bouillir environ 15 minutes.",
+        "Ajouter le golden curry (5 morceaux), mélanger et laisser 5 min.",
+        "Mélanger la farine avec l'œuf pour préparer la panure liquide.",
+        "Tremper les deux côtés du poulet dans ce mélange.",
+        "Faire frire le poulet jusqu'à ce qu'il soit doré.",
+        "Dresser l'assiette avec le riz, le curry et le poulet pané."
+      ],
+      "auteur": "Lyn Photo",
+      "description_fichier_source": "Captures Screenshot_20260812_173709 à 173727_TikTok.jpg (10 slides)"
+    },
+    {
+      "titre": "Poulet frit façon KFC",
+      "categorie": "Plats",
+      "description": "Poulet frit croustillant façon fast-food, à base de poitrine de poulet en lanières.",
+      "ingredients": [
+        { "groupe": "Pâte à tremper", "items": ["2 tasses de farine de blé", "2 œufs", "Paprika", "1 cuillère de curry", "1 pincée de sel", "1 sachet de levure chimique", "2 verres d'eau"] },
+        { "groupe": "Panure", "items": ["2 tasses de farine de blé", "Paprika", "Un peu de sel", "Poivre au goût"] },
+        { "groupe": "Pour frire", "items": ["1 kg de poitrine de poulet en lanières et morceaux", "Huile de friture"] }
+      ],
+      "etapes": [
+        "Préparer la pâte à tremper : bien mélanger la farine, les œufs, le paprika, le curry, le sel, la levure chimique et l'eau.",
+        "Préparer la panure en mélangeant farine, paprika, sel et poivre.",
+        "Tremper le poulet dans la pâte puis dans la panure.",
+        "Faire frire dans l'huile très chaude jusqu'à ce que le poulet soit doré, en le retournant."
+      ],
+      "auteur": "flafig",
+      "description_fichier_source": "Captures Screenshot_20260812_173609 et 173611_TikTok.jpg"
+    },
+    {
+      "titre": "Lasagne maison",
+      "categorie": "Plats",
+      "description": "La recette complète : ragù bolognaise, béchamel crémeuse et montage classique.",
+      "ingredients": [
+        { "groupe": "Ragù bolognaise", "items": ["Oignon", "Céleri", "Viande hachée", "Huile d'olive", "Tomates pelées", "Sel", "Basilic"] },
+        { "groupe": "Béchamel crémeuse", "items": ["Beurre", "Farine", "Lait", "Muscade (ou clou de girofle)", "Sel", "Poivre"] },
+        { "groupe": "Montage", "items": ["Feuilles de lasagne", "Fromage râpé (mozzarella)"] }
+      ],
+      "etapes": [
+        "Ragù : dans une casserole, faire revenir l'oignon puis le céleri, mettre la viande hachée dans de l'huile d'olive.",
+        "Ajouter les tomates pelées et du sel, cuire à feu doux avec du basilic.",
+        "Faire cuire pendant au moins 2 à 3 heures pour obtenir une saveur riche et profonde.",
+        "Béchamel : faire fondre le beurre dans une casserole et ajouter la farine, en remuant jusqu'à ce qu'elle dore.",
+        "Verser le lait petit à petit en remuant constamment jusqu'à obtenir une consistance veloutée.",
+        "Ajouter de la muscade (ou du clou de girofle), du sel et du poivre selon le goût.",
+        "Faire cuire à feu doux jusqu'à ce que la béchamel épaississe, en remuant constamment.",
+        "Montage : faire cuire les feuilles de lasagne al dente et les égoutter.",
+        "Dans un plat allant au four, créer des couches alternées de lasagne, de ragù et de béchamel.",
+        "Ajouter du fromage râpé entre les couches, répéter jusqu'à épuisement des ingrédients.",
+        "Cuire au four à 180 °C pendant 40 minutes jusqu'à ce que le tout soit doré et que le fromage fonde.",
+        "Laisser reposer 10 minutes avant de servir."
+      ],
+      "auteur": "Charlène & Francesca",
+      "description_fichier_source": "Captures Screenshot_20260812_173518 à 173523_TikTok.jpg (3 slides)"
+    },
+    {
+      "titre": "Steak haché, sauce aux champignons et gnocchis poêlés",
+      "categorie": "Plats",
+      "description": "Recette pour tenir sa diète : classique revisité, protéiné et gourmand.",
+      "portions": "2 portions",
+      "ingredients": [
+        "2 steaks hachés 5% (≈ 125 g le steak)",
+        "400 g de gnocchis",
+        "2 carottes",
+        "1/2 oignon (≈ 80 g)",
+        "150 g de champignons de Paris",
+        "1 gousse d'ail",
+        "2 tasses de bouillon de bœuf (≈ 480 ml)",
+        "1 c. à s. de concentré de tomate",
+        "1 c. à s. de vinaigre de vin rouge",
+        "10 g de farine",
+        "2 c. à c. d'huile d'olive",
+        "1 c. à c. de paprika",
+        "Sel, poivre",
+        "1 feuille de laurier (optionnel)"
+      ],
+      "etapes": [
+        "Préparer les légumes : couper les carottes en petits cubes, ciseler l'oignon, émincer les champignons, écraser et hacher l'ail.",
+        "Cuire les steaks : les fariner légèrement, les cuire à la poêle avec un peu d'huile, saler, poivrer, réserver.",
+        "Cuire les légumes : dans la même poêle, faire revenir les carottes et l'oignon, ajouter l'ail et le concentré de tomate, mélanger.",
+        "Faire la sauce : ajouter le paprika, déglacer avec le vinaigre de vin rouge, ajouter le bouillon de bœuf (+ laurier si utilisé), laisser réduire jusqu'à obtenir une sauce épaisse.",
+        "Cuire les gnocchis à la poêle jusqu'à ce qu'ils soient dorés, puis ajouter les champignons.",
+        "Assembler : retirer la feuille de laurier, ajouter les gnocchis et champignons dans la sauce, mélanger pour bien enrober.",
+        "Finalisation : réchauffer les steaks dans la sauce si besoin, servir chaud."
+      ],
+      "auteur": "COUTOULY",
+      "description_fichier_source": "Captures Screenshot_20260812_173410 à 173420_TikTok.jpg (recette 85)"
+    },
+    {
+      "titre": "Salade de pommes de terre protéinée",
+      "categorie": "Salades",
+      "description": "Un plat frais, gourmand et ultra complet pour tenir sa diète.",
+      "portions": "4 portions",
+      "ingredients": [
+        "1000 g de pommes de terre",
+        "150 g d'avocat",
+        "250 g de tomates cerises",
+        "300 g de blanc de poulet cuit",
+        "300 g de petit fromage frais",
+        "80 g de bacon fumé",
+        "50 g d'oignon rouge",
+        "15 g de miel",
+        "3 g de cassonade",
+        "3 c. à c. d'huile d'olive",
+        "Sel, poivre, ail, paprika fumé"
+      ],
+      "etapes": [
+        "Cuire les pommes de terre : les couper en morceaux, assaisonner avec sel, poivre, ail, paprika fumé et un peu de cassonade, les faire revenir à la poêle avec un filet d'huile d'olive, ajouter un peu d'eau si besoin, cuire jusqu'à ce qu'elles soient fondantes et légèrement dorées, laisser refroidir complètement.",
+        "Préparer les légumes : émincer finement l'oignon rouge, couper l'avocat en cubes, couper les tomates cerises en deux ou en quartiers.",
+        "Préparer la sauce : dans un bol, mélanger le petit fromage frais avec sel, poivre, ail, paprika fumé et le miel.",
+        "Préparer la garniture : couper le poulet froid en morceaux, faire griller le bacon à la poêle jusqu'à ce qu'il soit croustillant.",
+        "Assemblage : dans un grand saladier, mélanger les pommes de terre froides, l'oignon, l'avocat et les tomates, ajouter le poulet froid, verser la sauce et mélanger pour bien enrober.",
+        "Finition : ajouter le bacon grillé chaud et croustillant sur le dessus."
+      ],
+      "auteur": "COUTOULY",
+      "description_fichier_source": "Captures Screenshot_20260812_173355 à 173405_TikTok.jpg (recette 88)"
+    },
+    {
+      "titre": "Pâtes crémeuses épicées façon Louisiane (diète)",
+      "categorie": "Pâtes",
+      "description": "Crémeux, épicé, protéiné : un aller simple pour la Louisiane version salle de sport.",
+      "portions": "2 portions",
+      "ingredients": [
+        "1 c. à c. d'huile d'olive (≈ 5 g)",
+        "260 g de blanc de poulet",
+        "240 g de pâtes crues",
+        "1 poivron rouge",
+        "1 poivron vert",
+        "2 échalotes (≈ 80 g)",
+        "2 gousses d'ail",
+        "2 c. à s. de concentré de tomate",
+        "200 g de fromage blanc 3 %",
+        "40 g de parmesan râpé",
+        "1 verre d'eau de cuisson des pâtes",
+        "Oignon en poudre",
+        "Sel, poivre"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "COUTOULY",
+      "description_fichier_source": "Capture Screenshot_20260812_173348_TikTok.jpg (recette 68)"
+    },
+    {
+      "titre": "Pâtes crémeuses aux courgettes et dinde",
+      "categorie": "Pâtes",
+      "portions": "2 portions environ",
+      "ingredients": [
+        "4 petites courgettes (ou 2 grosses)",
+        "3 échalotes",
+        "1 c. à s. d'huile d'olive",
+        "Quelques feuilles de basilic",
+        "50 g de parmesan (dont 20 g pour la crème de courgettes)",
+        "10 cl de lait",
+        "1 gousse d'ail",
+        "Sel et poivre",
+        "200 g de dinde (à assaisonner avec sel, poivre, basilic frais et paprika)",
+        "200 g de pâtes cuites",
+        "Environ 15 cl d'eau pour la cuisson des courgettes (à ajuster)"
+      ],
+      "etapes": [
+        "Cuisson des courgettes : 5 minutes à feu vif puis 10 à 15 minutes à feu doux.",
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "astuces": [
+        "Les quantités sont à adapter en fonction de chaque personne."
+      ],
+      "auteur": "Ysaline - diététicienne-nutritionniste",
+      "description_fichier_source": "Captures Screenshot_20260812_173539 et 173543_TikTok.jpg"
+    },
+    {
+      "titre": "Pâtes crémeuses aux poivrons rouges et feta",
+      "categorie": "Pâtes",
+      "portions": "2 portions environ",
+      "ingredients": [
+        "4 poivrons rouges",
+        "3 échalotes",
+        "1 c. à s. d'huile d'olive",
+        "50 g de feta (dont 30 g pour la crème de poivron)",
+        "10 cl de lait",
+        "1 gousse d'ail",
+        "Sel et poivre",
+        "Paprika fumé",
+        "1 à 2 œufs pochés par personne",
+        "200 g de pâtes cuites"
+      ],
+      "etapes": [
+        "Cuisson des poivrons : 5 minutes à feu vif puis 10 à 15 minutes à feu doux.",
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "astuces": [
+        "Les quantités sont à adapter en fonction de chaque personne."
+      ],
+      "auteur": "Ysaline - diététicienne-nutritionniste",
+      "description_fichier_source": "Capture Screenshot_20260812_173342_TikTok.jpg"
+    },
+    {
+      "titre": "Pastéis de nata",
+      "categorie": "Desserts",
+      "ingredients": [
+        { "groupe": "Pâte", "items": ["Pâte feuilletée"] },
+        { "groupe": "Crème", "items": ["35 cl de lait", "4 jaunes d'œufs", "1 œuf entier", "25 g de farine", "135 g de sucre", "Cannelle (optionnel)", "Zeste d'un citron"] }
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Anatole_alp",
+      "description_fichier_source": "Capture Screenshot_20260812_173646_TikTok.jpg"
+    },
+    {
+      "titre": "Riz cantonais",
+      "categorie": "Plats",
+      "description": "Un classique dont on ne se lasse jamais, bien moins cher et meilleur fait soi-même.",
+      "ingredients": [
+        "Riz",
+        "Jambon en dés",
+        "Petits pois",
+        "Oignon",
+        "Huile de tournesol"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "totocuistot",
+      "description_fichier_source": "Capture Screenshot_20260812_173633_TikTok.jpg"
+    },
+    {
+      "titre": "Wrap protéiné avocat, bacon et œuf",
+      "categorie": "Petit-déjeuner",
+      "description": "Parfait pour un petit déjeuner bien protéiné.",
+      "ingredients": [
+        "1 wrap",
+        "1/2 avocat",
+        "Mayonnaise",
+        "Lardons",
+        "2 œufs",
+        "Fromage"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "totocuistot",
+      "description_fichier_source": "Capture Screenshot_20260812_173629_TikTok.jpg"
+    },
+    {
+      "titre": "Boulettes sauce au poivre",
+      "categorie": "Plats",
+      "temps_cuisson": "15 min",
+      "ingredients": [
+        "400 g de bœuf haché",
+        "15 g de poivre",
+        "1 c. à c. de fond de veau",
+        "10 cl de crème",
+        "Un fond d'eau",
+        "2 échalotes",
+        "1 noix de beurre"
+      ],
+      "etapes": [
+        "Faire des boulettes de bœuf.",
+        "Faire revenir les boulettes dans du beurre, les retirer, puis ajouter le poivre, les échalotes et le beurre.",
+        "Mouiller avec le fond de veau dilué et la crème.",
+        "Laisser mijoter 15 min à feu doux puis servir sur les boulettes."
+      ],
+      "auteur": "louloukitchen",
+      "description_fichier_source": "Capture Screenshot_20260812_173620_TikTok.jpg"
+    },
+    {
+      "titre": "Poêlée de poulet au paprika avec riz",
+      "categorie": "Plats",
+      "ingredients": [
+        "Huile d'olive",
+        "400 g de poitrine de poulet",
+        "1 oignon",
+        "2 gousses d'ail",
+        "1 poivron",
+        "250 ml de crème fine",
+        "2 c. à c. de poudre de paprika",
+        "1 c. à s. de curry",
+        "Sel",
+        "Piment",
+        "Persil"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "TagesRezept",
+      "description_fichier_source": "Capture Screenshot_20260812_173551_TikTok.jpg"
+    },
+    {
+      "titre": "Gnocchis de butternut, sauce crème et champignons",
+      "categorie": "Plats",
+      "portions": "4 personnes",
+      "ingredients": [
+        { "groupe": "Gnocchis", "items": ["1 butternut (500 g épluché)", "400 g de farine", "2 jaunes d'œuf", "Parmesan râpé", "Huile d'olive", "Sel, poivre"] },
+        { "groupe": "Sauce crème", "items": ["30 g de beurre", "1 gousse d'ail", "Persil", "Quelques champignons", "25 cl de crème", "Gruyère ou parmesan"] }
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Chef Théo",
+      "description_fichier_source": "Capture Screenshot_20260812_173533_TikTok.jpg"
+    },
+    {
+      "titre": "Gratin dauphinois",
+      "categorie": "Plats",
+      "description": "La bonne tradition française réconfortante quand les températures commencent à chuter.",
+      "ingredients": [
+        "1 kg de pommes de terre à chair ferme",
+        "Beurre, sel, poivre, ail",
+        "40 cl de crème liquide entière",
+        "20 cl de lait"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "edouard cuisine",
+      "description_fichier_source": "Capture Screenshot_20260812_173514_TikTok.jpg"
+    },
+    {
+      "titre": "Nouilles sautées aux légumes",
+      "categorie": "Plats",
+      "portions": "2 personnes",
+      "ingredients": [
+        { "groupe": "Nouilles et légumes", "items": ["1 oignon", "2 gousses d'ail", "1 morceau de gingembre frais", "1 carotte", "1/2 poivron rouge", "1/2 poivron vert", "Champignons", "200 g de nouilles séchées", "Huile"] },
+        { "groupe": "Sauce", "items": ["2 c. à s. de sauce soja", "1 c. à s. de sauce soja foncée", "1 c. à s. de sauce huître", "1 c. à s. d'huile de sésame", "1 c. à c. de poivre", "4 c. à s. d'eau"] }
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Flo",
+      "description_fichier_source": "Capture Screenshot_20260812_173508_TikTok.jpg"
+    },
+    {
+      "titre": "Pâtes crémeuses au coco et poulet",
+      "categorie": "Pâtes",
+      "description": "Ces pâtes crémeuses au coco qui mettent tout le monde d'accord (≈ 650 kcal par assiette).",
+      "portions": "3 portions",
+      "ingredients": [
+        "300 g de spaghettis",
+        "400 g de blanc de poulet",
+        "1 oignon",
+        "2 poivrons",
+        "Huile de noix de coco",
+        "Lait de coco",
+        "Un peu de crème",
+        "Curry de madras, sel, poivre, persil, ail"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Eatwithnounou",
+      "description_fichier_source": "Capture Screenshot_20260812_173457_TikTok.jpg"
+    },
+    {
+      "titre": "Dahl de lentilles corail",
+      "categorie": "Plats",
+      "description": "Un dahl de lentilles corail qui est vraiment une tuerie.",
+      "ingredients": [
+        "200 g de lentilles corail",
+        "50 cl de lait de coco",
+        "2 c. à s. de curry",
+        "1 c. à s. de curcuma",
+        "2 c. à s. de paprika",
+        "1 c. à s. de gingembre en poudre",
+        "1 gousse d'ail",
+        "Persil plat ou coriandre",
+        "Sauce tomate ou concentré"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "totocuistot",
+      "description_fichier_source": "Capture Screenshot_20260812_173448_TikTok.jpg"
+    },
+    {
+      "titre": "Bolognaise végé",
+      "categorie": "Plats",
+      "ingredients": [
+        { "groupe": "Sauce", "items": ["1 carotte", "1/3 de courgette", "50 g de lentilles corail sèches", "Huile d'olive", "Sel", "Ail en poudre", "Origan", "150 g de sauce tomate", "150 ml d'eau", "Pâtes au choix"] },
+        { "groupe": "Topping", "items": ["Parmesan végé (optionnel)"] }
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "apricotmaxine",
+      "description_fichier_source": "Capture Screenshot_20260812_173444_TikTok.jpg"
+    },
+    {
+      "titre": "Riz frit croustillant façon Zelda",
+      "categorie": "Plats",
+      "description": "Une reproduction du riz frit croustillant du jeu vidéo Zelda.",
+      "ingredients": [
+        "Riz rond froid",
+        "Sel classique ou sel de kombu",
+        "Lardons",
+        "Poivre",
+        "Un peu d'oignon vert",
+        "Un peu de carottes",
+        "Un peu de petits pois",
+        "Ail et gingembre",
+        "2 œufs",
+        "1 c. à s. de sauce soja",
+        "Gingembre rouge mariné"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "C'est M★AM",
+      "description_fichier_source": "Capture Screenshot_20260812_173439_TikTok.jpg"
+    },
+    {
+      "titre": "Pâtes crémeuses au steak saisi",
+      "categorie": "Pâtes",
+      "description": "Ambiance resto pour un dîner en amoureux, le tout en 25 minutes.",
+      "temps_total": "25 min",
+      "ingredients": [
+        "400 g de pâtes",
+        "300 g de steak (ribeye ou sirloin)",
+        "200 ml de bouillon de bœuf",
+        "200 ml de crème",
+        "3 gousses d'ail",
+        "1 échalote",
+        "Beurre et huile d'olive",
+        "100 g de parmesan",
+        "Ciboulette fraîche",
+        "Sel et poivre"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "jaros.eats",
+      "description_fichier_source": "Capture Screenshot_20260812_172232_TikTok.jpg"
+    },
+    {
+      "titre": "La véritable carbonara",
+      "categorie": "Pâtes",
+      "ingredients": [
+        "Linguine",
+        "Pancetta",
+        "5 jaunes d'œufs",
+        "Pecorino",
+        "Parmesan",
+        "Poivre"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Seize May",
+      "description_fichier_source": "Capture Screenshot_20260812_172224_TikTok.jpg"
+    },
+    {
+      "titre": "Panzerotti maison",
+      "categorie": "Plats",
+      "description": "Goûtés à Milan, tellement bons qu'il fallait absolument les refaire à la maison.",
+      "portions": "4 à 6 panzerottis",
+      "ingredients": [
+        { "groupe": "Pâte", "items": ["500 g de pâte à pizza ou à pain (boulangerie)"] },
+        { "groupe": "Garniture", "items": ["200 g de mozzarella râpée", "200 g de tomates concassées", "1 gousse d'ail", "Sel, poivre", "1 pincée d'origan"] },
+        { "groupe": "Cuisson", "items": ["Huile de friture (tournesol ou arachide)"] }
+      ],
+      "etapes": [
+        "Diviser la pâte en 4 à 6 parts selon la taille voulue, puis les étaler en ovales.",
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "miamzozo",
+      "description_fichier_source": "Capture Screenshot_20260812_172216_TikTok.jpg"
+    },
+    {
+      "titre": "Roses de pizza au chorizo (airfryer)",
+      "categorie": "Entrées",
+      "description": "Menu Saint-Valentin, épisode 1 : l'entrée ! Idéal aussi pour l'apéritif.",
+      "temps_cuisson": "16 min à l'airfryer (ou 20 min au four à 200 °C)",
+      "ingredients": [
+        "1 pâte à pizza",
+        "4 c. à s. de sauce tomate",
+        "Mozzarella râpée",
+        "Chorizo en tranches",
+        "Lait (pour la dorure)"
+      ],
+      "etapes": [
+        "Découper 4 grosses bandes dans la pâte à pizza.",
+        "Tartiner de sauce tomate, parsemer de fromage râpé et déposer des demi-rondelles de chorizo.",
+        "Rouler délicatement pour former la rose, badigeonner de lait et déposer dans des moules à gros muffins.",
+        "Cuire à l'airfryer 16 min à 180 °C (ou au four, plutôt 20 min à 200 °C)."
+      ],
+      "auteur": "Eva - Foodiz",
+      "description_fichier_source": "Captures Screenshot_20260812_172237 et 172250_TikTok.jpg"
+    },
+    {
+      "titre": "Tartare de truite sur chips de riz",
+      "categorie": "Entrées",
+      "ingredients": [
+        "Feuille de riz",
+        "Jaune d'œuf",
+        "Filet de truite",
+        "Kiwi gold",
+        "Échalote",
+        "Coriandre",
+        "Sauce soja",
+        "Huile de sésame",
+        "Nuoc mam",
+        "Sésame noir et doré",
+        "Poivre"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Qistoh",
+      "description_fichier_source": "Capture Screenshot_20260812_172133_TikTok.jpg"
+    },
+    {
+      "titre": "Ribs de bœuf fondantes",
+      "categorie": "Plats",
+      "portions": "4 personnes",
+      "ingredients": [
+        "1,5 à 2 kg de ribs de bœuf (travers de bœuf ou plat de côtes)",
+        "4 c. à s. de moutarde",
+        "2 c. à c. de paprika fumé",
+        "1 c. à c. de cumin",
+        "1 c. à c. d'ail en poudre",
+        "1/2 c. à c. de piment",
+        "Sel et poivre",
+        "Sauce barbecue maison ou du commerce"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "CookWithBash",
+      "description_fichier_source": "Capture Screenshot_20260812_172105_TikTok.jpg"
+    },
+    {
+      "titre": "Sandwich bavette au poivre",
+      "categorie": "Plats",
+      "portions": "2 à 3 personnes",
+      "ingredients": [
+        { "groupe": "Sandwich", "items": ["300 g de bavette", "1 baguette", "3 échalotes", "30 g de beurre (ou plus)", "75 g de crème", "Poivre noir de bonne qualité", "2 patates"] },
+        { "groupe": "Mayonnaise maison", "items": ["1 jaune d'œuf", "1 c. à c. de moutarde", "1 c. à s. de vinaigre de cidre", "150 ml d'huile neutre"] }
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Chef Théo",
+      "description_fichier_source": "Capture Screenshot_20260812_172100_TikTok.jpg"
+    },
+    {
+      "titre": "Sauce façon Big Mac allégée",
+      "categorie": "Sauces",
+      "description": "19 kcal la portion de 30 g, contre 75-80 kcal pour une portion équivalente de sauce Big Mac classique.",
+      "portions": "environ 500 g",
+      "ingredients": [
+        "250 g de skyr nature",
+        "100 g de mayo extra light (thomy ou équivalent)",
+        "70 g de cornichons",
+        "30 g de moutarde américaine",
+        "30 g de jus de cornichons",
+        "1 c. à s. de vinaigre blanc",
+        "1 c. à c. de paprika",
+        "1 c. à c. d'oignon en poudre",
+        "1/2 c. à c. d'ail en poudre",
+        "1/8 c. à c. de curcuma",
+        "1/2 c. à c. de sauce Worcestershire",
+        "1 à 2 c. à c. d'érythritol (optionnel)",
+        "Sel et poivre"
+      ],
+      "etapes": [
+        "Mixer tous les ingrédients (sauf les cornichons) au blender 30 secondes jusqu'à obtenir une sauce bien lisse.",
+        "Ajouter les cornichons après le mixage pour retrouver de petits morceaux."
+      ],
+      "astuces": [
+        "Pas de mayo extra light sous la main ? Remplacer par 100 g de skyr supplémentaire."
+      ],
+      "auteur": "Babou | SwissFitCook",
+      "description_fichier_source": "Captures Screenshot_20260812_172020 et 172044_TikTok.jpg"
+    },
+    {
+      "titre": "Sauce tahini citron balsamique",
+      "categorie": "Sauces",
+      "description": "Une sauce crémeuse au tahini, citron et balsamique qui accompagne poulet, bœuf, légumes grillés et patates.",
+      "portions": "environ 500 ml",
+      "ingredients": [
+        "300 g de yaourt grec 0%",
+        "70 g de tahini",
+        "25 g de jus de citron + le zeste d'un citron",
+        "15 g de vinaigre balsamique blanc",
+        "1 grosse gousse d'ail",
+        "1 c. à c. de thym",
+        "1/2 c. à c. de cumin moulu",
+        "5 g de sirop d'agave",
+        "Sel et poivre"
+      ],
+      "etapes": [
+        "Mettre tous les ingrédients dans le blender.",
+        "Mixer jusqu'à obtenir une texture lisse et crémeuse.",
+        "Ajuster avec 20 à 40 ml d'eau froide jusqu'à obtenir une sauce bien nappante.",
+        "Goûter et rectifier le sel, le poivre ou le citron."
+      ],
+      "auteur": "Babou | SwissFitCook",
+      "description_fichier_source": "Captures Screenshot_20260812_171936 et 171942_TikTok.jpg"
+    },
+    {
+      "titre": "Pâte à tout faire (base diète)",
+      "categorie": "Snacks",
+      "description": "La base pour de nombreuses recettes de diète : buns, pizza, etc.",
+      "ingredients": [
+        "120 g de skyr",
+        "120 g de farine",
+        "5 g de levure",
+        "Une pincée de sel"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Matthieu FITJF",
+      "description_fichier_source": "Capture Screenshot_20260812_171902_TikTok.jpg"
+    },
+    {
+      "titre": "Buns cheeseburger (pâte à tout faire)",
+      "categorie": "Snacks",
+      "description": "Nouvelle recette de buns cheeseburger avec la pâte à tout faire.",
+      "portions": "1 bun (recette pour un bun)",
+      "ingredients": [
+        "20 g de cheddar",
+        "60 g de farine de blé",
+        "60 g de skyr",
+        "2,5 g de levure chimique",
+        "75 g de bœuf 5%",
+        "15 g de moutarde américaine",
+        "15 g de ketchup curry"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "astuces": [
+        "Préparer 2 buns d'un coup en doublant les quantités, pour ne pas rater la pâte."
+      ],
+      "auteur": "Matthieu FITJF",
+      "description_fichier_source": "Capture Screenshot_20260812_171952_TikTok.jpg"
+    },
+    {
+      "titre": "Burritos meal prep (bœuf, riz, poivrons)",
+      "categorie": "Plats",
+      "description": "1h pour préparer 1 mois de déjeuners en avance (≈ 583 kcal, Prot 51g/Gluc 57g/Lip 15g par wrap).",
+      "portions": "20 wraps",
+      "ingredients": [
+        { "groupe": "Farce", "items": ["1250 g de bœuf haché", "2 oignons rouges", "4 poivrons rouges", "300 g de sauce fajita (Old El Paso)", "3 c. à c. de paprika", "3 c. à c. de poudre d'ail", "2 c. à c. de cumin", "2 c. à c. d'origan", "3 c. à c. de sel", "2 c. à c. de poivre noir", "5 c. à s. de concentré de tomate"] },
+        { "groupe": "Riz parfumé", "items": ["300 g de riz", "1 bouillon de poule"] },
+        { "groupe": "Assemblage", "items": ["20 tortillas", "300 g de fromage râpé"] }
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Roro Cuistot",
+      "description_fichier_source": "Capture Screenshot_20260812_171947_TikTok.jpg"
+    },
+    {
+      "titre": "Sushi bowl 2 minutes chrono",
+      "categorie": "Plats",
+      "description": "Parfait pour un repas rapide en été !",
+      "temps_total": "2 min",
+      "ingredients": [
+        "Saumon",
+        "Philadelphia",
+        "Avocat",
+        "Riz",
+        "Sésame"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Valentina.Healthy",
+      "description_fichier_source": "Capture Screenshot_20260812_171916_TikTok.jpg"
+    },
+    {
+      "titre": "Pâtes carbo avocado",
+      "categorie": "Pâtes",
+      "ingredients": [
+        "Pâtes",
+        "Avocats",
+        "Lardons",
+        "Œufs",
+        "Parmesan",
+        "1 jaune d'œuf par personne"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Salty Leo",
+      "description_fichier_source": "Capture Screenshot_20260812_171858_TikTok.jpg"
+    },
+    {
+      "titre": "Œufs à l'espagnole (à MA façon)",
+      "categorie": "Plats",
+      "ingredients": [
+        "6 œufs",
+        "1/4 de chorizo",
+        "2 poivrons (rouge et jaune)",
+        "2 grosses tomates",
+        "1 petit pot de pulpe de tomate si besoin",
+        "2 gousses d'ail",
+        "1 poignée de persil"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Comment cuisiner",
+      "description_fichier_source": "Capture Screenshot_20260812_171852_TikTok.jpg"
+    },
+    {
+      "titre": "Chicken Chukani (poulet népalais)",
+      "categorie": "Plats",
+      "ingredients": [
+        { "groupe": "Poulet", "items": ["Cuisses désossées en morceaux", "1 c. à c. de pâte d'ail et gingembre", "1 c. à c. de chili powder", "1 c. à c. de curcuma", "1 c. à c. de sel et poivre", "Un peu de citron", "1 oignon rouge", "Un peu de piment vert", "Coriandre"] },
+        { "groupe": "Huile parfumée", "items": ["Huile", "1 c. à c. de paprika fumé", "1 c. à c. de curcuma"] },
+        { "groupe": "Sauce au yaourt", "items": ["Yaourt grec", "1 gousse d'ail", "Une pincée de sel", "Une pincée de sucre"] }
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Ammey Food",
+      "description_fichier_source": "Capture Screenshot_20260812_171846_TikTok.jpg"
+    },
+    {
+      "titre": "Kebab fait maison",
+      "categorie": "Plats",
+      "ingredients": [
+        "1 kg de bœuf haché",
+        "2 oignons",
+        "2 c. à s. de yaourt nature",
+        "Sel",
+        "Poivre",
+        "Paprika",
+        "Persil",
+        "Ail"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "MalcomsFood",
+      "description_fichier_source": "Capture Screenshot_20260812_172255_TikTok.jpg"
+    },
+    {
+      "titre": "Salade de pâtes stracciatella et pesto",
+      "categorie": "Salades",
+      "ingredients": [
+        "Pâtes",
+        "Stracciatella",
+        "Pesto verde",
+        "Tomate",
+        "Oignon rouge",
+        "Basilic"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Lisaventure",
+      "description_fichier_source": "Capture Screenshot_20260812_173328_TikTok.jpg"
+    },
+    {
+      "titre": "Tarte tatin de tomates cerises",
+      "categorie": "Entrées",
+      "ingredients": [
+        "Pâte brisée",
+        "Tomates cerises",
+        "Vinaigre balsamique",
+        "Ricotta",
+        "Huile d'olive",
+        "Origan",
+        "Miel",
+        "Stracciatella"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Lisaventure",
+      "description_fichier_source": "Capture Screenshot_20260812_173325_TikTok.jpg"
+    },
+    {
+      "titre": "Sushi rapide (moule à glaçons)",
+      "categorie": "Plats",
+      "ingredients": [
+        "Bac à glaçons",
+        "Truite",
+        "Avocat",
+        "Philadelphia",
+        "Riz gluant",
+        "Mayonnaise",
+        "Sriracha",
+        "Film alimentaire",
+        "Graines de sésame"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "Lisaventure",
+      "description_fichier_source": "Capture Screenshot_20260812_173316_TikTok.jpg"
+    },
+    {
+      "titre": "Burrito protéiné maison",
+      "categorie": "Plats",
+      "description": "704 kcal par portion — G:37/P:79/L:26.",
+      "portions": "2 portions",
+      "ingredients": [
+        "230 g de pomme de terre",
+        "255 g de carottes",
+        "250 g de courgette",
+        "2 œufs (103 g)",
+        "1 blanc d'œuf (30 g)",
+        "150 g d'emmental light",
+        "200 g de filet de poulet",
+        "300 g de cottage cheese",
+        "40 g de fromage blanc 0%",
+        "Mélange d'épices",
+        "130 g de salade",
+        "1 tomate (150 g)"
+      ],
+      "etapes": [
+        "Étapes non détaillées dans la légende — voir la vidéo source."
+      ],
+      "auteur": "recettes.de.vince",
+      "description_fichier_source": "Capture Screenshot_20260812_172155_TikTok.jpg"
+    },
+    {
+      "titre": "Twists feuilletés au pesto et fromage",
+      "categorie": "Snacks",
+      "temps_cuisson": "15 à 17 min",
+      "ingredients": [
+        "Pâte feuilletée",
+        "Pesto",
+        "Fromage à la crème",
+        "Cheddar",
+        "Œuf",
+        "Parmesan",
+        "Graines de sésame"
+      ],
+      "etapes": [
+        "Étaler le pesto sur une moitié de la pâte feuilletée et le fromage à la crème sur l'autre.",
+        "Ajouter du cheddar râpé par-dessus, plier en deux puis couper en lanières.",
+        "Enrouler chaque lanière, badigeonner d'œuf, ajouter du parmesan et des graines de sésame.",
+        "Cuire 15 à 17 min à 180 °C."
+      ],
+      "auteur": "IvannaBits",
+      "description_fichier_source": "Capture Screenshot_20260812_173336_TikTok.jpg"
+    }
+  ]
 }
