@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>{{ titre }}</title>
+<style>
+  @page { size: A4; margin: 18mm 16mm; }
+
+  :root {
+    --encre: #241f1c;
+    --doux: #6b625c;
+    --trait: #ddd4cb;
+    --accent: #b4552d;
+    --fond-bloc: #faf6f1;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    color: var(--encre);
+    font-size: 10.5pt;
+    line-height: 1.55;
+  }
+
+  /* --- Couverture --- */
+  .couverture {
+    height: 245mm;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    page-break-after: always;
+  }
+  .couverture h1 {
+    font-size: 34pt;
+    margin: 0 0 6mm;
+    letter-spacing: -0.5pt;
+    line-height: 1.1;
+  }
+  .couverture .sous {
+    font-size: 13pt;
+    color: var(--doux);
+    font-style: italic;
+    margin-bottom: 12mm;
+  }
+  .couverture .filet {
+    width: 40mm;
+    border-top: 2px solid var(--accent);
+    margin-bottom: 12mm;
+  }
+  .couverture .compte {
+    font-size: 10pt;
+    color: var(--doux);
+    text-transform: uppercase;
+    letter-spacing: 2pt;
+  }
+
+  /* --- Sommaire --- */
+  .sommaire { page-break-after: always; }
+  .sommaire h2 {
+    font-size: 20pt;
+    margin: 0 0 8mm;
+    padding-bottom: 3mm;
+    border-bottom: 1px solid var(--trait);
+  }
+  .sommaire .categorie {
+    font-size: 9pt;
+    text-transform: uppercase;
+    letter-spacing: 1.5pt;
+    color: var(--accent);
+    margin: 7mm 0 3mm;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  .sommaire ol { margin: 0; padding-left: 6mm; }
+  .sommaire li { margin-bottom: 1.6mm; }
+  .sommaire .meta-som { color: var(--doux); font-size: 9pt; }
+
+  /* --- Recette --- */
+  .recette { page-break-before: always; }
+  .recette .numero {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 9pt;
+    letter-spacing: 2pt;
+    color: var(--accent);
+    text-transform: uppercase;
+    margin-bottom: 2mm;
+  }
+  .recette h2 {
+    font-size: 22pt;
+    margin: 0 0 3mm;
+    line-height: 1.15;
+  }
+  .recette .description {
+    color: var(--doux);
+    font-style: italic;
+    margin: 0 0 5mm;
+  }
+
+  .infos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 8mm;
+    padding: 3mm 0;
+    border-top: 1px solid var(--trait);
+    border-bottom: 1px solid var(--trait);
+    margin-bottom: 6mm;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 8.5pt;
+  }
+  .infos div { line-height: 1.4; }
+  .infos .etiquette {
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 1pt;
+    color: var(--doux);
+    font-size: 7pt;
+  }
+  .infos .valeur { font-weight: bold; }
+
+  .corps { display: flex; gap: 8mm; align-items: flex-start; }
+  .colonne-ingredients { flex: 0 0 58mm; }
+  .colonne-etapes { flex: 1; }
+
+  h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 9pt;
+    text-transform: uppercase;
+    letter-spacing: 1.5pt;
+    margin: 0 0 3mm;
+    color: var(--accent);
+  }
+
+  .ingredients {
+    background: var(--fond-bloc);
+    border-radius: 2mm;
+    padding: 4mm;
+  }
+  .ingredients ul { margin: 0; padding-left: 4mm; }
+  .ingredients li { margin-bottom: 1.5mm; page-break-inside: avoid; }
+  .ingredients .groupe {
+    font-weight: bold;
+    font-size: 9pt;
+    margin: 3mm 0 1.5mm;
+  }
+  .ingredients .groupe:first-child { margin-top: 0; }
+
+  .etapes { margin: 0; padding-left: 5mm; }
+  .etapes li { margin-bottom: 3mm; page-break-inside: avoid; }
+
+  .astuces {
+    margin-top: 6mm;
+    padding: 3.5mm 4mm;
+    border-left: 2px solid var(--accent);
+    background: var(--fond-bloc);
+    font-size: 9.5pt;
+  }
+  .astuces ul { margin: 0; padding-left: 4mm; }
+  .astuces li { margin-bottom: 1.5mm; }
+
+  .source {
+    margin-top: 7mm;
+    padding-top: 2.5mm;
+    border-top: 1px solid var(--trait);
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 7.5pt;
+    color: var(--doux);
+    word-break: break-all;
+  }
+  .source a { color: var(--doux); text-decoration: none; }
+</style>
+</head>
+<body>
+
+<section class="couverture">
+  <h1>{{ titre }}</h1>
+  {% if sous_titre %}<div class="sous">{{ sous_titre }}</div>{% endif %}
+  <div class="filet"></div>
+  <div class="compte">{{ recettes|length }} recette{{ 's' if recettes|length > 1 else '' }}</div>
+</section>
+
+<section class="sommaire">
+  <h2>Sommaire</h2>
+  {% for categorie, groupe in par_categorie %}
+    <div class="categorie">{{ categorie }}</div>
+    <ol>
+      {% for r in groupe %}
+      <li>
+        {{ r.titre }}
+        {% if r.temps_total %}<span class="meta-som"> — {{ r.temps_total }}</span>{% endif %}
+      </li>
+      {% endfor %}
+    </ol>
+  {% endfor %}
+</section>
+
+{% for r in recettes %}
+<section class="recette">
+  <div class="numero">Recette {{ loop.index }}{% if r.categorie %} · {{ r.categorie }}{% endif %}</div>
+  <h2>{{ r.titre }}</h2>
+  {% if r.description %}<p class="description">{{ r.description }}</p>{% endif %}
+
+  {% if r.portions or r.temps_preparation or r.temps_cuisson or r.temps_total or r.difficulte %}
+  <div class="infos">
+    {% if r.portions %}<div><span class="etiquette">Portions</span><span class="valeur">{{ r.portions }}</span></div>{% endif %}
+    {% if r.temps_preparation %}<div><span class="etiquette">Préparation</span><span class="valeur">{{ r.temps_preparation }}</span></div>{% endif %}
+    {% if r.temps_cuisson %}<div><span class="etiquette">Cuisson</span><span class="valeur">{{ r.temps_cuisson }}</span></div>{% endif %}
+    {% if r.temps_total %}<div><span class="etiquette">Total</span><span class="valeur">{{ r.temps_total }}</span></div>{% endif %}
+    {% if r.difficulte %}<div><span class="etiquette">Difficulté</span><span class="valeur">{{ r.difficulte }}</span></div>{% endif %}
+  </div>
+  {% endif %}
+
+  <div class="corps">
+    <div class="colonne-ingredients">
+      <h3>Ingrédients</h3>
+      <div class="ingredients">
+        {% for bloc in r.ingredients_blocs %}
+          {% if bloc.groupe %}<div class="groupe">{{ bloc.groupe }}</div>{% endif %}
+          <ul>
+            {% for i in bloc["items"] %}<li>{{ i }}</li>{% endfor %}
+          </ul>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="colonne-etapes">
+      <h3>Préparation</h3>
+      <ol class="etapes">
+        {% for e in r.etapes %}<li>{{ e }}</li>{% endfor %}
+      </ol>
+
+      {% if r.astuces %}
+      <div class="astuces">
+        <h3>Astuces</h3>
+        <ul>
+          {% for a in r.astuces %}<li>{{ a }}</li>{% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+
+  {% if r.source or r.auteur %}
+  <div class="source">
+    Source&nbsp;: {% if r.auteur %}{{ r.auteur }}{% endif %}{% if r.auteur and r.source %} · {% endif %}{% if r.source %}<a href="{{ r.source }}">{{ r.source }}</a>{% endif %}
+  </div>
+  {% endif %}
+</section>
+{% endfor %}
+
+</body>
+</html>

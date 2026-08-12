@@ -1,0 +1,51 @@
+{
+  "titre": "Mes recettes TikTok",
+  "sous_titre": "Collection personnelle",
+  "recettes": [
+    {
+      "titre": "Pâtes crémeuses à la feta rôtie",
+      "categorie": "Plats",
+      "description": "Le classique TikTok : un bloc de feta au four, des tomates cerises, et tout se mélange.",
+      "portions": "4 personnes",
+      "temps_preparation": "10 min",
+      "temps_cuisson": "35 min",
+      "temps_total": "45 min",
+      "difficulte": "Facile",
+      "ingredients": [
+        { "groupe": "Au four", "items": ["1 bloc de feta (200 g)", "500 g de tomates cerises", "4 c. à s. d'huile d'olive", "3 gousses d'ail", "Origan, sel, poivre"] },
+        { "groupe": "Pour finir", "items": ["400 g de pâtes courtes", "1 poignée de basilic frais"] }
+      ],
+      "etapes": [
+        "Préchauffer le four à 200 °C.",
+        "Déposer le bloc de feta au centre d'un plat, entourer des tomates cerises et des gousses d'ail.",
+        "Arroser d'huile d'olive, saler, poivrer, saupoudrer d'origan.",
+        "Enfourner 35 minutes, jusqu'à ce que les tomates éclatent et que la feta dore.",
+        "Pendant ce temps, cuire les pâtes al dente. Réserver une louche d'eau de cuisson.",
+        "Écraser le tout à la fourchette, ajouter les pâtes et un peu d'eau de cuisson pour lier.",
+        "Parsemer de basilic et servir aussitôt."
+      ],
+      "astuces": [
+        "Garde toujours un peu d'eau de cuisson : c'est elle qui rend la sauce crémeuse.",
+        "Une pincée de piment en flocons relève bien l'ensemble."
+      ],
+      "auteur": "@exemple",
+      "source": "https://www.tiktok.com/@exemple/video/000000"
+    },
+    {
+      "titre": "Cookies moelleux 3 ingrédients",
+      "categorie": "Desserts",
+      "portions": "12 cookies",
+      "temps_total": "20 min",
+      "difficulte": "Très facile",
+      "ingredients": ["1 banane bien mûre", "150 g de flocons d'avoine", "80 g de pépites de chocolat"],
+      "etapes": [
+        "Écraser la banane à la fourchette.",
+        "Mélanger avec les flocons d'avoine et les pépites.",
+        "Former 12 tas sur une plaque, aplatir légèrement.",
+        "Cuire 15 minutes à 180 °C."
+      ],
+      "auteur": "@exemple2",
+      "source": "https://www.tiktok.com/@exemple2/video/111111"
+    }
+  ]
+}
