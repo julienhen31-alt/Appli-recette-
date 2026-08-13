@@ -26,6 +26,7 @@
 <script>if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('sw.js').catch(function(){});});}</script>
 </head>
 <body>
+  <div id="__fs_cover" style="position:fixed;inset:0;z-index:2147483647;background:#f5ead8;"></div>
   <div id="__bundler_thumbnail"><svg xmlns="http://www.w3.org/2000/svg" sc-camel-view-box="0 0 120 120"><rect width="120" height="120" fill="#f5ead8"></rect><circle cx="60" cy="62" r="30" fill="#c67139"></circle><path d="M42 58h36a18 18 0 0 1-36 0z" fill="#f5ead8"></path><rect x="40" y="80" width="40" height="5" rx="2.5" fill="#f5ead8"></rect><rect x="52" y="28" width="4" height="16" rx="2" fill="#7a8a5e"></rect><rect x="64" y="28" width="4" height="16" rx="2" fill="#7a8a5e"></rect></svg></div>
   <div id="__bundler_loading">Unpacking...</div>
 
@@ -419,12 +420,18 @@ document.addEventListener('DOMContentLoaded', async function() {
       frame.style.boxShadow = 'none';
       try { document.documentElement.style.background = getComputedStyle(frame).backgroundColor; } catch(e){}
       document.body.style.margin = '0';
+      var cover = document.getElementById('__fs_cover');
+      if (cover) cover.remove();
       return true;
     }
     var tries = 0;
     var iv = setInterval(function(){
       tries++;
-      if (goFullscreen() || tries > 150) clearInterval(iv);
+      if (goFullscreen() || tries > 150) {
+        clearInterval(iv);
+        var cover = document.getElementById('__fs_cover');
+        if (cover) cover.remove();
+      }
     }, 100);
   })();
   </script>
