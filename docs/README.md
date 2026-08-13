@@ -5,7 +5,7 @@ App perso : ce que j'ai dans le frigo + ce qui est en promo → les recettes qui
 
 ## Mettre l'app en ligne (une fois)
 
-1. Ce dossier `docs/` est déjà à la racine du dépôt (index.html, sw.js, manifest.webmanifest, icon-192.png, icon-512.png).
+1. Copier le dossier `docs/` à la racine de ce dépôt : `index.html` (la coquille installable), `app.html` (l'app), `sw.js`, `manifest.webmanifest`, `icon-192.png`, `icon-512.png`.
 2. Dépôt → **Settings → Pages** → Source : `Deploy from a branch`, branche `claude/tiktok-recipes-document-xrd66y`, dossier **`/docs`** → Save.
 3. Au bout d'une minute l'app est sur `https://julienhen31-alt.github.io/Appli-recette-/`.
 
@@ -31,4 +31,4 @@ le service worker met la page en cache et les recettes sont copiées dans le sto
 
 ## Mettre à jour l'app
 
-Regénérer `docs/index.html` depuis la source de la maquette, pousser, et incrémenter `CACHE` dans `docs/sw.js` (`frigo-recettes-v2`, etc.) pour forcer le rafraîchissement.
+Regénérer `docs/app.html` depuis la source de la maquette, pousser, et incrémenter `CACHE` dans `docs/sw.js` (`frigo-recettes-v4`, etc.) pour forcer le rafraîchissement. `index.html` n'a pas besoin de changer.
