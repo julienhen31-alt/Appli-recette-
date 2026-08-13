@@ -1,7 +1,0 @@
-{
-  "nom": "Test de synchro — à supprimer",
-  "categorie": "Plats",
-  "temps": 5,
-  "ingredients": ["test"],
-  "steps": ["Ceci est un fichier de test créé pour vérifier que l'écriture dans recettes/ fonctionne."]
-}
