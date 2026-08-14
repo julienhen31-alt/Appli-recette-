@@ -1,0 +1,21 @@
+{
+  "id": 1786707622351,
+  "nom": "Gg",
+  "cat": "Plats",
+  "temps": 20,
+  "kcal": 0,
+  "prot": 0,
+  "est": 0,
+  "tags": [],
+  "ing": [
+    "poivron"
+  ],
+  "steps": [
+    "Bbj"
+  ],
+  "src": "Ma recette",
+  "q": {
+    "pancetta": "5g",
+    "poivron": "7"
+  }
+}
