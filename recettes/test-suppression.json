@@ -1,0 +1,16 @@
+{
+  "id": 1786800100000,
+  "nom": "Recette test 2 (à supprimer)",
+  "cat": "Snacks",
+  "temps": 5,
+  "kcal": 100,
+  "prot": 2,
+  "est": 1,
+  "tags": [],
+  "ing": ["pain", "beurre"],
+  "steps": [
+    "Tartiner le beurre sur le pain.",
+    "Manger."
+  ],
+  "src": "Ma recette"
+}
