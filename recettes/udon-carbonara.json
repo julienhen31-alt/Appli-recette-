@@ -14,6 +14,12 @@
     "œufs": "2",
     "parmesan": "20g"
   },
+  "port": "1 personne",
+  "prep": 2,
+  "cuis": 3,
+  "diff": "Facile",
+  "cout": "€",
+  "astuce": "Verse l'eau de cuisson des udon hors du feu avant de mélanger l'œuf et le parmesan : ça évite que l'œuf ne coagule en grumeaux.",
   "steps": [
     "Faire cuire le bacon dans une poêle.",
     "Faire cuire les udon 2 minutes dans l'eau.",
