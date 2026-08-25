@@ -1,0 +1,26 @@
+{
+  "id": 1787641574197,
+  "nom": "Udon carbonara",
+  "cat": "Pâtes",
+  "temps": 5,
+  "kcal": 752,
+  "prot": 54,
+  "est": 0,
+  "tags": ["seche", "rapide"],
+  "ing": ["udon", "bacon", "œufs", "parmesan"],
+  "q": {
+    "udon": "300g",
+    "bacon": "100g",
+    "œufs": "2",
+    "parmesan": "20g"
+  },
+  "steps": [
+    "Faire cuire le bacon dans une poêle.",
+    "Faire cuire les udon 2 minutes dans l'eau.",
+    "Ajouter les udon dans la poêle pour finir la cuisson.",
+    "Préparer la sauce en mélangeant le parmesan et un œuf entier.",
+    "Verser la sauce et un peu d'eau de cuisson dans la poêle, puis ajouter du poivre.",
+    "Servir dans un bol avec le jaune du deuxième œuf sur le dessus."
+  ],
+  "src": "Ma recette"
+}
