@@ -1,4 +1,4 @@
-const CACHE='frigo-recettes-v17';
+const CACHE='frigo-recettes-v18';
 const ASSETS=['./','./index.html','./app.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',e=>{
   e.waitUntil(caches.open(CACHE).then(c=>Promise.all(ASSETS.map(u=>fetch(u,{cache:'reload'}).then(r=>c.put(u,r)).catch(()=>{})))).then(()=>self.skipWaiting()));
