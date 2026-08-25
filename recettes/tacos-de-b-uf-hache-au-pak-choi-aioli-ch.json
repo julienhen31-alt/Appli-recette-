@@ -1,0 +1,52 @@
+{
+  "id": 1787681156942,
+  "nom": "Tacos de bœuf haché au pak choï, aïoli chili et salade chou-carotte",
+  "cat": "Salades",
+  "temps": 14,
+  "kcal": 967,
+  "prot": 34,
+  "est": 0,
+  "tags": [
+    "viande",
+    "rapide"
+  ],
+  "ing": [
+    "oignon",
+    "pak choï",
+    "citron",
+    "viande hachée au bœuf",
+    "sauce soja réduite en sel",
+    "mini tortillas",
+    "aïoli",
+    "sauce au chili sucrée et épicée",
+    "carotte",
+    "huile de tournesol",
+    "vinaigre balsamique blanc ou de riz"
+  ],
+  "q": {
+    "oignon": "2 pièce(s)",
+    "pak choï": "2 pièce(s)",
+    "citron": "¾ pièce(s)",
+    "viande hachée au bœuf": "1 paquet(s)",
+    "sauce soja réduite en sel": "30 ml",
+    "mini tortillas": "12 pièce(s)",
+    "aïoli": "2 sachet(s)",
+    "sauce au chili sucrée et épicée": "1 ½ sachet(s)",
+    "carotte": "2 pièce(s)",
+    "huile de tournesol": "4 cs",
+    "vinaigre balsamique blanc ou de riz": "3 cc"
+  },
+  "port": "3 personnes",
+  "prep": 5,
+  "cuis": 9,
+  "diff": "Facile",
+  "cout": "€€€",
+  "steps": [
+    "Sortez vos planches !. Si vous n’avez pas de micro-ondes, préchauffez le four à 180 °C (160 °C chaleur tournante). Coupez l’oignon en fines demi-lunes. Retirez la base dure des pak choï, puis coupez-les en fines lanières. Coupez le citron en quartiers.",
+    "Mission cuisson activée. Faites chauffer un filet d’huile de tournesol dans une grande poêle à feu vif. Faites-y revenir le bœuf haché, les pak choï et l’oignon 3-4 min, en remuant régulièrement et en émiettant la viande avec une spatule. Ajoutez la sauce soja et faites sauter le tout 2-3 min supplémentaires.",
+    "Sauce qui peut !. Sortez les tortillas de leur sachet et enveloppez-les dans de l’aluminium. Enfournez-les 3-5 min (voir L’ASTUCE). Pendant ce temps, mélangez l’aïoli avec la sauce au chili sucrée et épicée (ça pique ! Dosez-la selon votre goût) dans un bol. Pressez quelques gouttes de citron dans la sauce (selon votre goût).",
+    "Place au dressage. Dans un saladier, versez un filet d’huile de tournesol et de vinaigre balsamique, du sel et du poivre. Ajoutez-y le mélange chou-carotte au moment de servir, puis mélangez. Servez la viande et le pak choï dans un bol. Disposez les garnitures à table, avec 3 tortillas par personne et les quartiers de citron, pour que chacun garnisse ses tacos à sa guise."
+  ],
+  "src": "Ma recette",
+  "astuce": "Si vous avez un micro-ondes, percez le sachet des tortillas et faites-les chauffer 35-40 secondes avant de servir. Pour votre apéro, s’il vous reste des tortillas, coupez-les en 8 triangles pour faire des chips. Enfournez-les 4-5 min."
+}

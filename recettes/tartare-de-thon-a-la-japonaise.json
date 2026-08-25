@@ -1,0 +1,43 @@
+{
+  "id": 1787681157018,
+  "nom": "Tartare de thon à la japonaise",
+  "cat": "Entrées",
+  "temps": 15,
+  "kcal": 250,
+  "prot": 27,
+  "est": 0,
+  "tags": [
+    "healthy",
+    "seche",
+    "rapide"
+  ],
+  "ing": [
+    "thon sashimi",
+    "edamames",
+    "ciboule",
+    "gingembre frais",
+    "sauce soja",
+    "huile de sésame",
+    "citron vert"
+  ],
+  "q": {
+    "thon sashimi": "600 g en cubes",
+    "edamames": "100 g",
+    "ciboule": "2 c. à s.",
+    "gingembre frais": "1 cm",
+    "sauce soja": "2 c. à s.",
+    "huile de sésame": "1 c. à s.",
+    "citron vert": "1"
+  },
+  "port": "4 personnes",
+  "prep": 15,
+  "cuis": 0,
+  "diff": "Facile",
+  "cout": "€€€",
+  "steps": [
+    "Faites cuire les edamames quelques minutes dans de l’eau bouillante salée, puis égouttez-les et laissez-les refroidir. Hachez la ciboule.",
+    "Mélangez délicatement les cubes de thon avec les edamames, le gingembre râpé et la ciboule. Ajoutez la sauce soja, l’huile de sésame et le jus de citron vert.",
+    "Parsemez de graines de sésame et servez immédiatement."
+  ],
+  "src": "Ma recette"
+}

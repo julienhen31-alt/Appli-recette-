@@ -1,0 +1,54 @@
+{
+  "id": 1787681156929,
+  "nom": "Houmous maison, légumes rôtis aux épices du Moyen-Orient et pain libanais",
+  "cat": "Snacks",
+  "temps": 25,
+  "kcal": 722,
+  "prot": 22,
+  "est": 0,
+  "tags": [
+    "veg"
+  ],
+  "ing": [
+    "aubergine",
+    "poivron",
+    "oignon",
+    "épices du moyen-orient",
+    "gousse d’ail",
+    "tomate",
+    "persil plat et menthe",
+    "citron",
+    "pois chiches",
+    "sauce tahini",
+    "pain libanais",
+    "huile d’olive"
+  ],
+  "q": {
+    "aubergine": "2 pièce(s)",
+    "poivron": "2 pièce(s)",
+    "oignon": "1 ½ pièce(s)",
+    "épices du moyen-orient": "1 ½ sachet(s)",
+    "gousse d’ail": "3 pièce(s)",
+    "tomate": "1 pièce(s)",
+    "persil plat et menthe": "1 ½ sachet(s)",
+    "citron": "1 ½ pièce(s)",
+    "pois chiches": "1 paquet(s)",
+    "sauce tahini": "¾ sachet(s)",
+    "pain libanais": "180 g",
+    "huile d’olive": "4 cs"
+  },
+  "port": "3 personnes",
+  "prep": 9,
+  "cuis": 16,
+  "diff": "Moyen",
+  "cout": "€",
+  "steps": [
+    "On s’y met !. Si vous n’avez pas de grille-pain, préchauffez le four à 220 °C (200 °C chaleur tournante). Coupez l’aubergine en tranches de 5 mm d’épaisseur et répartissez-les sur une plaque recouverte de papier sulfurisé. Salez et arrosez d’huile d’olive.",
+    "On enfourne. Coupez le poivron en dés et l’oignon en demi-lunes. Mélangez-les dans un saladier avec un filet d’huile d’olive, du poivre et du sel. Saupoudrez les légumes avec 1 cc d’épices du Moyen-Orient par personne (ça pique ! Dosez-les selon votre goût). Répartissez-les à côté de l’aubergine sur la plaque (réservez le saladier pour l’étape suivante). Placez-y également l’ail non pelé et enfournez-les 20-25 min, ou jusqu’à ce que les légumes soient dorés et cuits.",
+    "Pro du couteau. Pendant ce temps, coupez les tomates en petits dés. Effeuillez, puis hachez finement la menthe et le persil. Coupez le citron en quartiers. Dans le saladier, mélangez les ¾ de la menthe et du persil ainsi que le jus de ¼ de citron et un filet d’huile d’olive par personne. Salez et poivrez, puis réservez. Ajoutez les tomates au saladier juste avant de servir.",
+    "Tout au mixeur !. Récupérez l’ail en chemise et épluchez-le. Dans un bol à bords hauts, mélangez les pois chiches, l’ail, le tahini et, par personne : le jus de ¼ citron, ½ cc d’épices du Moyen-Orient, 1 cs d’huile d’olive, du sel et du poivre. Mixez la préparation jusqu’à obtenir une texture lisse. Versez un filet d’eau si vous trouvez que la texture est trop compacte.",
+    "Pain libanais au chaud. Humidifiez légèrement les pains libanais. Enfournez-les 2-3 min pour les réchauffer.",
+    "Sur la route des saveurs. Déposez l’houmous sur un côté des assiettes et étalez-le avec le côté arrondi d’une cuillère. Placez les légumes rôtis à côté et la salade de tomate sur le côté. Garnissez le plat du reste de menthe et de persil. Ajoutez un filet d’huile d’olive et rectifiez l’assaisonnement si besoin. Servez avec le pain libanais."
+  ],
+  "src": "Ma recette"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1787681156971,
+  "nom": "Burrito bowl de poulet effiloché aux haricots noirs, avocat et fromage à la grecque",
+  "cat": "Plats",
+  "temps": 23,
+  "kcal": 886,
+  "prot": 37,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "riz",
+    "filet de poulet",
+    "épices mexicaines",
+    "gousse d’ail",
+    "oignon",
+    "carotte",
+    "chair de tomates",
+    "haricots noirs",
+    "avocat",
+    "fromage à la grecque",
+    "beurre",
+    "bouillon de légumes",
+    "huile d’olive",
+    "vinaigre balsamique noir",
+    "cassonade"
+  ],
+  "q": {
+    "riz": "200 g",
+    "filet de poulet": "4 pièce(s)",
+    "épices mexicaines": "1 ½ sachet(s)",
+    "gousse d’ail": "2 pièce(s)",
+    "oignon": "2 pièce(s)",
+    "carotte": "1 ½ pièce(s)",
+    "chair de tomates": "1 paquet(s)",
+    "haricots noirs": "1 ½ paquet(s)",
+    "avocat": "2 pièce(s)",
+    "fromage à la grecque": "1 paquet(s)",
+    "beurre": "2 cc",
+    "bouillon de légumes": "150 ml",
+    "huile d’olive": "4 cs",
+    "vinaigre balsamique noir": "2 cc",
+    "cassonade": "2 cc"
+  },
+  "port": "4 personnes",
+  "prep": 8,
+  "cuis": 15,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Ça chauffe !. Portez une casserole d’eau salée à ébullition. Faites-y cuire 50 g de riz par personne et les filets de poulet 10-12 min, ou jusqu’à ce que le riz soit tendre et que le poulet ne soit plus rosé à cœur. Égouttez le tout, réservez le poulet sur une planche. Ajoutez une noix de beurre et une pincée d’épices mexicaines (ça pique ! Dosez-les selon votre goût) dans le riz.",
+    "Opération découpe !. Pendant ce temps, ciselez finement l’ail et l’oignon. Épluchez et râpez la carotte. Préparez le bouillon avec de l’eau chaude.",
+    "La sauce qui fait la diff’. Faites chauffer un filet d’huile d’olive dans une sauteuse à feu moyen-vif. Faites-y revenir l’oignon et la carotte 3-5 min. Salez et poivrez. Ajoutez l’ail, ¼ sachet d’épices mexicaines par personne et remuez. Déglacez avec le vinaigre balsamique noir, puis ajoutez la chair de tomates, la cassonade et le bouillon. Couvrez et laissez mijoter 5-8 min à feu moyen.",
+    "La découpe, la suite. En attendant, effilochez le poulet avec deux fourchettes (ou coupez-le en fines lanières). Égouttez les haricots noirs, puis rincez-les et égouttez-les de nouveau. Réservez-les dans un bol. Coupez l’avocat en deux, retirez-en le noyau, prélevez la chair avec une cuillère, puis coupez-la en fines tranches.",
+    "Dernier coup de poêle. Ajoutez les haricots noirs et le poulet effiloché à la sauteuse. Mélangez et faites réchauffer 1-2 min, ou jusqu’à ce que le poulet soit bien enrobé dans la sauce.",
+    "Sur la route des saveurs. Servez le riz, puis le contenu de la sauteuse dans des bols. Émiettez ¼ paquet de fromage à la grecque par personne par-dessus et ajoutez les tranches d’avocat. Saupoudrez le tout d’une pincée d’épices mexicaines, s’il vous en reste."
+  ],
+  "src": "Ma recette",
+  "astuce": "Versez un filet d’eau si la sauce épaissit trop."
+}

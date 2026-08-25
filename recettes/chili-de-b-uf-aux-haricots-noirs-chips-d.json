@@ -1,0 +1,50 @@
+{
+  "id": 1787681156950,
+  "nom": "Chili de bœuf aux haricots noirs, chips de tortillas et pickles d’oignons",
+  "cat": "Snacks",
+  "temps": 27,
+  "kcal": 923,
+  "prot": 30,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "gousse d’ail",
+    "oignon",
+    "haricots noirs",
+    "viande hachée au bœuf",
+    "épices mexicaines",
+    "chair de tomates",
+    "tortillas",
+    "crème épaisse",
+    "vinaigre de vin rouge ou de cidre",
+    "huile de tournesol",
+    "huile d’olive"
+  ],
+  "q": {
+    "gousse d’ail": "1 pièce(s)",
+    "oignon": "2 pièce(s)",
+    "haricots noirs": "1 ½ paquet(s)",
+    "viande hachée au bœuf": "300 g",
+    "épices mexicaines": "1 ½ sachet(s)",
+    "chair de tomates": "1 ½ paquet(s)",
+    "tortillas": "6 pièce(s)",
+    "crème épaisse": "80 g",
+    "vinaigre de vin rouge ou de cidre": "6 cc",
+    "huile de tournesol": "3 cs",
+    "huile d’olive": "3 cc"
+  },
+  "port": "3 personnes",
+  "prep": 9,
+  "cuis": 18,
+  "diff": "Facile",
+  "cout": "€€€",
+  "steps": [
+    "Préparer. Préchauffez le four à 200 °C (180 °C chaleur tournante). Ciselez l’ail et coupez l’oignon en très fines demi-lunes. Mettez la moitié de l’oignon dans un bol (réservez l’autre moitié à cuire). Ajoutez-y 2 cc de vinaigre de vin rouge ou de cidre par personne. Remuez de temps à autre. Égouttez les haricots noirs dans une passoire. Rincez-les et égouttez à nouveau.",
+    "Cuire le chili. Faites chauffer un filet d’huile de tournesol dans une sauteuse à feu vif. Ajoutez-y le reste de l’oignon et le bœuf haché, faites-les revenir 5 min en remuant. Salez et poivrez. Ajoutez l’ail et ½ sachet d’épices mexicaines par personne (ça pique ! Dosez-les selon vos goûts). Mélangez et faites cuire le tout 1-2 min. Ajoutez enfin la chair de tomates et les haricots. Baissez le feu et laissez mijoter environ 12-13 min.",
+    "Faire les chips. Coupez les tortillas en 8 triangles (comme des parts de pizza). Placez-les sur une plaque recouverte de papier sulfurisé, arrosez-les d’huile d’olive, salez, poivrez et mélangez pour les enrober (vous pouvez aussi utiliser un pinceau). Enfournez-les 7-9 min, ou jusqu’à ce qu’elles soient dorées et croustillantes (attention à ne pas les brûler ! Surveillez régulièrement leur cuisson). CONSEIL : Vous ne souhaitez pas utiliser votre four ? Pour une cuisson moins gourmande en électricité, faites cuire les tortillas à feu vif dans une grande poêle !",
+    "Servir. Servez le mijoté dans des assiettes creuses, ajoutez par-dessus une cuillère de crème et les pickles d’oignons. Présentez les chips de tortillas tout autour. Goûtez et ajustez l’assaisonnement en sel et en poivre."
+  ],
+  "src": "Ma recette"
+}

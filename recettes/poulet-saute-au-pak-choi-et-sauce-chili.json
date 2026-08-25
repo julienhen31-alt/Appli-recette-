@@ -1,0 +1,50 @@
+{
+  "id": 1787681156987,
+  "nom": "Poulet sauté au pak choï et sauce chili, riz et mayonnaise au soja",
+  "cat": "Plats",
+  "temps": 22,
+  "kcal": 762,
+  "prot": 39,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "riz",
+    "oignon",
+    "gousse d’ail",
+    "pak choï",
+    "filet de poulet",
+    "sauce au chili sucrée et épicée",
+    "sauce soja",
+    "mayonnaise",
+    "cacahuètes non salées",
+    "farine",
+    "huile de tournesol"
+  ],
+  "q": {
+    "riz": "300 g",
+    "oignon": "2 pièce(s)",
+    "gousse d’ail": "2 pièce(s)",
+    "pak choï": "3 pièce(s)",
+    "filet de poulet": "4 pièce(s)",
+    "sauce au chili sucrée et épicée": "2 sachet(s)",
+    "sauce soja": "1 sachet(s)",
+    "mayonnaise": "1 sachet(s)",
+    "cacahuètes non salées": "1 sachet(s)",
+    "farine": "4 cs",
+    "huile de tournesol": "2 cs"
+  },
+  "port": "4 personnes",
+  "prep": 8,
+  "cuis": 14,
+  "diff": "Facile",
+  "cout": "€€",
+  "steps": [
+    "Tout baigne. Portez une casserole d’eau salée à ébullition pour le riz. Coupez l’oignon en fines demi-lunes. Râpez finement l’ail (ou ciselez-le). Ôtez la base dure du pak choï et coupez-le en lanières de 1 cm. Faites cuire le riz 12-14 min, ou jusqu’à ce qu’il soit tendre. Égouttez-le et réservez-le à couvert.",
+    "Il se fait rouler dans la farine. Coupez le poulet en lanières de 1 cm d’épaisseur. Placez le poulet dans une assiette creuse et épongez-le avec de l’essuie-tout. Saupoudrez-le de 1 cs de farine par personne. Salez et poivrez. Mélangez jusqu’à ce que le poulet soit bien enrobé de farine.",
+    "À la poêle tout s’emmêle. Faites chauffer un généreux filet d’huile de tournesol dans une grande poêle à feu moyen-vif. Faites-y revenir le poulet 2-3 min de tous les côtés, ou jusqu’à ce qu’il soit doré. Ajoutez le pak choï, l’ail et l’oignon et faites revenir le tout 4-5 min en mélangeant, ou jusqu’à ce que les légumes soient tendres et que le poulet soit d’un blanc opaque à cœur. Baissez le feu sur moyen et ajoutez la sauce chili (ça pique ! Dosez-la selon votre goût) et la moitié de la sauce soja. Mélangez 1-2 min pour que le poulet et les légumes soient enrobés de sauce.",
+    "Place au dressage. Dans un petit bol, mélangez le reste de sauce soja avec la mayonnaise. Servez le riz dans les assiettes. Présentez la viande et les légumes en sauce par-dessus. Arrosez de mayonnaise au soja et parsemez de cacahuètes."
+  ],
+  "src": "Ma recette"
+}

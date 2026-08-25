@@ -1,0 +1,53 @@
+{
+  "id": 1787681156965,
+  "nom": "Hachis parmentier au bœuf, purée de pommes de terre et chou-fleur gratinée au gouda",
+  "cat": "Plats",
+  "temps": 30,
+  "kcal": 632,
+  "prot": 33,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "chou-fleur",
+    "pommes de terre",
+    "échalote",
+    "gousse d’ail",
+    "viande hachée au bœuf",
+    "concentré de tomates",
+    "thym séché",
+    "gouda râpé",
+    "huile d’olive",
+    "sucre",
+    "beurre"
+  ],
+  "q": {
+    "chou-fleur": "⅔ pièce(s)",
+    "pommes de terre": "560 g",
+    "échalote": "3 pièce(s)",
+    "gousse d’ail": "2 pièce(s)",
+    "viande hachée au bœuf": "1 paquet(s)",
+    "concentré de tomates": "1 sachet(s)",
+    "thym séché": "1 sachet(s)",
+    "gouda râpé": "1 sachet(s)",
+    "huile d’olive": "2 cs",
+    "sucre": "2 cc",
+    "beurre": "2 cs"
+  },
+  "port": "4 personnes",
+  "prep": 10,
+  "cuis": 20,
+  "diff": "Moyen",
+  "cout": "€€€",
+  "steps": [
+    "En avant pour la découpe. Coupez les bouquets de chou-fleur en fleurettes et les tiges en morceaux de 1-2 cm. Épluchez les pommes de terre et coupez-les en dés de 1-2 cm (voir L’ASTUCE). Ciselez l’échalote et l’ail.",
+    "Les légumes au bain. Placez-les pommes de terre avec le chou-fleur dans une casserole, salez et versez de l’eau à hauteur. Portez à ébullition et faites cuire 15-17 min, ou jusqu’à ce que la pointe d’un couteau y rentre facilement. Conservez un peu d’eau de cuisson, puis égouttez les pommes de terre et le chou-fleur. Réservez-les. ZOOM NUTRITION : Les pommes de terre dans votre plat sont source de vitamine B6. La vitamine B6 contribue au métabolisme normal des protéines et du glycogène.",
+    "La poêle prend le relais. Pendant ce temps, faites chauffer un petit filet d’huile d’olive dans une poêle à feu moyen-vif. Faites-y revenir l’échalote 1-2 min. Ajoutez la viande hachée, le concentré de tomates, le sucre, ¼ sachet de thym séché par personne et l’ail. Faites revenir le tout 3-4 min en émiettant la viande avec une spatule, ou jusqu’à ce qu’elle soit dorée. Salez et poivrez, puis déglacez avec 1-2 cs d’eau par personne. Mélangez et réservez hors du feu.",
+    "Balance la purée. Préchauffez le four à 220 °C en mode grill. Écrasez les pommes de terre et le chou-fleur avec un presse-purée. Ajoutez ½ cs de beurre par personne, ainsi qu’un peu d’eau de cuisson ou un filet de lait pour l’onctuosité. Salez, poivrez et mélangez.",
+    "Touche pas à mon hachis. Dans un plat à four, répartissez la farce au bœuf. Étalez la purée au chou-fleur par-dessus et saupoudrez de gouda râpé. Enfournez 8-10 min dans la partie haute du four, ou jusqu’à ce que le gouda soit gratiné.",
+    "Chaud devant !. Coupez le gratin en parts pour qu’il refroidisse plus vite. Servez-les dans les assiettes."
+  ],
+  "src": "Ma recette",
+  "astuce": "Les quantités de chou-fleur et de pommes de terre sont déterminées pour assurer le bon équilibre de la purée. Conservez le reste de légumes pour votre prochain repas."
+}

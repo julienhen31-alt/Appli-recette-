@@ -1,0 +1,55 @@
+{
+  "id": 1787681156980,
+  "nom": "Cuisses de poulet laquées aux épices mexicaines, patate douce rôtie et crème d’avocat à l’ail confit",
+  "cat": "Plats",
+  "temps": 38,
+  "kcal": 918,
+  "prot": 44,
+  "est": 0,
+  "tags": [
+    "viande",
+    "masse"
+  ],
+  "ing": [
+    "sauce soja",
+    "épices mexicaines",
+    "cuisse de poulet",
+    "patate douce",
+    "oignon",
+    "gousse d’ail",
+    "origan séché",
+    "coriandre",
+    "dip d’avocat",
+    "citron",
+    "huile d’olive",
+    "moutarde"
+  ],
+  "q": {
+    "sauce soja": "1 sachet(s)",
+    "épices mexicaines": "2 sachet(s)",
+    "cuisse de poulet": "4 pièce(s)",
+    "patate douce": "4 pièce(s)",
+    "oignon": "2 pièce(s)",
+    "gousse d’ail": "2 pièce(s)",
+    "origan séché": "2 sachet(s)",
+    "coriandre": "1 sachet(s)",
+    "dip d’avocat": "2 pot(s)",
+    "citron": "1 pièce(s)",
+    "huile d’olive": "5 cs",
+    "moutarde": "2 cc"
+  },
+  "port": "4 personnes",
+  "prep": 13,
+  "cuis": 25,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "3, 2, 1, c’est parti !. Préchauffez le four à 210 °C (190 °C chaleur tournante). Dans un petit bol, mélangez la sauce soja, du poivre, du sel, un filet d’huile d’olive et, par personne : ½ cc de moutarde et 1 cc d’épices mexicaines (ça pique ! Dosez-les selon votre goût). Utilisez ce mélange pour laquer le poulet avec un pinceau ou une cuillère. Couvrez-le et réservez-le au frais.",
+    "Légumes en fête. Épluchez la patate douce et coupez-la en dés de 2 cm. Coupez l’oignon en deux, puis chaque moitié en quatre. Sur une plaque recouverte de papier sulfurisé, ajoutez la patate douce avec l’oignon, la gousse d’ail non épluchée, l’origan séché, du sel et du poivre. Arrosez-les d’huile d’olive et mélangez bien.",
+    "Au four !. Sur une autre plaque recouverte de papier sulfurisé, ajoutez les cuisses de poulet marinées. Enfournez-les ainsi que l’autre plaque de cuisson 35-40 min, ou jusqu’à ce que la peau du poulet soit croustillante et que la patate douce soit fondante. Contrôlez la cuisson avec la pointe d’un couteau.",
+    "La crème d’avocat. Effeuillez et ciselez la coriandre finement. Dans un bol, mélangez la coriandre avec le dip d’avocat, du sel et du poivre. Ajoutez un filet d’eau si la sauce est trop pâteuse.",
+    "Ail, ail, ail. Une fois que tout est cuit, écrasez bien la gousse d’ail afin d’en faire sortir la pulpe, puis enlevez la peau. Ajoutez la gousse d’ail confite au dip d’avocat et mélangez bien pour l’incorporer.",
+    "Place au dressage. Servez le poulet laqué avec la patate douce dans les assiettes. Arrosez-les de crème d’avocat, puis servez le reste dans un petit bol à côté pour tremper le poulet à votre guise. Pressez le jus de ¼ citron par personne au dessus. Dégustez sans attendre !"
+  ],
+  "src": "Ma recette"
+}

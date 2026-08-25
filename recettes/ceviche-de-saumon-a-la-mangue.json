@@ -1,0 +1,43 @@
+{
+  "id": 1787681157016,
+  "nom": "Ceviche de saumon à la mangue",
+  "cat": "Entrées",
+  "temps": 30,
+  "kcal": 220,
+  "prot": 18,
+  "est": 0,
+  "tags": [
+    "healthy",
+    "seche"
+  ],
+  "ing": [
+    "saumon",
+    "oignons nouveaux",
+    "citron vert",
+    "mangue",
+    "huile d’olive",
+    "piment d’espelette",
+    "aneth"
+  ],
+  "q": {
+    "saumon": "400 g de filet ou cœur sashimi",
+    "oignons nouveaux": "2",
+    "citron vert": "1",
+    "mangue": "1",
+    "huile d’olive": "2 c. à s.",
+    "piment d’espelette": "1 pincée",
+    "aneth": "1 c. à s. haché"
+  },
+  "port": "4 personnes",
+  "prep": 25,
+  "cuis": 0,
+  "diff": "Facile",
+  "cout": "€€€",
+  "astuce": "Laisse mariner le saumon dans le jus de citron vert au moins 30 minutes au frais : c’est cette acidité qui \"cuit\" le poisson façon ceviche.",
+  "steps": [
+    "Retirez la peau du saumon si c’est du filet, puis coupez-le en petits dés réguliers. Émincez les oignons nouveaux. Zestez le citron vert, récupérez également le jus et laissez mariner 30 minutes au frais.",
+    "Épluchez la mangue et coupez-la en dés de même taille que le saumon.",
+    "Placez le saumon dans un saladier. Ajoutez les oignons nouveaux, les dés de mangue, le jus et le zeste de citron vert ainsi que l’huile d’olive, le piment d’espelette et l’aneth ou le basilic haché. Mélangez bien et assaisonnez de sel et de poivre. Servez sans attendre."
+  ],
+  "src": "Ma recette"
+}

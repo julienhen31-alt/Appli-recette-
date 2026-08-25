@@ -1,0 +1,47 @@
+{
+  "id": 1787681156928,
+  "nom": "Risotto crémeux au fenouil et à la saucisse, mascarpone et fromage italien",
+  "cat": "Pâtes",
+  "temps": 28,
+  "kcal": 1018,
+  "prot": 30,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "oignon",
+    "gousse d’ail",
+    "fenouil",
+    "fenouil moulu",
+    "riz pour risotto",
+    "mascarpone",
+    "fromage râpé à l’italienne",
+    "cube de bouillon de légumes",
+    "huile d’olive"
+  ],
+  "q": {
+    "oignon": "1 ½ pièce(s)",
+    "gousse d’ail": "1 pièce(s)",
+    "fenouil": "1 ½ pièce(s)",
+    "fenouil moulu": "½ sachet(s)",
+    "riz pour risotto": "225 g",
+    "mascarpone": "½ pot(s)",
+    "fromage râpé à l’italienne": "2 sachet(s)",
+    "cube de bouillon de légumes": "½",
+    "huile d’olive": "6 cs"
+  },
+  "port": "3 personnes",
+  "prep": 10,
+  "cuis": 18,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Couper. Coupez l’oignon en fines demi-lunes. Ciselez l’ail. Pesez votre fenouil : il vous faudra environ 100 g par personne pour réaliser cette recette. Coupez-le en quarts, ôtez le cœur dur central et taillez le reste en très fines tranches de 5 mm. Réservez éventuellement les fanes (partie verte) pour décorer le plat final. 2. Préparer le bouillon Portez 350 ml d’eau à ébullition par personne dans une casserole. Émiettez ½ cube de bouillon de légumes par personne au-dessus (voir CONSEIL). CONSEIL : Si vous surveillez votre consommation de sel, utilisez ¼ du cube de bouillon par personne.",
+    "Faire revenir. Dans une sauteuse, faites chauffer un filet d’huile d’olive à feu moyen-vif. Faites-y revenir l’oignon, l’ail, la majeure partie du fenouil, la chair à saucisse et une pincée de fenouil moulu par personne (voir CONSEIL). Émiettez bien la viande à l’aide d’une spatule pour en faire des petits morceaux. Saisissez-la à feu vif et faites cuire le tout 3-5 min à feu moyen. La viande finira de cuire avec le riz. CONSEIL : Pour un goût de fenouil moins prononcé, vous pouvez, au choix, réduire la quantité de fenouil moulu utilisée ou ne pas en mettre du tout.",
+    "Cuire le risotto. Pendant ce temps, mélangez le reste de fenouil avec un filet d’huile d’olive dans un bol. Salez et poivrez. Ajoutez le riz pour risotto à la sauteuse avec la saucisse et faites-le cuire 2 min à feu doux, tout en remuant régulièrement. Ajoutez ⅓ du bouillon et laissez les grains de riz s’en imbiber lentement. Remuez souvent.",
+    "Terminer la cuisson. Dès que les grains de riz ont absorbé le bouillon, ajoutez-en à nouveau ⅓, puis répétez l’opération avec le reste (voir QR code). Faites cuire le risotto 18-25 min à feu doux en remuant régulièrement. Ajoutez éventuellement de l’eau ou du bouillon pour faire cuire les grains de riz davantage. Le risotto est cuit dès que les grains sont moelleux à l’extérieur et légèrement croquants à cœur.",
+    "Finir et servir. Mélangez le mascarpone et la majeure partie du fromage râpé au risotto. Salez et poivrez. Servez le risotto dans des assiettes creuses et saupoudrez du reste de fromage. Accompagnez le tout de la salade de fenouil et décorez avec les fanes. CONSEIL : Pour préparer un risotto classique, on utilise du vin blanc. Si vous en avez, arrosez le risotto d’un filet de vin. CONSEIL : Pour une version allégée, réduisez la quantité de mascarpone !"
+  ],
+  "src": "Ma recette"
+}

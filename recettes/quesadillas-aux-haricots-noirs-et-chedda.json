@@ -1,0 +1,49 @@
+{
+  "id": 1787681156985,
+  "nom": "Quesadillas aux haricots noirs et cheddar, frites de patate douce et pickles d’oignon",
+  "cat": "Plats",
+  "temps": 44,
+  "kcal": 1011,
+  "prot": 24,
+  "est": 0,
+  "tags": [],
+  "ing": [
+    "patate douce",
+    "haricots noirs",
+    "citron",
+    "oignon",
+    "épices mexicaines",
+    "cheddar râpé",
+    "mini tortillas",
+    "dip d’avocat",
+    "huile d’olive",
+    "vinaigre de vin rouge ou de cidre"
+  ],
+  "q": {
+    "patate douce": "1 pièce(s)",
+    "haricots noirs": "2 paquet(s)",
+    "citron": "1 pièce(s)",
+    "oignon": "2 pièce(s)",
+    "épices mexicaines": "2 sachet(s)",
+    "cheddar râpé": "2 sachet(s)",
+    "mini tortillas": "12 pièce(s)",
+    "dip d’avocat": "2 pot(s)",
+    "huile d’olive": "4 cs",
+    "vinaigre de vin rouge ou de cidre": "4 cc"
+  },
+  "port": "4 personnes",
+  "prep": 15,
+  "cuis": 29,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Ça donne la patate. Préchauffez le four à 220 °C (200 °C chaleur tournante). Épluchez et coupez la patate douce en frites de 1 cm d’épaisseur. Placez les frites sur une plaque recouverte de papier sulfurisé. Mélangez-les avec un généreux filet d’huile d’olive, du sel et du poivre. Enfournez-les 25-30 min ou jusqu’à ce qu’elles soient tendres.",
+    "En rang d’oignon. Égouttez les haricots noirs. Coupez le citron en quartiers. Coupez l’oignon en très fines demi-lunes et placez-les dans un bol. Versez le jus d’un quartier de citron par personne par-dessus. Ajoutez une pincée de sel, puis 1 cc de vinaigre de vin rouge (ou vinaigre de cidre) par personne. Mélangez bien et laissez mariner. Remuez de temps à autre.",
+    "Mélange de saveurs. Dans un autre bol, mélangez les haricots noirs avec ½ sachet d’épices mexicaines (ça pique ! Dosez-les selon le goût) et la moitié du cheddar râpé. Avec une fourchette, écrasez les haricots de sorte à former une pâte. Assaisonnez de sel et de poivre.",
+    "Tortillas en action. Lorsqu’il reste 10 min de cuisson aux patates douces, disposez les tortillas sur une plaque recouverte de papier sulfurisé (voir L’ASTUCE). Répartissez la farce de haricots sur la moitié de chaque tortilla, puis recouvrez avec le reste du cheddar râpé. Repliez chacune pour enfermer la farce et appuyez doucement avec une spatule. Badigeonnez chaque tortilla d’un filet d’huile d’olive.",
+    "Le guacamole parfait. Enfournez les quesadillas 5-8 min, ou jusqu’à ce que le fromage ait fondu et que les tortillas soient dorées. Pendant ce temps, assaisonnez l’écrasé d’avocat de sel et poivre et ajoutez un filet d’huile d’olive.",
+    "Showtime. Répartissez les quesadillas dans les assiettes, servez les pickles d’oignon et l’écrasé d’avocat par-dessus. Servez avec les frites de patate douce."
+  ],
+  "src": "Ma recette",
+  "astuce": "Utilisez plusieurs plaques si vous êtes plus de deux à table !"
+}

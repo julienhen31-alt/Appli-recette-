@@ -1,0 +1,55 @@
+{
+  "id": 1787681156984,
+  "nom": "Pommes de terre farcies au chorizo et cheddar, salade de maïs et écrasé d’avocat",
+  "cat": "Salades",
+  "temps": 37,
+  "kcal": 838,
+  "prot": 27,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "pommes de terre",
+    "oignon",
+    "sucrine",
+    "citron",
+    "persil",
+    "maïs en conserve",
+    "dés de chorizo",
+    "avocat",
+    "cheddar râpé",
+    "crème épaisse",
+    "huile d’olive",
+    "vinaigre de vin rouge ou de cidre"
+  ],
+  "q": {
+    "pommes de terre": "4 pièce(s)",
+    "oignon": "2 pièce(s)",
+    "sucrine": "2 pièce(s)",
+    "citron": "1 pièce(s)",
+    "persil": "1 sachet(s)",
+    "maïs en conserve": "1 boîte(s)",
+    "dés de chorizo": "2 sachet(s)",
+    "avocat": "2 pièce(s)",
+    "cheddar râpé": "1 sachet(s)",
+    "crème épaisse": "1 pot(s)",
+    "huile d’olive": "2 ½ cs",
+    "vinaigre de vin rouge ou de cidre": "4 cc"
+  },
+  "port": "4 personnes",
+  "prep": 13,
+  "cuis": 24,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "3, 2, 1, c’est parti !. Lavez bien les pommes de terre et coupez-les en deux dans l’épaisseur. Mettez-les dans une casserole avec leur peau, couvrez d’eau à hauteur. Ajoutez du gros sel et portez l’eau à ébullition. Faites-les cuire 22-26 min à feu moyen-vif, ou jusqu’à ce qu’elles soient tendres à cœur et que la pointe d’un couteau y rentre facilement, puis égouttez-les.",
+    "La poêle prend le relais. Pendant qu’elles cuisent, coupez l’oignon en très fines demi-lunes, la sucrine en fines lanières et le citron en quartiers. Effeuillez et ciselez le persil. Égouttez le maïs. Faites chauffer une poêle à feu moyen-vif et, à sec, ajoutez-y les dés de chorizo, faites-les revenir 1 min, puis ajoutez ¾ de l’oignon et 2 cs d’eau par personne. Faites-dorer le tout 5-6 min à feu moyen, ou jusqu’à ce que l’oignon soit fondant.",
+    "La salade de maïs. Olé !. Dans un grand bol, mélangez la moitié du persil avec la quantité indiquée de maïs et le reste d’oignon. Ajoutez un généreux filet d’huile d’olive et de vinaigre de cidre (ou vinaigre de vin rouge). Salez et poivrez. Coupez l’avocat en deux, retirez-en le noyau et coupez sa chair en dés, puis retirez-les avec une cuillère. Dans un second bol, écrasez les dés d’avocat (vous pouvez utiliser un mixeur plongeant si l’avocat est trop ferme) et mélangez-les avec quelques gouttes de jus de citron (selon votre goût), un filet d’huile d’olive, du sel et du poivre. Réservez les deux préparations au frais.",
+    "Pause fraîcheur. Préchauffez le four en mode grill à 220 °C. Faites une vinaigrette en mélangeant un filet d’huile d’olive et de vinaigre de cidre. Salez et poivrez. Juste avant de servir, ajoutez la sucrine et mélangez.",
+    "Hop, au four !. Lorsque les pommes de terre sont cuites, placez les moitiés sur une plaque recouverte de papier sulfurisé, côté peau vers le bas. Répartissez le chorizo par-dessus. Parsemez avec le cheddar râpé et enfournez-les 5-8 min dans la partie haute du four, ou jusqu’à ce que le tout soit gratiné.",
+    "Tout le monde à table !. Servez la sucrine et le maïs dans les assiettes. Ajoutez les pommes de terre (2 moitiés par personne) à côté et garnissez-les de crème, d’avocat écrasé et du reste de persil."
+  ],
+  "src": "Ma recette",
+  "astuce": "Il se peut que les premières feuilles de votre sucrine soient déshydratées ; pensez à les retirer avant de les consommer."
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1787681156948,
+  "nom": "Risotto aux champignons de Paris, pesto de champignons et huile de truffe",
+  "cat": "Pâtes",
+  "temps": 33,
+  "kcal": 689,
+  "prot": 16,
+  "est": 0,
+  "tags": [],
+  "ing": [
+    "gousse d’ail",
+    "échalote",
+    "riz pour risotto",
+    "champignons de paris",
+    "parmigiano reggiano aop",
+    "pesto de champignons",
+    "huile d’olive saveur truffe",
+    "bouillon de légumes",
+    "huile d’olive",
+    "vinaigre balsamique blanc ou de riz"
+  ],
+  "q": {
+    "gousse d’ail": "2 pièce(s)",
+    "échalote": "1 pièce(s)",
+    "riz pour risotto": "300 g",
+    "champignons de paris": "500 g",
+    "parmigiano reggiano aop": "80 g",
+    "pesto de champignons": "180 g",
+    "huile d’olive saveur truffe": "24 ml",
+    "bouillon de légumes": "1400 ml",
+    "huile d’olive": "4 cs",
+    "vinaigre balsamique blanc ou de riz": "2 cs"
+  },
+  "port": "4 personnes",
+  "prep": 12,
+  "cuis": 21,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Préparer. Préparez le bouillon avec de l’eau chaude (voir CONSEIL). Ciselez l’ail et l’échalote. Faites chauffer un filet d’huile d’olive dans une casserole à feu moyen. Faites-y revenir l’échalote 1-2 min, ajoutez le riz et la moitié de l’ail. Mélangez 1 min. CONSEIL : Si vous surveillez votre consommation de sel, vous pouvez mettre moins de cube de bouillon ou ne pas saler car le bouillon l’est déjà.",
+    "Commencer le risotto. Ajoutez le vinaigre balsamique blanc et ⅓ du bouillon. Laissez les grains de riz s’en imbiber lentement. Remuez souvent. Dès que les grains de riz ont absorbé le bouillon, ajoutez-en à nouveau ⅓, puis répétez l’opération avec le reste. Le risotto est cuit dès que les grains sont moelleux à l’extérieur et légèrement croquants à cœur. Au total, comptez environ 20-25 min de cuisson. CONSEIL : Ajoutez éventuellement de l’eau pour faire cuire les grains davantage.",
+    "Couper. Pendant ce temps, nettoyez les champignons avec un essuie-tout humide, puis coupez-les en 4 ou 8. Râpez le parmesan.",
+    "Cuire les champignons. Faites chauffer un filet d’huile d’olive dans une poêle à feu moyen-vif. Faites-y revenir les champignons 5-8 min, ou jusqu’à ce que leur eau se soit évaporée et qu’ils soient légèrement dorés. Ajoutez le reste de l’ail et poursuivez la cuisson 1-2 min. Salez légèrement si vous le souhaitez, et poivrez.",
+    "Assaisonner le risotto. Lorsque le riz est cuit, ajoutez-y la moitié des champignons ainsi que les ⅔ du parmesan. Mélangez avec le pesto de champignons et les ⅔ de l’huile d’olive saveur truffe, jusqu’à ce que le tout soit bien incorporé.",
+    "Servir. Servez le risotto dans les assiettes. Poivrez-le, selon votre goût. Parsemez-le du reste de parmesan et de champignons, puis arrosez de l’huile d’olive saveur truffe restante."
+  ],
+  "src": "Ma recette"
+}

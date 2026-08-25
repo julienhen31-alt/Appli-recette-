@@ -1,0 +1,52 @@
+{
+  "id": 1787681156957,
+  "nom": "Lieu noir poêlé, quinoa et fondue de poireaux à la crème de champignons, noisettes",
+  "cat": "Plats",
+  "temps": 31,
+  "kcal": 804,
+  "prot": 37,
+  "est": 0,
+  "tags": [],
+  "ing": [
+    "quinoa",
+    "poireau",
+    "oignon",
+    "gousse d’ail",
+    "persil",
+    "noisettes grillées",
+    "filet de lieu noir",
+    "pesto de champignons",
+    "crème liquide",
+    "cube de bouillon de légumes",
+    "huile d’olive",
+    "vinaigre de vin rouge ou de cidre",
+    "farine"
+  ],
+  "q": {
+    "quinoa": "300 g",
+    "poireau": "2 pièce(s)",
+    "oignon": "2 pièce(s)",
+    "gousse d’ail": "2 pièce(s)",
+    "persil": "1 sachet(s)",
+    "noisettes grillées": "1 sachet(s)",
+    "filet de lieu noir": "4 pièce(s)",
+    "pesto de champignons": "1 sachet(s)",
+    "crème liquide": "2 paquet(s)",
+    "cube de bouillon de légumes": "1 pièce(s)",
+    "huile d’olive": "4 cs",
+    "vinaigre de vin rouge ou de cidre": "2 cc",
+    "farine": "4 cs"
+  },
+  "port": "4 personnes",
+  "prep": 11,
+  "cuis": 20,
+  "diff": "Facile",
+  "cout": "€€",
+  "steps": [
+    "3, 2, 1, c’est parti !. Rincez le quinoa à l’eau froide jusqu’à ce que l’eau soit claire. Portez 125 ml d’eau par personne à ébullition dans une casserole avec le cube de bouillon. Ajoutez-y le quinoa, baissez le feu à moyen-vif et couvrez. Laissez-le cuire 5 min. Remuez-le et baissez le feu à moyen-doux. Faites cuire 8 min de plus. Réservez à couvert au chaud et égrenez-le à la fourchette juste avant de servir.",
+    "L’oignon entre en scène. Pendant ce temps, coupez le poireau en deux dans l’épaisseur, lavez-le bien, puis coupez-le en fines demilunes. Coupez l’oignon en fines demi-lunes. Faites chauffer un filet d’huile d’olive dans une sauteuse à feu moyen. Faites-y cuire le poireau et l’oignon 6-8 min en remuant de temps en temps. En attendant, effeuillez et ciselez le persil. Ciselez l’ail et concassez les noisettes. Ajoutez l’ail à la sauteuse et, par personne : ½ cc de vinaigre de vin rouge (ou vinaigre de cidre) et 2 cs d’eau. Baissez le feu, couvrez et faites cuire à feu moyen-doux 5-7 min.",
+    "Un A/R pour le poisson. Mélangez 1 cs de farine par personne, du sel et du poivre dans une assiette. Tamponnez le lieu avec de l’essuie-tout, puis passez-le dans la farine. Ôtez-en l’excédent en secouant les filets. Faites chauffer un filet d’huile d’olive dans une poêle à feu moyen-vif. Faites-y cuire le poisson 2-3 min de chaque côté, ou jusqu’à ce qu’il soit cuit et doré.",
+    "Miam, miam !. Ajoutez le pesto de champignons, la crème et la moitié du persil à la sauteuse des légumes. Faites cuire 2-3 min à feu moyen en remuant, ou jusqu’à ce que la sauce épaississe. Rectifiez l’assaisonnement en sel et poivre (selon votre goût). Servez le quinoa dans des assiettes creuses. Disposez les légumes par-dessus, puis le poisson. Saupoudrez de noisettes concassées et du reste de persil. Prenez un peu de chaque élément au moment de déguster."
+  ],
+  "src": "Ma recette"
+}

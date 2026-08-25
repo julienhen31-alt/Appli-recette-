@@ -1,0 +1,58 @@
+{
+  "id": 1787681156968,
+  "nom": "Nuggets de poulet au paprika fumé, sauce ranch maison et salade de sucrine",
+  "cat": "Salades",
+  "temps": 2,
+  "kcal": 826,
+  "prot": 34,
+  "est": 0,
+  "tags": [
+    "viande",
+    "rapide"
+  ],
+  "ing": [
+    "gousse d’ail",
+    "tomate",
+    "persil plat et ciboulette",
+    "mayonnaise",
+    "blanc de poulet",
+    "chapelure panko",
+    "paprika fumé en poudre",
+    "yaourt à la grecque",
+    "sucrine",
+    "copeaux de grana padano aop",
+    "vinaigre balsamique blanc ou de riz",
+    "farine",
+    "huile de tournesol"
+  ],
+  "q": {
+    "gousse d’ail": "1 pièce(s)",
+    "tomate": "4 pièce(s)",
+    "persil plat et ciboulette": "2 sachet(s)",
+    "mayonnaise": "1 sachet(s)",
+    "blanc de poulet": "1 paquet(s)",
+    "chapelure panko": "¾ sachet(s)",
+    "paprika fumé en poudre": "1 sachet(s)",
+    "yaourt à la grecque": "1 pot(s)",
+    "sucrine": "4 pièce(s)",
+    "copeaux de grana padano aop": "1 sachet(s)",
+    "vinaigre balsamique blanc ou de riz": "2 cc",
+    "farine": "6 cs",
+    "huile de tournesol": "9 cs"
+  },
+  "port": "4 personnes",
+  "prep": 5,
+  "cuis": 5,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Chop, chop, chop. Ciselez l’ail. Coupez les tomates en 8-10 quartiers chacune.",
+    "La sauce ranch. Ciselez finement les herbes (voir L’ASTUCE). Dans un bol, mélangez la mayonnaise avec l’ail (vous le mangerez cru, selon le goût), les herbes ainsi que, par personne : ½ cc de vinaigre balsamique blanc (ou de riz) et 3 cc d’eau. Salez, poivrez et mélangez.",
+    "Atelier panure. Recoupez le poulet pour obtenir des morceaux de la taille de nuggets. Dans une assiette, mélangez la chapelure panko, le paprika fumé, du sel et du poivre. Placez la farine dans une autre assiette. Roulez les morceaux de poulet dans la farine jusqu’à ce qu’ils en soient recouverts, puis badigeonnez-les avec le yaourt. Roulez-les dans la chapelure au paprika fumé de manière à les recouvrir complètement.",
+    "La poêle prend le relais. Placez de l’essuie-tout dans une assiette pour y déposer le poulet après cuisson. Faites chauffer l’huile de tournesol dans une grande poêle à feu moyen-vif. Lorsqu’elle est bien chaude, faites-y frire les nuggets 2-3 min de chaque côté, ou jusqu’à ce qu’ils soient dorés et cuits à cœur. Le poulet est cuit lorsqu’il n’est plus rosé à cœur. Réservez sur l’assiette recouverte d’essuietout.",
+    "La touche de vert. Pendant ce temps, coupez la sucrine en fines lanières. Dans un saladier, mélangez la moitié de la sauce ranch avec la sucrine, les tomates et les copeaux de grana padano. Salez, poivrez et mélangez délicatement.",
+    "Un pas vers l’Amérique. Disposez la salade dans les assiettes. Placez les nuggets de poulet par-dessus. Servez le reste de sauce ranch dans un petit pot pour tremper vos nuggets dedans."
+  ],
+  "src": "Ma recette",
+  "astuce": "Pour ciseler rapidement des herbes, pressez-les ensemble en les roulant fermement puis, avec un couteau éminceur (aussi appelé « couteau de chef »), réalisez un mouvement de va-et-vient pour en faire de très petits morceaux. Il se peut que les premières feuilles de votre sucrine soient légèrement déshydratées ; pensez à les retirer avant de les consommer."
+}

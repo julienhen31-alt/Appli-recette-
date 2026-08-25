@@ -1,0 +1,51 @@
+{
+  "id": 1787681156953,
+  "nom": "Saumon rôti, grenailles au paprika et fondue de poireaux, sauce crémeuse à l’aneth",
+  "cat": "Plats",
+  "temps": 49,
+  "kcal": 786,
+  "prot": 28,
+  "est": 0,
+  "tags": [],
+  "ing": [
+    "grenailles",
+    "paprika en poudre",
+    "gousse d’ail",
+    "échalote",
+    "poireau",
+    "aneth",
+    "filet de saumon avec peau",
+    "crème liquide",
+    "huile d’olive",
+    "beurre",
+    "vinaigre balsamique blanc ou de riz"
+  ],
+  "q": {
+    "grenailles": "1000 g",
+    "paprika en poudre": "1 sachet(s)",
+    "gousse d’ail": "2 pièce(s)",
+    "échalote": "2 pièce(s)",
+    "poireau": "2 pièce(s)",
+    "aneth": "1 sachet(s)",
+    "filet de saumon avec peau": "4 pièce(s)",
+    "crème liquide": "1 ¼ paquet(s)",
+    "huile d’olive": "4 ½ cs",
+    "beurre": "2 cs",
+    "vinaigre balsamique blanc ou de riz": "2 cc"
+  },
+  "port": "4 personnes",
+  "prep": 17,
+  "cuis": 32,
+  "diff": "Moyen",
+  "cout": "€€€",
+  "steps": [
+    "Ça donne la patate !. Préchauffez le four à 220 °C (200 °C chaleur tournante). Lavez bien, puis coupez les grenailles en deux voire en quatre ou en six pour les plus grosses. Sur une plaque recouverte de papier sulfurisé, mélangez-les avec un filet d’huile d’olive et ¼ sachet de paprika par personne. Salez et poivrez. Enfournez-les immédiatement 20-30 min dans la partie haute du four. Remuez à mi-cuisson.",
+    "Prêts à trancher ?. Pendant ce temps, ciselez l’ail. Émincez finement l’échalote. Coupez le poireau en deux, lavez-le bien, puis coupez-le en fines demi-lunes de 1 cm. Effeuillez et ciselez l’aneth.",
+    "La poêle prend le relais. Faites chauffer un filet d’huile d’olive dans une poêle à feu moyen-vif. Faites-y revenir le poireau 1-2 min. Couvrez, baissez le feu à moyen et faites cuire 8-10 min de plus, ou jusqu’à ce que le poireau soit fondant. Remuez de temps à autre. Salez et poivrez.",
+    "Un A/R pour le poisson. Essuyez le saumon avec de l’essuie-tout. Salez et poivrez-le. Faites fondre le beurre dans une autre poêle à feu moyen-vif. Faites-y dorer le saumon 1-2 min de chaque côté. Placez-le à côté des pommes de terre. Enfournez 4-8 min, ou jusqu’à ce que le saumon soit cuit (sa chair sera ferme et opaque).",
+    "C’est une crème !. Remettez la poêle du saumon avec les sucs de cuisson à feu moyen-vif. Faites-y revenir l’échalote et l’ail 1-3 min en remuant. Baissez le feu, déglacez avec ½ cs de vinaigre balsamique blanc (ou de riz) par personne, puis ajoutez la crème et 1 cs d’eau par personne. Faites réduire 3-5 min en remuant, ou jusqu’à ce qu’elle soit légèrement nappante. Salez, poivrez et ajoutez l’aneth.",
+    "À table !. Servez les grenailles au paprika dans les assiettes. Placez la fondue de poireau à côté, ainsi que le saumon. Nappez le saumon et les poireaux de sauce à l’aneth."
+  ],
+  "src": "Ma recette",
+  "astuce": "Ajustez la cuisson au four du saumon selon votre goût : pour un saumon moins rosé, prolongezla."
+}

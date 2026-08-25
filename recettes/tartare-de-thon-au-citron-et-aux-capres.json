@@ -1,0 +1,41 @@
+{
+  "id": 1787681157017,
+  "nom": "Tartare de thon au citron et aux câpres",
+  "cat": "Entrées",
+  "temps": 15,
+  "kcal": 230,
+  "prot": 28,
+  "est": 0,
+  "tags": [
+    "healthy",
+    "seche",
+    "rapide"
+  ],
+  "ing": [
+    "thon sashimi",
+    "citron",
+    "échalote",
+    "câpres",
+    "ciboulette",
+    "huile d’olive"
+  ],
+  "q": {
+    "thon sashimi": "600 g en cubes",
+    "citron": "1",
+    "échalote": "1 petite",
+    "câpres": "1 c. à s.",
+    "ciboulette": "1 c. à s.",
+    "huile d’olive": "2 c. à s."
+  },
+  "port": "4 personnes",
+  "prep": 15,
+  "cuis": 0,
+  "diff": "Facile",
+  "cout": "€€€",
+  "steps": [
+    "Hachez finement l’échalote. Pressez le citron et récupérez également un peu de zeste.",
+    "Mélangez délicatement les cubes de thon avec l’échalote, les câpres et la ciboulette hachée finement. Ajoutez le jus et le zeste de citron, l’huile d’olive, puis assaisonnez de sel et de poivre.",
+    "Mélangez délicatement et servez bien frais."
+  ],
+  "src": "Ma recette"
+}

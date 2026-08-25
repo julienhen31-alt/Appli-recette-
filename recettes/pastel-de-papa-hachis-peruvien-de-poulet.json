@@ -1,0 +1,62 @@
+{
+  "id": 1787681156993,
+  "nom": "Pastel de papa : hachis péruvien de poulet effiloché au paprika, purée gratinée au cheddar",
+  "cat": "Plats",
+  "temps": 36,
+  "kcal": 640,
+  "prot": 39,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "pommes de terre",
+    "filet de poulet",
+    "oignon",
+    "gousse d’ail",
+    "poivron",
+    "concentré de tomates",
+    "paprika en poudre",
+    "feuille de laurier",
+    "cheddar râpé",
+    "salade",
+    "bouillon de volaille",
+    "huile d’olive",
+    "vinaigre balsamique noir",
+    "cassonade",
+    "beurre",
+    "moutarde"
+  ],
+  "q": {
+    "pommes de terre": "750 g",
+    "filet de poulet": "3 pièce(s)",
+    "oignon": "2 pièce(s)",
+    "gousse d’ail": "1 pièce(s)",
+    "poivron": "1 ½ pièce(s)",
+    "concentré de tomates": "1 sachet(s)",
+    "paprika en poudre": "¾ sachet(s)",
+    "feuille de laurier": "1 pièce(s)",
+    "cheddar râpé": "1 sachet(s)",
+    "salade": "1 sachet(s)",
+    "bouillon de volaille": "125 ml",
+    "huile d’olive": "2 cs",
+    "vinaigre balsamique noir": "2 cs",
+    "cassonade": "⅓ cc",
+    "beurre": "3 cc",
+    "moutarde": "1 ½ cc"
+  },
+  "port": "3 personnes",
+  "prep": 13,
+  "cuis": 23,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Ça chauffe !. Préchauffez le four à 230 °C (210 °C chaleur tournante). Épluchez et coupez les pommes de terre en petits dés, puis ajoutez-les ainsi que les filets de poulet dans une grande casserole. Ajoutez de l’eau froide à hauteur, salez et portez à ébullition. Couvrez et faites cuire 6-8 min à feu moyen. Retirez le poulet de la casserole, mais faites cuire les pommes de terre 6-8 min de plus, ou jusqu’à ce que la pointe d’un couteau y rentre facilement. Réservez 2 cs d’eau de cuisson par personne, puis égouttez.",
+    "Effilocher la viande. Pendant ce temps, préparez le bouillon avec de l’eau chaude (voir QR Code). Ciselez l’oignon et l’ail. Épépinez et coupez le poivron en petits dés de 1 cm. Effilochez le poulet poché avec deux fourchettes.",
+    "Oups, ça mijote !. Faites chauffer un filet d’huile d’olive à feu moyen-vif dans une sauteuse. Faites-y revenir l’oignon, l’ail et le poivron 2-3 min. Salez et poivrez. Ajoutez, par personne : ⅓ pot de concentré de tomates et ¼ sachet de paprika. Faites revenir une trentaine de secondes en remuant. Déglacez avec 1 cc de vinaigre balsamique noir par personne. Ajoutez le bouillon, le laurier, le poulet effiloché, la cassonade et couvrez. Faites mijoter 5-7 min à feu moyen. Salez et poivrez.",
+    "Opération Pastel. Écrasez les pommes de terre au presse-purée, avec un filet de lait et une noisette de beurre. Salez, poivrez et mélangez jusqu’à obtenir une consistance onctueuse. Badigeonnez un plat à four avec un peu d’huile d’olive. Ôtez le laurier, puis versez le mélange poulet-poivron au fond. Recouvrez de purée. Saupoudrez de cheddar râpé. Enfournez 12-15 min dans la partie haute du four, ou jusqu’à ce que le hachis soit gratiné.",
+    "La touche de vert. Faites une vinaigrette en mélangeant la moutarde avec un filet de vinaigre balsamique et d’huile d’olive, du sel et du poivre dans un saladier. Juste avant de servir, ajoutez la salade et mélangez bien.",
+    "Ding, c’est prêt !. Laissez un peu refroidir le hachis avant de le servir : il se tiendra mieux. Servez la salade dans les assiettes. Disposez une part de pastel de papa à côté."
+  ],
+  "src": "Ma recette"
+}

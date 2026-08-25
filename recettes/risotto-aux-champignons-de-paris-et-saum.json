@@ -1,0 +1,51 @@
+{
+  "id": 1787681156998,
+  "nom": "Risotto aux champignons de Paris et saumon poêlé, persil et citron",
+  "cat": "Pâtes",
+  "temps": 36,
+  "kcal": 664,
+  "prot": 36,
+  "est": 0,
+  "tags": [],
+  "ing": [
+    "gousse d’ail",
+    "échalote",
+    "citron",
+    "riz pour risotto",
+    "champignons de paris",
+    "persil",
+    "filet de saumon avec peau",
+    "fromage râpé à l’italienne",
+    "cube de bouillon de légumes",
+    "beurre",
+    "vinaigre balsamique blanc ou de riz"
+  ],
+  "q": {
+    "gousse d’ail": "1 pièce(s)",
+    "échalote": "1 pièce(s)",
+    "citron": "¾ pièce(s)",
+    "riz pour risotto": "225 g",
+    "champignons de paris": "400 g",
+    "persil": "¾ sachet(s)",
+    "filet de saumon avec peau": "3 pièce(s)",
+    "fromage râpé à l’italienne": "¾ sachet(s)",
+    "cube de bouillon de légumes": "¾ pièce(s)",
+    "beurre": "3 cc",
+    "vinaigre balsamique blanc ou de riz": "1 ½ cs"
+  },
+  "port": "3 personnes",
+  "prep": 13,
+  "cuis": 23,
+  "diff": "Moyen",
+  "cout": "€€€",
+  "steps": [
+    "Atelier découpe. Préparez le bouillon avec, par personne : 350 ml d’eau chaude (voir L’ASTUCE) et ¼ cube de bouillon. Ciselez l’ail et l’échalote. Lavez bien le citron et prélevez-en le zeste avec une râpe fine, puis coupez-le en quartiers.",
+    "Casserole en action. Faites chauffer une noisette de beurre dans une casserole à feu moyen. Faites-y revenir l’échalote 1-2 min, puis ajoutez le riz et la moitié de l’ail. Mélangez 1 min pour que le riz nacre. Ajoutez le vinaigre balsamique blanc (ou de riz) et ⅓ du bouillon. Laissez les grains de riz s’en imbiber lentement. Remuez souvent. Dès que les grains de riz ont absorbé le bouillon, ajoutez-en à nouveau ⅓, puis répétez l’opération avec le reste.",
+    "Coupe, tranche, cisèle !. Le risotto est cuit dès que les grains sont moelleux à l’extérieur et légèrement croquants à cœur. Au total, comptez environ 20-25 min de cuisson (voir L’ASTUCE). Pendant ce temps, nettoyez les champignons avec un essuie-tout humide, puis coupez-les en 6 ou 8. Effeuillez et ciselez le persil (conservez quelques feuilles pour le dressage si vous le souhaitez).",
+    "Les champignons en fête. Faites chauffer une noisette de beurre dans une poêle à feu moyen-vif et faites-y revenir les champignons 5-8 min, ou jusqu’à ce que leur eau se soit évaporée et qu’ils soient légèrement dorés. Ajoutez le reste de l’ail et le persil ciselé, puis poursuivez la cuisson 1-2 min. Réservez-les hors de la poêle. Incorporez une noisette de beurre dans la même poêle et poêlez le saumon 2-3 min sur toutes ses faces à feu moyen-vif, ou jusqu’à ce qu’il soit cuit à cœur. Salez légèrement si vous le souhaitez, et poivrez.",
+    "L’art de l’assaisonnement. Lorsque le riz est cuit, ajoutez-y les ⅔ du fromage râpé et ⅓ des champignons. Pressez quelques gouttes de jus de citron (selon votre goût) et saupoudrez de zestes. Rectifiez l’assaisonnement en sel et en poivre selon votre goût. Mélangez délicatement pour obtenir une texture crémeuse.",
+    "Risotto party !. Servez le risotto dans des assiettes creuses. Parsemez-le du reste de champignons, du reste du fromage, des quartiers de citron et des feuilles de persil s’il vous en reste. Ajoutez le filet de saumon par-dessus. Poivrez. ZOOM NUTRITION : Le saumon dans cette recette est source de vitamine D. Cette vitamine a le pouvoir de contribuer à l’absorption et à l’utilisation normales du calcium et du phosphore."
+  ],
+  "src": "Ma recette",
+  "astuce": "Si vous surveillez votre consommation de sel, vous pouvez mettre moins de cube de bouillon ou ne pas saler car le bouillon l’est déjà. Ajoutez éventuellement de l’eau pour faire cuire les grains davantage. Pour plus d’onctuosité, vous pouvez ajouter une belle noix de beurre dans le risotto."
+}

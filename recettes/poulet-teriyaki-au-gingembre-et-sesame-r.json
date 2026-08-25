@@ -1,0 +1,55 @@
+{
+  "id": 1787681156979,
+  "nom": "Poulet teriyaki au gingembre et sésame, riz et julienne de légumes au gomasio",
+  "cat": "Plats",
+  "temps": 22,
+  "kcal": 639,
+  "prot": 38,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "riz",
+    "oignon",
+    "carotte",
+    "poireau",
+    "ciboulette",
+    "gousse d’ail",
+    "sauce soja",
+    "huile de sésame",
+    "purée de gingembre",
+    "filet de poulet",
+    "gomasio",
+    "huile d’olive",
+    "sucre"
+  ],
+  "q": {
+    "riz": "225 g",
+    "oignon": "2 pièce(s)",
+    "carotte": "2 pièce(s)",
+    "poireau": "2 pièce(s)",
+    "ciboulette": "1 sachet(s)",
+    "gousse d’ail": "2 pièce(s)",
+    "sauce soja": "2 sachet(s)",
+    "huile de sésame": "1 sachet(s)",
+    "purée de gingembre": "1 sachet(s)",
+    "filet de poulet": "4 pièce(s)",
+    "gomasio": "1 sachet(s)",
+    "huile d’olive": "2 cs",
+    "sucre": "4 cs"
+  },
+  "port": "4 personnes",
+  "prep": 8,
+  "cuis": 14,
+  "diff": "Facile",
+  "cout": "€€",
+  "steps": [
+    "On s’y met !. Portez une casserole d’eau salée à ébullition et faites-y cuire le riz 12-14 min, ou jusqu’à ce qu’il soit tendre. Égouttez-le et réservez-le à couvert.",
+    "Et que ça saute !. Pendant ce temps, coupez l’oignon en fines demi-lunes. Épluchez et râpez la carotte. Ciselez le poireau finement. Faites chauffer un filet d’huile d’olive à feu moyen-vif dans un wok ou une sauteuse. Faites-y revenir les légumes 4-6 min à couvert. Remuez régulièrement.",
+    "La sauce qui fait la diff’. En attendant, ciselez la ciboulette et l’ail séparément. Dans un bol, mélangez l’ail avec la sauce soja (voir L’ASTUCE), l’huile de sésame et, par personne : 1 cs de sucre, ¼ sachet de purée de gingembre (ça pique ! Dosez-la selon votre goût) et 30 ml d’eau. Coupez le poulet en 3 aiguillettes.",
+    "Un pas vers le Japon. Faites chauffer un filet d’huile d’olive dans une poêle à feu moyen-vif et faites-y cuire le poulet 2-4 min. Ajoutez-y la sauce et laissez-la réduire 1-2 min à feu vif, ou jusqu’à ce qu’elle soit légèrement nappante (ajoutez un peu d’eau si besoin). Servez le riz dans des assiettes creuses, puis disposez les légumes et le poulet par-dessus avec la sauce. Saupoudrez de ciboulette et de gomasio."
+  ],
+  "src": "Ma recette",
+  "astuce": "Vous pouvez faire cuire les légumes plus longtemps si vous les préférez bien fondants. Si vous faites attention à votre consommation de sel ou n’aimez pas manger trop salé, réduisez la quantité de sauce soja et de gomasio et ne salez pas le plat par la suite."
+}

@@ -1,0 +1,52 @@
+{
+  "id": 1787681156977,
+  "nom": "Pavé de bœuf sauce crémeuse à la moutarde, tomates rôties aux herbes de Provence et haricots verts",
+  "cat": "Plats",
+  "temps": 52,
+  "kcal": 459,
+  "prot": 28,
+  "est": 0,
+  "tags": [
+    "viande",
+    "seche"
+  ],
+  "ing": [
+    "haricots verts",
+    "pavé de bœuf mariné",
+    "échalote",
+    "gousse d’ail",
+    "tomate",
+    "herbes de provence",
+    "crème liquide",
+    "huile d’olive",
+    "vinaigre de vin rouge ou de cidre",
+    "moutarde",
+    "cube de bouillon de volaille"
+  ],
+  "q": {
+    "haricots verts": "1 sachet(s)",
+    "pavé de bœuf mariné": "3 pièce(s)",
+    "échalote": "2 pièce(s)",
+    "gousse d’ail": "1 ½ pièce(s)",
+    "tomate": "4 ½ pièce(s)",
+    "herbes de provence": "¾ sachet(s)",
+    "crème liquide": "1 paquet(s)",
+    "huile d’olive": "3 cs",
+    "vinaigre de vin rouge ou de cidre": "1 ½ cc",
+    "moutarde": "1 ½ cc",
+    "cube de bouillon de volaille": "¾ pièce(s)"
+  },
+  "port": "3 personnes",
+  "prep": 18,
+  "cuis": 34,
+  "diff": "Moyen",
+  "cout": "€€€",
+  "steps": [
+    "Préparer. Préchauffez le four à 220 °C (200 °C chaleur tournante). Sortez la viande du réfrigérateur. Portez une grande casserole d’eau salée à ébullition pour les haricots verts. Ciselez l’ail et coupez l’échalote en fines demi-lunes. 2. Cuire les légumes Coupez les tomates en 2 dans l’épaisseur. Disposez-les (partie plate vers le haut) sur une plaque recouverte de papier sulfurisé. Parsemez-les d’ail et d’une pincée d’herbes de Provence. Ajoutez un mince filet d’huile d’olive. Salez et poivrez. Enfournez les tomates 30-35 min, ou jusqu’à ce qu’elles soient bien dorées et cuites. Équeutez les haricots verts (voir CONSEIL). Faites-les cuire 8-10 min à couvert. Puis, égouttez-les et réservezles en dehors de la casserole. CONSEIL : Vous pouvez équeuter les haricots verts en les alignant et en les coupant au couteau.",
+    "Cuire les haricots verts. Remettez la casserole des haricots verts à feu moyen-vif avec un filet d’huile d’olive. Faites cuire l’échalote 2-3 min, ou jusqu’à ce qu’elle soit fondante. Ajoutez les haricots verts. Salez et poivrez, puis faites revenir 1-2 min.",
+    "Cuire la viande. Dans une poêle à feu moyen-vif, faites chauffer un filet d’huile d’olive. Épongez la viande avec de l’essuie-tout, puis salez-la. Quand l’huile est bien chaude, déposez délicatement les pavés dans la poêle et faites-les dorer 2-3 min de chaque côté. Réservez-les dans une assiette recouverte d’aluminium jusqu’au service.",
+    "Faire la sauce. Remettez la poêle de la viande à feu moyen et déglacez avec ½ cc de vinaigre de vin rouge (ou de cidre) par personne pour détacher tous les sucs de cuisson collés au fond de la poêle. Ajoutez la crème, émiettez le cube de bouillon, puis ajoutez, par personne : ½ cc de moutarde et 2 cs d’eau par personne. Laissez réduire 3-5 min à feu moyen-doux, ou jusqu’à ce que la sauce ait épaissi et soit nappante.",
+    "Servir. Servez les haricots verts et les tomates rôties dans les assiettes. Coupez la viande en tranches dans le sens inverse des fibres afin de conserver sa tendreté. Ajoutez-la à côté, puis nappez-la de sauce à la moutarde."
+  ],
+  "src": "Ma recette"
+}

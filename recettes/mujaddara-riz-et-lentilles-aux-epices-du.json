@@ -1,0 +1,53 @@
+{
+  "id": 1787681156982,
+  "nom": "Mujaddara : riz et lentilles aux épices du Moyen-Orient, oignons caramélisés, feta et labneh",
+  "cat": "Plats",
+  "temps": 44,
+  "kcal": 607,
+  "prot": 23,
+  "est": 0,
+  "tags": [],
+  "ing": [
+    "oignon",
+    "gousse d’ail",
+    "lentilles vertes",
+    "riz",
+    "mélange d’épices du moyen-orient",
+    "raisins secs sultanines",
+    "citron",
+    "persil plat et menthe",
+    "feta aop",
+    "labneh",
+    "cube de bouillon de légumes",
+    "huile d’olive"
+  ],
+  "q": {
+    "oignon": "3 pièce(s)",
+    "gousse d’ail": "3 pièce(s)",
+    "lentilles vertes": "160 g",
+    "riz": "150 g",
+    "mélange d’épices du moyen-orient": "2 sachet(s)",
+    "raisins secs sultanines": "1 sachet(s)",
+    "citron": "1 pièce(s)",
+    "persil plat et menthe": "1 sachet(s)",
+    "feta aop": "1 paquet(s)",
+    "labneh": "1 pot(s)",
+    "cube de bouillon de légumes": "1 pièce(s)",
+    "huile d’olive": "2 ½ cs"
+  },
+  "port": "4 personnes",
+  "prep": 15,
+  "cuis": 29,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "En rang d’oignon. Portez une casserole d’eau à ébullition. Coupez les oignons en demi-lunes et ciselez l’ail.",
+    "La casserole en action. Baissez le feu de la casserole à moyen et ajoutez-y les lentilles. Faites-les cuire 20-22 min. Émiettez ¼ cube de bouillon par personne par-dessus, ajoutez l’ail et le riz (voir L’ASTUCE), et prolongez la cuisson de 12-14 min, ou jusqu’à ce qu’il soit tendre. Égouttez-les et réservez-les à couvert si besoin.",
+    "Ça chauffe !. Pendant ce temps, faites chauffer une poêle à feu moyen-vif. Ajoutez-y un généreux filet d’huile d’olive, les oignons et 1 cc d’épices du Moyen-Orient par personne (ça pique ! Dosez-les selon votre goût), puis faites-les dorer 5-8 min. Baissez le feu à moyen, ajoutez ¼ sachet de raisins secs (selon votre goût) et faites cuire le tout 3-4 min de plus en remuant, ou jusqu’à ce que les oignons soient bien caramélisés. Salez et poivrez.",
+    "Chop, chop. En attendant, coupez le citron en quartiers. Effeuillez et ciselez les herbes. Émiettez la feta.",
+    "L’éveil des épices. Dans la casserole du riz et des lentilles, ajoutez 1 cc d’épices du Moyen-Orient par personne, un petit filet d’huile d’olive et quelques gouttes de jus de citron (selon votre goût). Rectifiez l’assaisonnement en sel et en poivre si besoin.",
+    "Place au dressage. Servez le riz et les lentilles dans des assiettes creuses. Ajoutez les oignons grillés et raisins secs par-dessus, le labneh, la feta et les herbes. Servez avec les quartiers de citron restants."
+  ],
+  "src": "Ma recette",
+  "astuce": "Si vous êtes 3 ou moins à table, vous n’utilisez pas tout le riz. Conservez le reste pour accompagner un autre repas ou pour faire une salade. Pour apprécier pleinement les saveurs de ce plat, essayez de prendre un peu de tous les éléments à chaque bouchée ou mélangez tout simplement l’ensemble du plat au préalable !"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1787681156967,
+  "nom": "Salade d’orzo à la burrata, nectarine grillée et crème de basilic",
+  "cat": "Pâtes",
+  "temps": 14,
+  "kcal": 729,
+  "prot": 19,
+  "est": 0,
+  "tags": [
+    "rapide"
+  ],
+  "ing": [
+    "orzo",
+    "nectarine",
+    "tomates cerises rouges",
+    "burrata",
+    "crème de basilic",
+    "salade",
+    "huile d’olive",
+    "beurre",
+    "vinaigre balsamique noir"
+  ],
+  "q": {
+    "orzo": "150 g",
+    "nectarine": "1 pièce(s)",
+    "tomates cerises rouges": "1 barquette(s)",
+    "burrata": "1 pièce(s)",
+    "crème de basilic": "1 pot(s)",
+    "salade": "1 sachet(s)",
+    "huile d’olive": "2 cs",
+    "beurre": "2 cc",
+    "vinaigre balsamique noir": "2 cs"
+  },
+  "port": "2 personnes",
+  "prep": 5,
+  "cuis": 9,
+  "diff": "Facile",
+  "cout": "€€€",
+  "steps": [
+    "C’est parti !. Portez une grande casserole d’eau salée à ébullition. Ajoutez-y l’orzo et faites-le cuire 10-12 min. Égouttez-le, rincez-le à l’eau froide, puis égouttez-le de nouveau et égrainez-le avec une fourchette. LE SAVIEZ-VOUS ? L’orzo est une variété de pâte dont le nom provient de sa forme, le mot « orzo » signifiant « orge » en italien. 2. Chop, chop, chop Coupez la nectarine en deux, puis en quartiers de 1 cm. Coupez 125 g de tomates cerises par personne en deux. Réservez-les dans un bol en les faisant dégorger avec du sel. Coupez la burrata en petits morceaux de 2 cm.",
+    "Ça chauffe !. Faites chauffer une poêle à feu vif avec un filet d’huile d’olive et un peu de beurre et faites-y griller la nectarine 2-5 min, ou jusqu’à ce qu’elle soit colorée. Réservez-la hors de la poêle.",
+    "Ding, c’est prêt !. Dans un saladier, faites une vinaigrette en mélangeant la crème de basilic avec le vinaigre balsamique et un filet d’huile. Salez et poivrez. Ajoutez la salade, les tomates cerises et l’orzo refroidi. Mélangez, puis servez dans les assiettes creuses. Ajoutez la burrata en petits morceaux et la nectarine grillée sur le dessus. Assaisonnez de sel, de poivre."
+  ],
+  "src": "Ma recette",
+  "astuce": "Pour une présentation encore plus soignée, vous pouvez garder un peu de salade pour décorer vos assiettes."
+}

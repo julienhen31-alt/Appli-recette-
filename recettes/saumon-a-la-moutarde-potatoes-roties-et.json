@@ -1,0 +1,51 @@
+{
+  "id": 1787681156995,
+  "nom": "Saumon à la moutarde, potatoes rôties et salade scandinave concombre-aneth",
+  "cat": "Salades",
+  "temps": 26,
+  "kcal": 647,
+  "prot": 31,
+  "est": 0,
+  "tags": [],
+  "ing": [
+    "pommes de terre",
+    "concombre",
+    "aneth",
+    "échalote",
+    "sucrine",
+    "filet de saumon avec peau",
+    "huile d’olive",
+    "vinaigre de vin rouge ou de cidre",
+    "miel",
+    "moutarde",
+    "beurre"
+  ],
+  "q": {
+    "pommes de terre": "750 g",
+    "concombre": "1 pièce(s)",
+    "aneth": "¾ sachet(s)",
+    "échalote": "2 pièce(s)",
+    "sucrine": "1 ½ pièce(s)",
+    "filet de saumon avec peau": "3 pièce(s)",
+    "huile d’olive": "2 cs",
+    "vinaigre de vin rouge ou de cidre": "3 cc",
+    "miel": "1 ½ cc",
+    "moutarde": "5 cc",
+    "beurre": "1 ½ cc"
+  },
+  "port": "3 personnes",
+  "prep": 9,
+  "cuis": 17,
+  "diff": "Moyen",
+  "cout": "€€€",
+  "steps": [
+    "Ça donne la patate !. Préchauffez le four à 230 °C (210 °C chaleur tournante). Lavez bien, puis coupez les pommes de terre en potatoes de 1 cm. Tamponnez-les avec de l’essuie-tout pour qu’elles soient croustillantes après cuisson. Sur une plaque recouverte de papier sulfurisé, mélangez-les avec un filet d’huile d’olive. Salez, poivrez et enfournez-les 20-25 min, ou jusqu’à ce qu’elles soient dorées et fondantes à cœur.",
+    "Atelier découpe. Pendant ce temps, lavez bien le concombre et coupez-le en fines rondelles. Ciselez finement l’aneth et l’échalote séparément.",
+    "La vinaigrette qui fait la diff’. Coupez la sucrine en fines lanières (voir L’ASTUCE). Faites une vinaigrette en mélangeant du vinaigre de vin, du miel, l’aneth et un petit filet d’huile d’olive avec une pointe de moutarde dans un saladier. Salez et poivrez. Au moment de servir, mélangez le concombre, l’échalote (selon le goût, vous la mangerez crue) et la sucrine à la vinaigrette.",
+    "La moutarde qui change tout. Tamponnez les filets de saumon avec de l’essuie-tout. À la cuillère ou au pinceau, badigeonnez-les du reste de moutarde sur toutes les faces. Salez et poivrez. L’ANALYSE DE CLAIRE : « Le saumon dans cette recette est source de potassium. Le potassium contribue au fonctionnement normal du système nerveux. »",
+    "Un A/R pour le poisson. Faites chauffer une noisette de beurre dans une poêle à feu moyen-vif. Faites-y d’abord cuire le saumon 2-3 min côté peau, puis 1-2 min de l’autre côté, ou jusqu’à ce qu’il soit doré et sa chair opaque et cuite à cœur. Salez et poivrez légèrement.",
+    "Le grand final. Servez les potatoes dans les assiettes. Ajoutez le saumon à la moutarde et la salade scandinave à côté."
+  ],
+  "src": "Ma recette",
+  "astuce": "Faites cuire les frites à la friteuse si vous en avez une. Il se peut que les premières feuilles de votre sucrine soient légèrement déshydratées ; pensez à les retirer avant de les consommer."
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1787681156936,
+  "nom": "Cuisses de poulet rôties aux épices BBQ et panzanella melon-tomate",
+  "cat": "Plats",
+  "temps": 44,
+  "kcal": 1033,
+  "prot": 43,
+  "est": 0,
+  "tags": [
+    "viande",
+    "masse"
+  ],
+  "ing": [
+    "cuisse de poulet",
+    "mélange d’épices pour bbq",
+    "melon charentais",
+    "tomate",
+    "pain de campagne tranché",
+    "origan séché",
+    "salade",
+    "vinaigre balsamique noir",
+    "huile d’olive",
+    "beurre"
+  ],
+  "q": {
+    "cuisse de poulet": "3 pièce(s)",
+    "mélange d’épices pour bbq": "1 ½ sachet(s)",
+    "melon charentais": "¾ pièce(s)",
+    "tomate": "3 pièce(s)",
+    "pain de campagne tranché": "3 tranche(s)",
+    "origan séché": "1 sachet(s)",
+    "salade": "1 sachet(s)",
+    "vinaigre balsamique noir": "1 ½ cs",
+    "huile d’olive": "4 cs",
+    "beurre": "3 cc"
+  },
+  "port": "3 personnes",
+  "prep": 15,
+  "cuis": 29,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "L’aile ou la cuisse ?. Préchauffez le four à 220 °C (200 °C chaleur tournante). Faites chauffer une noisette de beurre et un petit filet d’huile d’olive dans une grande sauteuse à feu moyen-vif. Ajoutez-y les cuisses de poulet, salez et poivrez. Faites-les dorer 4-5 min de chaque côté (gardez la sauteuse avec les sucs pour l’étape 5). 2. Hop, au four ! Disposez les cuisses de poulet sur une plaque recouverte de papier sulfurisé. Assaisonnez-les avec, par personne : ½ sachet du mélange d’épices BBQ, du sel et du poivre. Enfournez-les 30-35 min, ou jusqu’à ce qu’elles soient cuites à cœur.",
+    "Sortez vos planches !. Pendant ce temps, coupez le melon en deux, évidez-le, puis coupez-le en dés de 1-2 cm (voir L’ASTUCE). Coupez les tomates en 8 quartiers.",
+    "L’art de la vinaigrette. Dans un saladier, faites une vinaigrette en mélangeant un filet d’huile d’olive avec du vinaigre balsamique, une pincée d’origan séché, du sel et du poivre. Ajoutez-y la tomate et laissez mariner jusqu’au moment de servir.",
+    "Croûtons en action. Déchirez une tranche de pain par personne ou coupez-la en petits dés (voir L’ASTUCE). Faites chauffer la sauteuse du poulet à feu moyen-vif avec un petit filet d’huile d’olive et une pincée d’origan séché. Faites-y cuire les dés de pain 6-8 min, ou jusqu’à ce qu’ils soient dorés et croustillants, en remuant régulièrement. Salez et poivrez, puis réservez-les hors du feu.",
+    "Miam, miam !. Juste avant de servir, ajoutez la salade, le melon et les croûtons au saladier. Mélangez délicatement. Servez les cuisses de poulet dans les assiettes. S’il y a du jus de cuisson, versez-le par-dessus. Servez avec la salade panzanella."
+  ],
+  "src": "Ma recette",
+  "astuce": "Une odeur à l’ouverture du poulet est normale : elle est liée à l’emballage qui préserve sa qualité. Laissez-le s’aérer un peu. Si vous avez une cuillère parisienne, utilisez-la pour couper le melon en petites billes. Si vous voulez gagner du temps, vous pouvez également toaster le pain à l’aide d’un grille-pain et le couper en petits dés par la suite."
+}

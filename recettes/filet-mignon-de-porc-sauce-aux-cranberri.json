@@ -1,0 +1,56 @@
+{
+  "id": 1787681156983,
+  "nom": "Filet mignon de porc, sauce aux cranberries, grenailles au romarin et broccolini",
+  "cat": "Plats",
+  "temps": 60,
+  "kcal": 635,
+  "prot": 34,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "grenailles",
+    "cranberries séchées",
+    "romarin",
+    "filet mignon de porc",
+    "échalote",
+    "gousse d’ail",
+    "broccolini",
+    "amandes effilées",
+    "bouillon de volaille",
+    "huile d’olive",
+    "beurre",
+    "vinaigre balsamique blanc ou de riz",
+    "farine"
+  ],
+  "q": {
+    "grenailles": "1000 g",
+    "cranberries séchées": "1 sachet(s)",
+    "romarin": "5 brin(s)",
+    "filet mignon de porc": "4 pièce(s)",
+    "échalote": "2 pièce(s)",
+    "gousse d’ail": "2 pièce(s)",
+    "broccolini": "1 sachet(s)",
+    "amandes effilées": "1 sachet(s)",
+    "bouillon de volaille": "240 ml",
+    "huile d’olive": "2 cs",
+    "beurre": "4 cc",
+    "vinaigre balsamique blanc ou de riz": "2 cs",
+    "farine": "2 cc"
+  },
+  "port": "4 personnes",
+  "prep": 21,
+  "cuis": 39,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Elles font trempette !. Préchauffez le four à 220 °C (200 °C chaleur tournante). Préparez le bouillon avec de l’eau chaude. Coupez les grenailles en deux, voire en quatre pour les plus grosses. Versez de l’eau chaude dans un petit bol et laissez-y tremper les cranberries jusqu’à utilisation. Ceci permettra de les réhydrater.",
+    "Hop, au four !. Effeuillez le romarin et ciselez-le très finement. Placez les grenailles sur une plaque recouverte de papier sulfurisé. Arrosez-les d’un filet d’huile d’olive et parsemez-les de romarin. Salez, poivrez et mélangez bien. Enfournez-les 25-30 min. Remuez à mi-cuisson.",
+    "La poêle en action. Salez et poivrez le filet mignon. Faites chauffer un filet d’huile d’olive dans une poêle à feu moyen. Faites-y dorer le filet mignon sur les deux côtés 10-13 min en le retournant régulièrement. Retirez-le de la poêle et réservez-le dans de l’aluminium jusqu’au service. Conservez les sucs de cuisson dans la poêle. En attendant, ciselez l’échalote très finement et l’ail séparément.",
+    "Le secret est dans la sauce. Faites chauffer une noix de beurre à feu moyen-vif dans la poêle du filet mignon. Faites-y revenir l’échalote et les cranberries (égouttées) 3-4 min. Déglacez avec ½ cs de vinaigre balsamique blanc (ou de riz) par personne et grattez bien les sucs de cuisson avec une spatule. Ajoutez ½ cc de farine par personne et mélangez 30 secondes. Versez le bouillon. Salez et poivrez. Laissez réduire 4-5 min à feu moyen-doux en remuant régulièrement, ou jusqu’à obtenir une sauce onctueuse.",
+    "Au tour du broccolini. Faites chauffer une poêle à feu moyen-vif avec un filet d’huile d’olive. Faites revenir l’ail et le broccolini 1-2 min. Arrosez avec 125 ml d’eau par personne. Baissez le feu à doux et laissez le broccolini étuver à couvert 10-12 min. Égouttez-le si besoin.",
+    "Que la fête commence !. Servez la viande dans les assiettes avec le broccolini et les grenailles rôties au romarin. Parsemez d’amandes effilées. Versez le jus de cranberries dans un petit bol et présentez-le à côté."
+  ],
+  "src": "Ma recette"
+}

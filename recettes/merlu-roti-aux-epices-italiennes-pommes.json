@@ -1,0 +1,44 @@
+{
+  "id": 1787681156956,
+  "nom": "Merlu rôti aux épices italiennes, pommes de terre, brocoli et épinards au pesto",
+  "cat": "Plats",
+  "temps": 61,
+  "kcal": 616,
+  "prot": 36,
+  "est": 0,
+  "tags": [],
+  "ing": [
+    "épinards",
+    "pommes de terre",
+    "gousse d’ail",
+    "filet de merlu avec peau",
+    "épices italiennes",
+    "brocoli",
+    "pesto vert alla genovese",
+    "huile d’olive"
+  ],
+  "q": {
+    "épinards": "¾ sachet(s)",
+    "pommes de terre": "600 g",
+    "gousse d’ail": "1 pièce(s)",
+    "filet de merlu avec peau": "375 g",
+    "épices italiennes": "¾ sachet(s)",
+    "brocoli": "¾ pièce(s)",
+    "pesto vert alla genovese": "90 g",
+    "huile d’olive": "3 cc"
+  },
+  "port": "3 personnes",
+  "prep": 21,
+  "cuis": 40,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Préparer. Préchauffez le four à 200 °C (180 °C chaleur tournante). Rincez les épinards et laissez-les s’égoutter dans la passoire. Lavez ou épluchez les pommes de terre, puis coupez-les en 4, voire en 6 pour les plus grosses. Ciselez l’ail. CONSEIL : Coupez les pommes de terre en dés de taille égale pour qu’ils cuisent uniformément.",
+    "Enfourner les pommes de terre. Placez les pommes de terre sur une plaque recouverte de papier sulfurisé et mélangez-les avec un filet d’huile d’olive. Salez et poivrez, puis enfournez-les 40-45 min, ou jusqu’à ce qu’elles soient tendres et dorées.",
+    "Enfourner le poisson. Placez le merlu sur une autre plaque recouverte de papier sulfurisé et assaisonnez-les avec du sel, du poivre, l’ail ciselé et ¼ sachet d’épices italiennes par personne. Ajoutez un filet d’huile d’olive, puis massez le merlu pour bien répartir l’assaisonnement. Enfournez-le lorsqu’il reste 10-12 min de cuisson aux pommes de terre. Le merlu est cuit lorsque sa chair est opaque et qu’elle se détache facilement.",
+    "Cuire le brocoli. Pendant ce temps, portez une casserole d’eau salée à ébullition. Coupez le brocoli en fleurettes et les tiges en de taille égale. Ajoutez-les dans la casserole et faites-les cuire 5-7 min, ou jusqu’à ce qu’ils soient tendres. Faites chauffer un filet d’huile d’olive dans une poêle à feu moyen-vif, puis ajoutez les épinards et faites-les cuire 1-2 min en remuant, ou jusqu’à ce qu’ils réduisent. Salez et poivrez. Réservez hors du feu.",
+    "Mélanger. Lorsque tout est cuit, transférez les pommes de terre chaudes dans un saladier ainsi que les épinards et le brocoli. Ajoutez le pesto et mélangez le tout. Salez et poivrez.",
+    "Finir et servir. Servez le mélange de pommes de terre, brocoli et épinards au pesto dans des assiettes creuses. Ôtez la peau du merlu et émiettez-le par-dessus. Ajoutez un filet d’huile d’olive si vous le souhaitez. Goûtez et ajustez l’assaisonnement en sel et en poivre."
+  ],
+  "src": "Ma recette"
+}

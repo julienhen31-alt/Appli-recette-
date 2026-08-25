@@ -1,0 +1,61 @@
+{
+  "id": 1787681157011,
+  "nom": "Bò bún au poulet caramélisé et mini nems, nouilles de riz, carotte et concombre",
+  "cat": "Pâtes",
+  "temps": 20,
+  "kcal": 970,
+  "prot": 38,
+  "est": 0,
+  "tags": [
+    "viande",
+    "rapide"
+  ],
+  "ing": [
+    "nouilles plates de riz",
+    "gousse d’ail",
+    "blanc de poulet",
+    "sauce poisson",
+    "citronnelle moulue",
+    "carotte",
+    "concombre",
+    "piment",
+    "coriandre et menthe",
+    "mini nems au poulet et sauce poisson",
+    "huile de sésame",
+    "cacahuètes non salées",
+    "cassonade",
+    "vinaigre balsamique blanc ou de riz",
+    "huile de tournesol"
+  ],
+  "q": {
+    "nouilles plates de riz": "300 g",
+    "gousse d’ail": "1 pièce(s)",
+    "blanc de poulet": "300 g",
+    "sauce poisson": "30 ml",
+    "citronnelle moulue": "1 sachet(s)",
+    "carotte": "1 ½ pièce(s)",
+    "concombre": "¾ pièce(s)",
+    "piment": "⅓ pièce(s)",
+    "coriandre et menthe": "1 sachet(s)",
+    "mini nems au poulet et sauce poisson": "1 ½ paquet(s)",
+    "huile de sésame": "30 ml",
+    "cacahuètes non salées": "¾ sachet(s)",
+    "cassonade": "3 cc",
+    "vinaigre balsamique blanc ou de riz": "1 ½ cs",
+    "huile de tournesol": "1 ½ cs"
+  },
+  "port": "3 personnes",
+  "prep": 7,
+  "cuis": 13,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Mariner la viande. Portez une grande casserole d’eau salée à ébullition pour les nouilles. Ciselez l’ail. Recoupez le poulet en plus petits dés. Dans un bol, mélangez le poulet avec la majorité de l’ail (gardez-en une pincée pour l’étape 4) et, par personne : ½ cs de sauce poisson, ½ cc de citronnelle moulue et ½ cc de cassonade. Laissez mariner jusqu’au moment de cuire.",
+    "Cuire les nouilles. Préchauffez le four à 200 °C (180 °C chaleur tournante). Faites cuire les nouilles 4-8 min (goûtez-les pour vérifier la cuisson) dans l’eau bouillante. Égouttez et rincez-les à l’eau froide, puis égouttez-les de nouveau (voir CONSEIL). Pendant ce temps, épluchez et râpez la carotte. CONSEIL : Les nouilles du Bò bún se mangent traditionnellement froides. Si vous les préférez tièdes, ne les rincez pas à l’eau froide, mais mélangez-les avec un peu d’huile.",
+    "Couper. Coupez le concombre en fines demi-lunes de 5 mm. Épépinez et ciselez finement le piment (ça pique ! Dosez-le selon votre goût). Effeuillez et ciselez la coriandre et la menthe. Placez les nems sur une plaque recouverte de papier sulfurisé et enfournez-les 8-10 min, ou jusqu’à ce qu’ils soient dorés. Une fois cuits, coupez-les en trois en veillant à ne pas vous brûler.",
+    "Assaisonner les légumes. Dans un petit bol, mélangez la sauce des nems avec le vinaigre balsamique blanc (ou de riz), le piment, la pincée d’ail réservée, l’huile de sésame et le reste de sauce poisson. Ajoutez, par personne : ½ cc de cassonade et ½ cc de citronnelle moulue ainsi qu’un généreux filet d’eau (2-4 cs par personne) jusqu’à obtenir une sauce assez fluide. Mélangez. Placez carotte et concombre dans deux bols différents. Salez et poivrez, puis arrosez chaque bol avec ⅓ de la sauce. Mélangez bien.",
+    "Cuire la viande. Faites chauffer un filet d’huile de tournesol à feu vif dans un wok ou une sauteuse. Faites-y revenir les dés de poulet 4-6 min de tous les côtés, ou jusqu’à ce qu’ils soient dorés et légèrement caramélisés.",
+    "Servir. Servez les nouilles dans des bols ou des assiettes creuses. Arrosez-les avec le ⅓ de sauce restant. Par-dessus, placez le concombre, la carotte, les nems et le poulet. Saupoudrez de cacahuètes et d’herbes ciselées."
+  ],
+  "src": "Ma recette"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1787681156981,
+  "nom": "Poulet thaï à la citronnelle et au gingembre, riz parfumé et basilic thaï",
+  "cat": "Plats",
+  "temps": 22,
+  "kcal": 635,
+  "prot": 36,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "riz",
+    "gousse d’ail",
+    "oignon",
+    "poivron",
+    "citronnelle fraîche",
+    "purée de gingembre",
+    "filet de poulet",
+    "sauce asiatique sucrée",
+    "sauce soja",
+    "coriandre et basilic thaï",
+    "huile de tournesol"
+  ],
+  "q": {
+    "riz": "225 g",
+    "gousse d’ail": "1 pièce(s)",
+    "oignon": "2 pièce(s)",
+    "poivron": "2 pièce(s)",
+    "citronnelle fraîche": "1 pièce(s)",
+    "purée de gingembre": "1 sachet(s)",
+    "filet de poulet": "3 pièce(s)",
+    "sauce asiatique sucrée": "1 sachet(s)",
+    "sauce soja": "¾ sachet(s)",
+    "coriandre et basilic thaï": "1 sachet(s)",
+    "huile de tournesol": "3 cs"
+  },
+  "port": "3 personnes",
+  "prep": 8,
+  "cuis": 14,
+  "diff": "Facile",
+  "cout": "€€",
+  "steps": [
+    "Préparer. Portez une casserole d’eau salée à ébullition pour le riz. Ciselez l’ail et l’oignon. Épépinez et coupez les poivrons en fines lanières de 5 mm. Retirez les deux extrémités ainsi que les premières peaux un peu dures de la citronnelle. Coupez-la en deux tronçons. Hachez le tronçon plus épais en très petits morceaux (vous allez manger cette partie, taillez-la donc très finement) et faites infuser le reste de la tige dans l’eau du riz.",
+    "Cuire le riz. Faites cuire le riz 12-14 min à feu moyen, avec la partie fine de la citronnelle, ou jusqu’à ce qu’il soit tendre. Égouttez-le, retirez la citronnelle, mélangez-le avec une pointe de purée de gingembre (ça pique ! Dosez-la selon votre goût et gardez-en pour l’étape suivante). Réservez-le à couvert.",
+    "Cuire la viande. Coupez les filets de poulet en dés de 2 cm. Ajoutez-les dans un bol avec l’ail, l’oignon, ½ cc de purée de gingembre par personne, les fines rondelles de citronnelle, la sauce asiatique sucrée et la sauce soja. Poivrez et remuez. Faites chauffer un filet d’huile de tournesol dans un wok ou une sauteuse à feu moyen-vif. Faites-y revenir le poivron 2 min. Ajoutez-y le poulet et sa sauce. Faites-le cuire 5-6 min de tous les côtés, ou jusqu’à ce qu’il soit bien doré.",
+    "Finir et servir. Pendant ce temps, effeuillez la coriandre et le basilic thaï séparément. Une fois le poulet cuit, ajoutez-y les feuilles de basilic thaï et 1 cs d’eau par personne. Remuez le tout 1 min. Disposez le riz assaisonné au centre des assiettes (voir CONSEIL). Placez le poulet en sauce par-dessus. Parsemez de feuilles de coriandre. CONSEIL : Pour un dressage plus élégant, tassez légèrement chaque portion de riz dans un bol, puis retournez-le sur l’assiette."
+  ],
+  "src": "Ma recette"
+}

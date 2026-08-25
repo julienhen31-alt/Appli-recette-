@@ -1,0 +1,54 @@
+{
+  "id": 1787681157001,
+  "nom": "Soupe thaï de nouilles udon au poulet, lait de coco, citronnelle et basilic thaï",
+  "cat": "Pâtes",
+  "temps": 10,
+  "kcal": 600,
+  "prot": 32,
+  "est": 0,
+  "tags": [
+    "viande",
+    "rapide"
+  ],
+  "ing": [
+    "gingembre frais",
+    "carotte",
+    "pak choï",
+    "blanc de poulet",
+    "garam masala",
+    "lait de coco",
+    "citronnelle fraîche",
+    "nouilles udon fraîches",
+    "sauce poisson",
+    "basilic thaï",
+    "bouillon de volaille",
+    "huile de tournesol"
+  ],
+  "q": {
+    "gingembre frais": "1 cm",
+    "carotte": "2 pièce(s)",
+    "pak choï": "1 pièce(s)",
+    "blanc de poulet": "1 paquet(s)",
+    "garam masala": "¾ sachet(s)",
+    "lait de coco": "1 paquet(s)",
+    "citronnelle fraîche": "1 pièce(s)",
+    "nouilles udon fraîches": "300 g",
+    "sauce poisson": "¾ sachet(s)",
+    "basilic thaï": "8g",
+    "bouillon de volaille": "800 ml",
+    "huile de tournesol": "1 ½ cs"
+  },
+  "port": "3 personnes",
+  "prep": 5,
+  "cuis": 5,
+  "diff": "Facile",
+  "cout": "€€",
+  "steps": [
+    "Mission découpe activée !. Préparez le bouillon avec de l’eau chaude (voir L’ASTUCE). Râpez le gingembre (ça pique ! Dosez-le selon votre goût). Épluchez et coupez la carotte en très fines demilunes. Ôtez la base dure du pak choï, puis coupez-le en lanières de 2 cm.",
+    "L’éveil des saveurs. Recoupez le poulet en plus petits dés. Faites chauffer un filet d’huile de tournesol dans une casserole à feu moyen. Faites-y revenir le gingembre et ¼ sachet de garam masala (ça pique ! Dosez-le selon votre goût) par personne 1-2 min.",
+    "Soupe en cours. Secouez bien le lait de coco afin que les éventuels grumeaux se décomposent, puis ajoutez-en la moitié à la casserole. Versez le bouillon. Cassez ou coupez le bâton de citronnelle en 3. Ajoutez-le ainsi que le pak choï, la carotte et le poulet à la casserole. Laissez mijoter 8 min à couvert et à feu moyen, ou jusqu’à ce que le poulet soit cuit à cœur et les légumes tendres. À mi-cuisson, ajoutez les nouilles udon, puis l’autre moitié du lait de coco. Remuez bien pour délier les nouilles. Retirez la citronnelle de la soupe et assaisonnez-la de 10 ml de sauce poisson par personne et de poivre (selon votre goût).",
+    "Chaud devant !. Servez la soupe dans des bols ou des assiettes creuses. Déchirez le basilic thaï directement au-dessus du plat. LE SAVIEZ-VOUS ? La sauce de poisson ou « nuoc mam » en vietnamien, est une sauce à base de poisson fermenté dans une saumure. Si vous voulez que votre plat soit un peu plus acidulé, vous pouvez ajouter un filet de vinaigre de riz !"
+  ],
+  "src": "Ma recette",
+  "astuce": "Si vous surveillez votre consommation de sel, utilisez un peu moins de cube de bouillon dans la même quantité d’eau bouillante. Si votre poulet présente une odeur à l’ouverture, pas d’inquiétude : c’est lié à l’emballage qui préserve sa qualité. Laissez-le s’aérer un peu. Une fois cuisiné, il sera délicieux !"
+}

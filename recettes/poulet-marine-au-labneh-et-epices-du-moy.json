@@ -1,0 +1,61 @@
+{
+  "id": 1787681156963,
+  "nom": "Poulet mariné au labneh et épices du Moyen-Orient, boulgour au fenouil et curcuma",
+  "cat": "Plats",
+  "temps": 34,
+  "kcal": 752,
+  "prot": 37,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "gousse d’ail",
+    "citron",
+    "blanc de poulet",
+    "labneh",
+    "mélange d’épices du moyen-orient",
+    "fenouil",
+    "oignon",
+    "curcuma en poudre",
+    "boulgour",
+    "persil plat et menthe",
+    "bouillon de volaille",
+    "huile d’olive",
+    "vinaigre balsamique blanc ou de riz",
+    "beurre",
+    "miel"
+  ],
+  "q": {
+    "gousse d’ail": "2 pièce(s)",
+    "citron": "1 ½ pièce(s)",
+    "blanc de poulet": "2 paquet(s)",
+    "labneh": "2 pot(s)",
+    "mélange d’épices du moyen-orient": "3 sachet(s)",
+    "fenouil": "3 pièce(s)",
+    "oignon": "4 pièce(s)",
+    "curcuma en poudre": "1 ½ sachet(s)",
+    "boulgour": "360 g",
+    "persil plat et menthe": "2 sachet(s)",
+    "bouillon de volaille": "900 ml",
+    "huile d’olive": "6 cs",
+    "vinaigre balsamique blanc ou de riz": "6 cc",
+    "beurre": "6 cc",
+    "miel": "6 cc"
+  },
+  "port": "6 personnes",
+  "prep": 12,
+  "cuis": 22,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "On s’y met !. Préparez le bouillon avec de l’eau chaude. Ciselez finement l’ail. Lavez bien le citron et prélevez-en le zeste avec une râpe fine. Coupez-le en quartiers. Recoupez les dés de poulet en plus petits dés si nécessaire.",
+    "La marinade qui fait la diff’. Dans un bol, mélangez l’ail, ⅓ du labneh et, par personne : le jus de ¼ citron et ¼ sachet d’épices du MoyenOrient (ça pique ! Dosez-les selon votre goût). Ajoutez les dés de poulet et mélangez. Faites-les mariner une dizaine de min.",
+    "Atelier découpe. Coupez le fenouil en deux, puis en quartiers (retirez-en la partie dure) et en petit dés de 5 mm. Réservez éventuellement les fanes pour décorer le plat final. Ciselez finement l’oignon. Effeuillez la menthe et le persil et ciselez-les finement (vous pouvez garder quelques feuilles pour la décoration).",
+    "C’est du tout cuit. Faites chauffer un filet d’huile d’olive dans une sauteuse à feu moyen-vif. Faites-y revenir l’oignon, le fenouil, ¼ sachet de curcuma et ¼ sachet d’épices du Moyen-Orient par personne 8-10 min, ou jusqu’à ce que le fenouil soit presque fondant. Ajoutez 60 g de boulgour par personne (ou la totalité si vous ne comptez pas les calories). Déglacez avec 1 cc de vinaigre balsamique blanc (ou de riz) par personne. Versez le bouillon. Portez à ébullition, puis laissez cuire 15-20 min à feu moyen. Le boulgour doit être cuit et le bouillon complètement absorbé. Ajoutez de l’eau en cours de cuisson si nécessaire.",
+    "Ça dore. Faites fondre une noix de beurre dans une grande poêle à feu moyen-vif, ajoutez-y le reste des épices du Moyen-Orient et faites revenir le tout 1-2 min. Réservez le beurre aux épices dans un petit bol. Faites chauffer un filet d’huile d’olive dans la même poêle à feu moyen-vif. Faites-y dorer le poulet de tous les côtés 5-6 min, ou jusqu’à ce qu’il soit cuit à cœur, salez et poivrez.",
+    "Sur la route des saveurs. Dans un petit bol, mélangez le reste de labneh, les herbes ciselées, une pincée de zeste de citron (selon votre goût), 1 cc de miel par personne, un petit filet d’huile d’olive, du sel et poivre. Servez le boulgour dans des assiettes creuses et disposez le poulet par-dessus. Parsemez de fanes de fenouil et d’herbes si vous en avez gardé et arrosez de labneh et de beurre d’épices. Mélangez le tout avant de déguster."
+  ],
+  "src": "Ma recette",
+  "astuce": "Plus la viande marine longtemps, plus elle devient savoureuse. Si vous avez le temps le matin, préparez la marinade avant de partir, ajoutez-y le poulet, mélangez et conservez le tout au réfrigérateur."
+}

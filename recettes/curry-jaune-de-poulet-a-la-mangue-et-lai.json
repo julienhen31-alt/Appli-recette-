@@ -1,0 +1,52 @@
+{
+  "id": 1787681157005,
+  "nom": "Curry jaune de poulet à la mangue et lait de coco, riz et coriandre",
+  "cat": "Plats",
+  "temps": 28,
+  "kcal": 565,
+  "prot": 33,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "gousse d’ail",
+    "oignon",
+    "gingembre frais",
+    "coriandre",
+    "filet de poulet",
+    "mangue",
+    "curry jaune",
+    "riz",
+    "lait de coco",
+    "bouillon de volaille",
+    "beurre"
+  ],
+  "q": {
+    "gousse d’ail": "1 pièce(s)",
+    "oignon": "1 pièce(s)",
+    "gingembre frais": "1 cm",
+    "coriandre": "1 sachet(s)",
+    "filet de poulet": "3 pièce(s)",
+    "mangue": "½ pièce(s)",
+    "curry jaune": "1 sachet(s)",
+    "riz": "200 g",
+    "lait de coco": "180 ml",
+    "bouillon de volaille": "150 ml",
+    "beurre": "1 ½ cc"
+  },
+  "port": "3 personnes",
+  "prep": 10,
+  "cuis": 18,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Couper. Ciselez l’ail et l’oignon. Râpez le gingembre (ça pique ! Dosez-le selon votre goût). Ciselez la coriandre. Coupez le poulet en dés. Coupez la mangue en deux et taillez-la en dés (comptez ⅓ de pièce pour 2). CONSEIL : Votre mangue n’est pas assez mûre ? Coupez-la en lanières avec un éplucheur : cela sera plus facile ! S’il vous reste de la mangue, mangez-la en dessert.",
+    "Faire revenir. Préparez le bouillon avec de l’eau chaude. Portez une grande casserole d’eau salée à ébullition pour le riz. Faites chauffer un wok ou une sauteuse à feu moyen-vif. Faites-y fondre le beurre, puis ajoutez ⅓ sachet de curry par personne (ça pique ! Dosez-le selon votre goût). Faites-le torréfier 1 min, puis ajoutez le gingembre, l’ail et l’oignon. Faites sauter le tout 3-4 min.",
+    "Cuire le riz. Faites cuire le riz 12-14 min dans la casserole d’eau bouillante. Égouttez-le et réservez-le.",
+    "Mijoter. Secouez le paquet de lait de coco afin que les éventuels grumeaux se décomposent, puis ajoutez-le ainsi que le bouillon au wok. Mélangez bien. Baissez le feu, poivrez, couvrez et laissez mijoter 3-4 min.",
+    "Terminer la cuisson. Ajoutez le poulet au wok et faites cuire 2-4 min de plus, toujours à couvert. Ajoutez la mangue, puis prolongez la cuisson de 3-4 min, ou jusqu’à ce que les morceaux de poulet ne soient plus rosés à cœur. Goûtez, puis salez et poivrez selon votre goût. CONSEIL : Si votre curry épaissit trop, ajoutez un petit filet d’eau et mélangez.",
+    "Servir. Servez le riz dans des assiettes creuses et le curry par-dessus. Saupoudrez de coriandre."
+  ],
+  "src": "Ma recette"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1787681157009,
+  "nom": "Nouilles sautées au poulet, poireau et tomates séchées, pâte javanaise et noix de cajou",
+  "cat": "Pâtes",
+  "temps": 13,
+  "kcal": 565,
+  "prot": 35,
+  "est": 0,
+  "tags": [
+    "viande",
+    "rapide"
+  ],
+  "ing": [
+    "gousse d’ail",
+    "gingembre frais",
+    "poireau",
+    "tomates semi-séchées",
+    "blanc de poulet",
+    "sauce asiatique sucrée",
+    "pâte épicée javanaise",
+    "sauce soja",
+    "nouilles de blé",
+    "noix de cajou concassées",
+    "huile de tournesol"
+  ],
+  "q": {
+    "gousse d’ail": "2 pièce(s)",
+    "gingembre frais": "1 cm",
+    "poireau": "2 pièce(s)",
+    "tomates semi-séchées": "100 g",
+    "blanc de poulet": "400 g",
+    "sauce asiatique sucrée": "4 sachet(s)",
+    "pâte épicée javanaise": "1 sachet(s)",
+    "sauce soja": "40 ml",
+    "nouilles de blé": "200 g",
+    "noix de cajou concassées": "1 sachet(s)",
+    "huile de tournesol": "2 cs"
+  },
+  "port": "4 personnes",
+  "prep": 5,
+  "cuis": 8,
+  "diff": "Facile",
+  "cout": "€€",
+  "steps": [
+    "Couper. Ciselez l’ail et râpez le gingembre (ça pique ! Dosez-le selon votre goût). Coupez le poireau en deux dans l’épaisseur, lavez-le bien, puis taillez-le en fines demi-lunes. Coupez les tomates séchées en morceaux. Recoupez le poulet en petits dés.",
+    "Cuire la garniture. Portez une grande casserole d’eau à ébullition pour les nouilles. Faites chauffer ½ cs d’huile de tournesol dans un wok ou une sauteuse à feu moyen-vif. Faites-y dorer le poulet 2 min. Ajoutez l’ail, le poireau et les tomates séchées. Poivrez et faites cuire 6-8 min. Ajoutez la sauce asiatique, la pâte javanaise (ça pique ! Dosez-la selon votre goût), le gingembre et la sauce soja. Mélangez bien. CONSEIL : Vous surveillez votre consommation de sel ? Dans ce cas, utilisez seulement la moitié de la sauce soja et veillez à ne pas trop saler le reste du plat.",
+    "Cuire les nouilles. Pendant ce temps, faites cuire les nouilles 2-4 min dans la casserole d’eau bouillante. Ces pâtes peuvent coller un peu. Utilisez donc deux fourchettes pour les détacher pendant la cuisson. Égouttez-les, rincez-les brièvement à l’eau froide pour éviter qu’elles ne collent entre elles, puis ajoutez-les au wok. Mélangez bien et faites sauter le tout à feu vif 1 min de plus.",
+    "Servir. Servez les nouilles et le contenu du wok dans les assiettes. Garnissez avec les noix de cajou concassées."
+  ],
+  "src": "Ma recette"
+}

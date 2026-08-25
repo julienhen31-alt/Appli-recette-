@@ -1,0 +1,52 @@
+{
+  "id": 1787681156937,
+  "nom": "Tomates farcies au quinoa, chorizo et pecorino",
+  "cat": "Plats",
+  "temps": 50,
+  "kcal": 553,
+  "prot": 28,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "quinoa",
+    "tomate",
+    "gousse d’ail",
+    "oignon",
+    "persil",
+    "courgette",
+    "dés de chorizo",
+    "herbes de provence",
+    "pecorino romano aop râpé",
+    "bouillon de légumes",
+    "huile d’olive"
+  ],
+  "q": {
+    "quinoa": "150 g",
+    "tomate": "6 pièce(s)",
+    "gousse d’ail": "1 pièce(s)",
+    "oignon": "2 pièce(s)",
+    "persil": "¾ sachet(s)",
+    "courgette": "1 ½ pièce(s)",
+    "dés de chorizo": "2 sachet(s)",
+    "herbes de provence": "1 ½ sachet(s)",
+    "pecorino romano aop râpé": "1 ½ sachet(s)",
+    "bouillon de légumes": "300 ml",
+    "huile d’olive": "1 ½ cc"
+  },
+  "port": "3 personnes",
+  "prep": 18,
+  "cuis": 32,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Mise en place de chef !. Préchauffez le four à 210 °C (190 °C chaleur tournante). Rincez 50 g de quinoa par personne à l’eau froide jusqu’à ce que l’eau soit claire. Portez 100 ml de bouillon par personne à ébullition dans une casserole. Ajoutez-y le quinoa, baissez le feu à moyen et couvrez. Laissez-le cuire 5 min. Remuez-le et baissez le feu à doux. Faites cuire 6-8 min de plus. Égrenez-le à la fourchette et réservez.",
+    "Prêts à trancher ?. Évidez délicatement les tomates avec une cuillère en retirant les graines et la pulpe. Hachez finement les graines et la pulpe, puis réservez-les dans un saladier. Salez et poivrez légèrement l’intérieur des tomates. Enfournez les tomates 5-8 min dans un grand plat à four afin de les précuire.",
+    "Lancez la préparation. Pendant ce temps, ciselez finement l’ail, l’oignon et le persil. Râpez la courgette. Faites chauffer une poêle avec un petit filet d’huile d’olive à feu moyen-vif et faites-y revenir la courgette râpée, le chorizo, l’ail et l’oignon 4-5 min, ou jusqu’à ce que les légumes soient fondants.",
+    "Au four !. Mélangez le quinoa avec la tomate réservée dans le saladier. Ajoutez-y la préparation avec le chorizo, la moitié du persil, le pecorino, ½ sachet d’herbes de Provence par personne, du sel et du poivre. Sortez les tomates du four, puis garnissez-les généreusement de farce. Placez-les dans le même plat à four puis disposez le reste de la garniture autour des tomates farcies.",
+    "Chaud devant !. Une fois les tomates farcies, enfournez-les 25-30 min dans la partie haute du four, ou jusqu’à ce qu’elles soient bien dorées et confites. Elles ne doivent pas se déliter pour autant.",
+    "Comme au bistro. Servez les tomates farcies dans les assiettes ainsi que la garniture à côté. Saupoudrez du reste de persil."
+  ],
+  "src": "Ma recette"
+}

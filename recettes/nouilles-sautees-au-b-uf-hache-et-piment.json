@@ -1,0 +1,53 @@
+{
+  "id": 1787681157008,
+  "nom": "Nouilles sautées au bœuf haché et piment, cacahuètes, coriandre et menthe",
+  "cat": "Pâtes",
+  "temps": 12,
+  "kcal": 777,
+  "prot": 37,
+  "est": 0,
+  "tags": [
+    "viande",
+    "rapide"
+  ],
+  "ing": [
+    "nouilles de blé",
+    "carotte",
+    "gousse d’ail",
+    "cébette",
+    "piment",
+    "cacahuètes non salées",
+    "citron",
+    "coriandre et menthe",
+    "viande hachée au bœuf",
+    "sauce soja",
+    "sauce asiatique sucrée",
+    "huile de tournesol"
+  ],
+  "q": {
+    "nouilles de blé": "400 g",
+    "carotte": "1 pièce(s)",
+    "gousse d’ail": "2 pièce(s)",
+    "cébette": "1 botte(s)",
+    "piment": "½ pièce(s)",
+    "cacahuètes non salées": "1 sachet(s)",
+    "citron": "1 pièce(s)",
+    "coriandre et menthe": "1 sachet(s)",
+    "viande hachée au bœuf": "400 g",
+    "sauce soja": "40 ml",
+    "sauce asiatique sucrée": "4 sachet(s)",
+    "huile de tournesol": "2 cs"
+  },
+  "port": "4 personnes",
+  "prep": 5,
+  "cuis": 7,
+  "diff": "Facile",
+  "cout": "€€€",
+  "steps": [
+    "Préparer. Portez une grande casserole d’eau salée à ébullition. Faites-y cuire la quantité indiquée de nouilles 2-3 min. Égouttez-les et rincez-les à l’eau froide, puis remuez-les pour éviter qu’elles ne collent entre elles. Réservez-les. Pendant ce temps, épluchez et coupez la carotte en dés de 5 mm. Ciselez séparément le blanc et le vert de la cébette, ainsi que l’ail. Épépinez et émincez le piment (ça pique ! Dosez-le selon votre goût).",
+    "Couper. Faites chauffer un filet d’huile de tournesol dans un wok ou une sauteuse. Faites-y revenir l’ail, le blanc de la cébette et la carotte 3-5 min à feu moyen-vif. En attendant, concassez les cacahuètes. Coupez le citron en quartiers. Effeuillez et ciselez les herbes.",
+    "Faire sauter. Ajoutez le piment et la viande hachée au wok. Faites sauter le tout 2-3 min à feu moyen-vif et émiettez la viande hachée avec une spatule. Versez la sauce soja et la sauce asiatique sucrée par-dessus. Laissez réduire 1-2 min supplémentaires.",
+    "Finir et servir. Ajoutez les nouilles au wok et mélangez bien en faisant sauter le tout 1-2 min. Servez-les dans les assiettes, garnissez de cacahuètes, d’herbes fraîches et du vert de la cébette. Pressez le jus de ¼ de citron par personne par-dessus. Poivrez selon votre goût."
+  ],
+  "src": "Ma recette"
+}

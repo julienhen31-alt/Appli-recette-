@@ -1,0 +1,57 @@
+{
+  "id": 1787681156964,
+  "nom": "Curry vert thaï de poulet au lait de coco et poireau, riz et cacahuètes",
+  "cat": "Plats",
+  "temps": 34,
+  "kcal": 817,
+  "prot": 37,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "oignon",
+    "gousse d’ail",
+    "gingembre frais",
+    "poireau",
+    "coriandre",
+    "citron",
+    "cacahuètes non salées",
+    "blanc de poulet",
+    "riz",
+    "curry vert",
+    "lait de coco",
+    "sauce poisson",
+    "huile de tournesol"
+  ],
+  "q": {
+    "oignon": "3 pièce(s)",
+    "gousse d’ail": "4 pièce(s)",
+    "gingembre frais": "2 cm",
+    "poireau": "3 pièce(s)",
+    "coriandre": "1 ½ sachet(s)",
+    "citron": "1 ½ pièce(s)",
+    "cacahuètes non salées": "2 sachet(s)",
+    "blanc de poulet": "2 paquet(s)",
+    "riz": "450 g",
+    "curry vert": "2 sachet(s)",
+    "lait de coco": "4 paquet(s)",
+    "sauce poisson": "1 ½ sachet(s)",
+    "huile de tournesol": "3 cs"
+  },
+  "port": "6 personnes",
+  "prep": 12,
+  "cuis": 22,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Mise en place de chef !. Portez une grande casserole d’eau salée à ébullition pour le riz. Ciselez finement l’oignon. Râpez l’ail et le gingembre (ça pique ! Dosez-le selon votre goût). Coupez le poireau en deux dans l’épaisseur, lavez-le bien et coupez-le en fines demi-lunes. Effeuillez et ciselez la coriandre, puis coupez le citron en quartiers. Concassez les cacahuètes si vous le souhaitez. Recoupez le poulet en plus petits dés si nécessaire.",
+    "Le riz passe à la casserole. Faites cuire le riz 12-14 min dans la casserole, ou jusqu’à ce qu’il soit tendre. Égouttez-le et réservez-le à couvert.",
+    "Au tour du poulet. Pendant ce temps, faites chauffer un filet d’huile de tournesol à feu moyen-vif dans un wok ou une sauteuse. Faites-y dorer le poulet 3-4 min sur tous les côtés : il ne doit pas encore être totalement cuit à ce stade. Salez et poivrez-le. Réservez-le hors du wok, mais conservez ce dernier avec les sucs de cuisson.",
+    "Ça chauffe encore. Faites revenir l’oignon, l’ail, le gingembre et ⅓ sachet de curry par personne (ça pique ! Dosez-le selon votre goût) 2 min dans le wok à feu moyen-vif. Ajoutez le poireau, remuez et faites-le cuire 9-11 min de plus à couvert, ou jusqu’à ce qu’il ait bien réduit et qu’il n’y ait plus d’eau dans le wok. Versez un filet d’huile si les légumes accrochent.",
+    "Le secret est dans la sauce. Secouez le paquet de lait de coco afin que les éventuels grumeaux se décomposent. Ajoutez-le, ainsi que ¼ de sauce poisson par personne (voir L’ASTUCE) et le poulet au wok. Mélangez, puis couvrez et laissez mijoter 5 min. Retirez le wok du feu.",
+    "Direction la Thaïlande !. Servez le riz et le curry thaï au poulet dans des assiettes creuses. Saupoudrez le tout de coriandre et de cacahuètes. Disposez ¼ citron par personne dans chaque assiette afin que chacun puisse en presser quelques gouttes audessus de son plat (selon votre goût)."
+  ],
+  "src": "Ma recette",
+  "astuce": "Attention à bien respecter les quantités de la recette pour la sauce poisson, au risque que le plat soit trop salé."
+}

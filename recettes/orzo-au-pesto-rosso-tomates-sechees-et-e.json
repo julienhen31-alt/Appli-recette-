@@ -1,0 +1,52 @@
+{
+  "id": 1787681156989,
+  "nom": "Orzo au pesto rosso, tomates séchées et épinards, amandes effilées et grana padano",
+  "cat": "Pâtes",
+  "temps": 19,
+  "kcal": 632,
+  "prot": 22,
+  "est": 0,
+  "tags": [
+    "rapide"
+  ],
+  "ing": [
+    "oignon",
+    "gousse d’ail",
+    "tomates semi-séchées",
+    "orzo",
+    "amandes effilées",
+    "épinards",
+    "copeaux de grana padano aop",
+    "pesto rosso",
+    "bouillon de légumes",
+    "beurre",
+    "huile d’olive"
+  ],
+  "q": {
+    "oignon": "2 pièce(s)",
+    "gousse d’ail": "4 pièce(s)",
+    "tomates semi-séchées": "2 paquet(s)",
+    "orzo": "300 g",
+    "amandes effilées": "1 sachet(s)",
+    "épinards": "1 sachet(s)",
+    "copeaux de grana padano aop": "1 sachet(s)",
+    "pesto rosso": "1 sachet(s)",
+    "bouillon de légumes": "700 ml",
+    "beurre": "1 cs",
+    "huile d’olive": "1 cs"
+  },
+  "port": "4 personnes",
+  "prep": 7,
+  "cuis": 12,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "C’est parti !. Préparez le bouillon avec de l’eau chaude. Ciselez finement l’oignon et l’ail. Coupez les tomates séchées en petits dés.",
+    "L’orzo passe à la casserole. Dans une casserole, faites revenir le beurre avec l’oignon et l’ail 2 min à feu doux. Ajoutez-y l’orzo et faites cuire 1 min de plus en remuant. Versez le bouillon par-dessus et faites cuire le tout 10-12 min à feu doux et à couvert. Remuez souvent. Ajoutez un peu d’eau si l’orzo s’assèche trop.",
+    "Session bronzage. Pendant ce temps, faites torréfier les amandes effilées dans un wok ou une sauteuse à sec et à feu moyen jusqu’à ce qu’elles commencent à dorer. Réservez-les hors du wok.",
+    "Au tour des épinards. Remettez le wok à feu moyen-vif et ajoutez-y un petit filet d’huile d’olive. Après avoir lavé les épinards, déchirez-les grossièrement avec vos mains au-dessus du wok et faites-les réduire en remuant. Salez et poivrez, puis faites cuire 3 min à feu moyen-vif.",
+    "L’union fait la force !. Ajoutez la moitié des copeaux de grana padano, les tomates séchées et le pesto rosso à l’orzo dans la casserole et laissez-les fondre 1 min en remuant. Versez le tout dans le wok avec les épinards et faites cuire 1 min supplémentaire. LE SAVIEZ-VOUS ? L’orzo est une variété de pâte dont le nom provient de sa forme, le mot « orzo » signifiant « orge » en italien.",
+    "À table !. Disposez l’orzo dans des assiettes creuses. Garnissez avec les amandes effilées et le reste des copeaux de grana padano."
+  ],
+  "src": "Ma recette"
+}

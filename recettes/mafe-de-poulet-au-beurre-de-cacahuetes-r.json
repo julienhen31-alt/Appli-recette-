@@ -1,0 +1,56 @@
+{
+  "id": 1787681156938,
+  "nom": "Mafé de poulet au beurre de cacahuètes, riz et cacahuètes concassées",
+  "cat": "Plats",
+  "temps": 24,
+  "kcal": 788,
+  "prot": 43,
+  "est": 0,
+  "tags": [
+    "viande",
+    "masse"
+  ],
+  "ing": [
+    "riz",
+    "oignon",
+    "gingembre frais",
+    "gousse d’ail",
+    "carotte",
+    "filet de poulet",
+    "mélange d’épices africaines",
+    "concentré de tomates",
+    "beurre de cacahuètes",
+    "cacahuètes non salées",
+    "bouillon de volaille",
+    "huile de tournesol",
+    "sucre"
+  ],
+  "q": {
+    "riz": "225 g",
+    "oignon": "2 pièce(s)",
+    "gingembre frais": "1 cm",
+    "gousse d’ail": "1 pièce(s)",
+    "carotte": "1 ½ pièce(s)",
+    "filet de poulet": "3 pièce(s)",
+    "mélange d’épices africaines": "1 sachet(s)",
+    "concentré de tomates": "¾ sachet(s)",
+    "beurre de cacahuètes": "3 pot(s)",
+    "cacahuètes non salées": "1 sachet(s)",
+    "bouillon de volaille": "250 ml",
+    "huile de tournesol": "2 cs",
+    "sucre": "1 ½ cc"
+  },
+  "port": "3 personnes",
+  "prep": 8,
+  "cuis": 16,
+  "diff": "Facile",
+  "cout": "€€",
+  "steps": [
+    "Ça chauffe !. Portez une casserole d’eau salée à ébullition. Faites-y cuire le riz 12-14 min, ou jusqu’à ce qu’il soit tendre. Égouttez-le et réservez-le à couvert. Râpez le gingembre, si vous le souhaitez avec la peau (ça pique ! Dosez-le selon votre goût) et l’ail.",
+    "L’art de la découpe. Pendant ce temps, préparez le bouillon avec de l’eau chaude. Ciselez finement les oignons. Épluchez la carotte et coupez-la en très fines demi-lunes (plus elle sera finement coupée, plus elle cuira vite). Recoupez le poulet en dés de 1-2 cm (voir L’ASTUCE). Faites chauffer un filet d’huile de tournesol dans une sauteuse. Faites-y revenir les oignons et la carotte 3-5 min à feu moyen-vif.",
+    "Patience, ça cuit !. Ajoutez l’ail, le gingembre, le sucre et, par personne : ⅓ sachet d’épices africaines et ¼ sachet de concentré de tomates. Faites cuire 1 min. Déglacez en versant le bouillon et ajoutez le beurre de cacahuètes. Baissez le feu, ajoutez le poulet et faites mijoter 5-6 min à couvert et à feu moyen, ou jusqu’à ce qu’il soit cuit à cœur et que la carotte soit fondante. Salez légèrement et poivrez.",
+    "Showtime !. Pendant que la sauce mijote, concassez grossièrement les cacahuètes. Servez le riz dans des assiettes creuses et le mafé à côté ou par-dessus. Saupoudrez de cacahuètes."
+  ],
+  "src": "Ma recette",
+  "astuce": "Une odeur à l’ouverture du poulet est normale : elle est liée à l’emballage qui préserve sa qualité. Laissez-le s’aérer un peu. Ajoutez un peu d’eau si la sauce épaissit trop. Si vous avez plus de temps, laissez mijoter la sauce un peu plus longtemps."
+}

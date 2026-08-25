@@ -1,0 +1,54 @@
+{
+  "id": 1787681157012,
+  "nom": "Burger de bœuf au zaatar et menthe, pickles d’oignon, frites maison et mayo au persil",
+  "cat": "Plats",
+  "temps": 44,
+  "kcal": 1034,
+  "prot": 38,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "pommes de terre",
+    "gousse d’ail",
+    "persil plat et menthe",
+    "oignon",
+    "viande hachée au bœuf",
+    "zaatar",
+    "mayonnaise",
+    "pain burger aux graines",
+    "salade",
+    "huile d’olive",
+    "sucre",
+    "vinaigre de vin rouge ou de cidre"
+  ],
+  "q": {
+    "pommes de terre": "1000 g",
+    "gousse d’ail": "2 pièce(s)",
+    "persil plat et menthe": "1 sachet(s)",
+    "oignon": "2 pièce(s)",
+    "viande hachée au bœuf": "400 g",
+    "zaatar": "2 sachet(s)",
+    "mayonnaise": "100 g",
+    "pain burger aux graines": "4 pièce(s)",
+    "salade": "1 sachet(s)",
+    "huile d’olive": "4 cs",
+    "sucre": "4 cc",
+    "vinaigre de vin rouge ou de cidre": "4 cs"
+  },
+  "port": "4 personnes",
+  "prep": 15,
+  "cuis": 29,
+  "diff": "Moyen",
+  "cout": "€€€",
+  "steps": [
+    "Enfourner les frites. Préchauffez le four à 220 °C (200 °C chaleur tournante). Lavez ou épluchez les pommes de terre et coupez-les en frites de 1 cm. Sur une plaque recouverte de papier sulfurisé, mélangez-les avec un filet d’huile d’olive, du sel et du poivre. Enfournez-les 25-30 min, ou jusqu’à ce qu’elles soient dorées et croustillantes. Remuez à mi-cuisson. CONSEIL : Si vous préférez les frites cuites à la friteuse, vous pouvez privilégier ce mode de cuisson.",
+    "Couper. Ciselez l’ail, la menthe et le persil séparément. Coupez la moitié de l’oignon en très fines demi-lunes. Ciselez finement le reste. Placez les demi-lunes d’oignon dans un bol. Ajoutez une pincée de sel et de sucre, puis 1 cs de vinaigre de vin par personne. Mélangez bien et laissez reposer jusqu’à ce que les oignons deviennent légèrement roses. Remuez de temps à autre.",
+    "Façonner les steaks. Mettez le bœuf haché dans un bol avec 1 cc de zaatar par personne, l’ail, une pincée d’oignon ciselé (selon votre goût) et la menthe. Salez et poivrez généreusement. Mélangez avec vos mains, puis pressez et façonnez la viande en steaks (un par personne) d’environ 1 cm d’épaisseur. CONSEIL : Aplatissez bien vos steaks, car ils vont grossir et rétrécir au fur et à mesure de la cuisson.",
+    "Faire la sauce. Dans un petit bol, mélangez la mayonnaise avec le persil, du sel et du poivre. Lorsqu’il reste 10 min de cuisson aux frites, ouvrez les pains burger et badigeonnez-les d’un mince filet d’huile d’olive sur chaque face. Enfournez-les à côté des frites (ou toastez-les au grille-pain si vous en avez un) 3-5 min, ou jusqu’à ce qu’ils soient légèrement grillés.",
+    "Cuire la viande. Faites chauffer un filet d’huile d’olive dans une grande poêle à feu vif. Une fois l’huile bien chaude, faites-y dorer les steaks hachés 2-3 min de chaque côté, ou jusqu’à ce qu’ils soient cuits (voir CONSEIL). Étalez la moitié de la sauce mayo-persil sur la base des pains. Déposez le steak, puis quelques feuilles de salade et des pickles d’oignon par-dessus. Refermez le burger. CONSEIL : Ajustez le temps de cuisson des steaks selon votre goût.",
+    "Finir et servir. Une fois les frites cuites, mélangez-les avec ½ cc de zaatar par personne sur la plaque de cuisson. Mélangez le reste de salade et de pickles avec un filet d’huile d’olive. Servez les frites, la salade ainsi que le reste de mayo au persil avec le burger dans les assiettes."
+  ],
+  "src": "Ma recette"
+}

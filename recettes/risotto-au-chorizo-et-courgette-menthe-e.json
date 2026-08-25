@@ -1,0 +1,50 @@
+{
+  "id": 1787681156947,
+  "nom": "Risotto au chorizo et courgette, menthe et citron",
+  "cat": "Pâtes",
+  "temps": 34,
+  "kcal": 581,
+  "prot": 25,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "courgette",
+    "échalote",
+    "citron",
+    "menthe",
+    "dés de chorizo",
+    "riz pour risotto",
+    "fromage râpé à l’italienne",
+    "salade",
+    "huile d’olive",
+    "cube de bouillon de légumes"
+  ],
+  "q": {
+    "courgette": "1 ½ pièce(s)",
+    "échalote": "2 pièce(s)",
+    "citron": "¾ pièce(s)",
+    "menthe": "¾ sachet(s)",
+    "dés de chorizo": "120 g",
+    "riz pour risotto": "225 g",
+    "fromage râpé à l’italienne": "60 g",
+    "salade": "1 sachet(s)",
+    "huile d’olive": "1 ½ cs",
+    "cube de bouillon de légumes": "1 ½ pièce(s)"
+  },
+  "port": "3 personnes",
+  "prep": 12,
+  "cuis": 22,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Préparer. Portez 350 ml d’eau par personne à ébullition dans une casserole, puis émiettez ½ cube de bouillon par personne au-dessus. Coupez la courgette en fines demi-lunes. Ciselez l’échalote. Coupez le citron en quartiers. Effeuillez et ciselez la menthe. CONSEIL : Le goût de la menthe est puissant, dosez-la selon votre goût ou n’en mettez pas si vous ne l’aimez pas !",
+    "Faire revenir. Faites chauffer un wok ou une sauteuse à feu moyen-vif. Ajoutez-y les dés de chorizo et faites-les revenir 2-3 min, ou jusqu’à ce qu’ils soient dorés. Ajoutez l’échalote et la courgette dans la sauteuse. Faites-les revenir 6-7 min, ou jusqu’à ce qu’elles soient tendres. Réservez le tout hors de la sauteuse.",
+    "Commencer le risotto. Versez un petit filet d’huile d’olive et le riz dans la sauteuse. Faites-le cuire 2 min en remuant régulièrement ou jusqu’à ce que les grains deviennent translucides. Baissez le feu à moyen-doux, versez ⅓ du bouillon par-dessus et laissez les grains de riz s’en imbiber lentement. Remuez souvent.",
+    "Terminer la cuisson. Dès que les grains de riz ont absorbé le bouillon, ajoutez-en à nouveau ⅓, puis répétez l’opération avec le reste de bouillon. En tout, votre risotto devrait cuire 18-25 min. S’il cuit trop vite, ajoutez éventuellement de l’eau ou du bouillon pour faire cuire les grains davantage.",
+    "Mélanger. Ajoutez la courgette, le chorizo, ½ cc de jus de citron par personne ainsi que la moitié du fromage râpé et de la menthe (selon votre goût) au risotto. Poivrez et remuez 1-2 min.",
+    "Servir. Faites un nid de salade dans des assiettes creuses (ou dégustez-la à part avec un filet d’huile d’olive et de vinaigre si vous la préférez froide). Disposez le risotto dans les assiettes, saupoudrez-le du reste de fromage râpé et de menthe. Servez avec les quartiers de citron restants."
+  ],
+  "src": "Ma recette"
+}

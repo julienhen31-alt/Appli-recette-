@@ -1,0 +1,57 @@
+{
+  "id": 1787681156996,
+  "nom": "Poulet aux épices africaines, purée de patate douce et potimarron, huile de coriandre",
+  "cat": "Plats",
+  "temps": 22,
+  "kcal": 679,
+  "prot": 34,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "patate douce",
+    "potimarron",
+    "citron",
+    "coriandre",
+    "oignon",
+    "gousse d’ail",
+    "filet de poulet",
+    "mélange d’épices africaines",
+    "sucrine",
+    "amandes effilées",
+    "cube de bouillon de volaille",
+    "huile d’olive",
+    "vinaigre balsamique noir"
+  ],
+  "q": {
+    "patate douce": "1 pièce(s)",
+    "potimarron": "¾ pièce(s)",
+    "citron": "¾ pièce(s)",
+    "coriandre": "3 sachet(s)",
+    "oignon": "1 ½ pièce(s)",
+    "gousse d’ail": "1 pièce(s)",
+    "filet de poulet": "3 pièce(s)",
+    "mélange d’épices africaines": "1 sachet(s)",
+    "sucrine": "¾ pièce(s)",
+    "amandes effilées": "¾ sachet(s)",
+    "cube de bouillon de volaille": "¾ pièce(s)",
+    "huile d’olive": "4 cs",
+    "vinaigre balsamique noir": "1 ½ cc"
+  },
+  "port": "3 personnes",
+  "prep": 8,
+  "cuis": 14,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Mission découpe activée !. Épluchez la patate douce et coupez-la en morceaux de taille égale. Épluchez 150 g de potimarron par personne avec un couteau aiguisé ou un éplucheur. Évidez-le, puis coupezle en dés de la même taille que la patate douce.",
+    "Les légumes au bain. Mettez les dés de légumes dans une casserole, versez de l’eau à hauteur et émiettez le cube de bouillon pardessus. Portez à ébullition et faites cuire 15-17 min, ou jusqu’à ce que la pointe d’un couteau y rentre facilement. Réservez une louche d’eau de cuisson.",
+    "La touche herbacée. Pendant que les légumes cuisent, lavez bien le citron et prélevez-en le zeste avec une râpe fine, puis coupez-le en quartiers. Effeuillez grossièrement la coriandre. Dans un récipient à bords hauts, ajoutez les feuilles de coriandre, 1 bonne cs d’huile d’olive par personne et quelques gouttes de jus de citron (selon votre goût), salez et poivrez. Mixez le tout avec un mixeur plongeant jusqu’à obtenir une texture homogène.",
+    "Allumer le feu. Coupez l’oignon en fines demi-lunes et ciselez l’ail. Faites chauffer un petit filet d’huile d’olive dans une poêle à feu moyen-vif. Ajoutez-y les filets de poulet et faites-les dorer 2 min de chaque côté. Incorporez l’oignon, l’ail et 1 cc d’épices africaines par personne. Faites cuire le poulet 2 min de chaque côté et remuez les oignons régulièrement jusqu’à ce qu’ils soient grillés et que le poulet cuit à cœur. Salez et poivrez.",
+    "Balance la purée. Une fois les légumes cuits, réservez un peu d’eau de cuisson, égouttez-les et réservez-les. Mixez-les au mixeur plongeant jusqu’à obtenir une consistance lisse. Versez-y l’eau de cuisson ou un filet de lait pour l’onctuosité. Salez légèrement, poivrez et mélangez. Coupez la sucrine en lanières. Dans un saladier, faites une vinaigrette en mélangeant un filet d’huile d’olive et de vinaigre balsamique. Juste avant de servir, ajoutez la sucrine et mélangez.",
+    "Dressage de chef en vue. Servez la purée dans les assiettes. Versez l’huile de coriandre par-dessus. Servez le poulet grillé et l’oignon à côté. Répartissez une pincée de zestes par-dessus. Parsemez d’amandes effilées et servez avec les quartiers de citron restants."
+  ],
+  "src": "Ma recette",
+  "astuce": "Pour des amandes encore plus savoureuses, faites-les griller 2-3 min à feu vif, et à sec, dans une poêle !"
+}

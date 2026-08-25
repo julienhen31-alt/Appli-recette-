@@ -1,0 +1,50 @@
+{
+  "id": 1787681156951,
+  "nom": "Gratin de pommes de terre, fondue de poireaux et saumon fumé à chaud, béchamel à l’aneth",
+  "cat": "Plats",
+  "temps": 48,
+  "kcal": 878,
+  "prot": 41,
+  "est": 0,
+  "tags": [
+    "masse"
+  ],
+  "ing": [
+    "pommes de terre",
+    "poireau",
+    "aneth",
+    "noix de muscade",
+    "emmental râpé",
+    "miettes de saumon fumé à chaud",
+    "beurre",
+    "farine",
+    "lait",
+    "huile d’olive"
+  ],
+  "q": {
+    "pommes de terre": "750 g",
+    "poireau": "3 pièce(s)",
+    "aneth": "¾ sachet(s)",
+    "noix de muscade": "1 pincée(s)",
+    "emmental râpé": "1 sachet(s)",
+    "miettes de saumon fumé à chaud": "1 paquet(s)",
+    "beurre": "75 g",
+    "farine": "75 g",
+    "lait": "600 ml",
+    "huile d’olive": "¾ cs"
+  },
+  "port": "3 personnes",
+  "prep": 17,
+  "cuis": 31,
+  "diff": "Moyen",
+  "cout": "€€€",
+  "steps": [
+    "Mission découpe activée. Préchauffez le four à 220 °C (200 °C chaleur tournante). Portez une grande casserole d’eau salée à ébullition pour les pommes de terre. Épluchez et coupez-les en dés d’environ 2 cm. Coupez le poireau en deux dans l’épaisseur, lavez-le bien, puis coupez-le en fines demi-lunes. 2. Allumer le feu Faites cuire les pommes de terre 10-13 min dans la casserole d’eau bouillante, ou jusqu’à ce que la pointe d’un couteau y rentre facilement. Égouttez-les et réservez-les.",
+    "On fond pour le poireau. Faites chauffer 1 cs de beurre par personne dans une poêle et faites-y revenir le poireau 3-4 min. Versez 2 cs d’eau par personne, couvrez et laissez mijoter 6-8 min supplémentaires. Poivrez. Remuez de temps à autre. Pendant ce temps, effeuillez et ciselez l’aneth.",
+    "Une bien belle béchamel. Faites fondre 25 g de beurre par personne dans une casserole à feu moyen. Ajoutez-y la farine et faites cuire le tout 2-3 min en remuant. À feu moyen, versez ⅓ du lait et remuez constamment au fouet. Une fois le lait entièrement absorbé, répétez l’opération avec le lait restant. Faites bouillir doucement 3-4 min à feu moyen-vif, ou jusqu’à ce que la sauce épaississe. Râpez un peu de noix de muscade (selon votre goût) par-dessus. Incorporez ⅔ de l’aneth et de l’emmental râpé. Poivrez et mélangez.",
+    "Ça gratine !. Graissez un plat à four avec un peu de beurre ou d’huile d’olive. Versez-y la fondue de poireaux, puis le saumon (voir L’ASTUCE). Recouvrez de pommes de terre. Salez et poivrez. Versez la béchamel sur le tout et saupoudrez avec le reste d’emmental râpé. Enfournez le tout 15-25 min, ou jusqu’à ce que le gratin soit doré.",
+    "Ça sort du four !. Laissez le gratin refroidir un peu pour qu’il se tienne mieux, puis coupez-le en parts et servez-les dans les assiettes. Garnissez avec le reste d’aneth."
+  ],
+  "src": "Ma recette",
+  "astuce": "Le saumon fumé à chaud étant déjà assez salé, goûtez le plat avant de l’assaisonner. Pensez à retirer les arêtes du saumon s’il y en a !"
+}

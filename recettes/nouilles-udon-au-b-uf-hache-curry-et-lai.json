@@ -1,0 +1,55 @@
+{
+  "id": 1787681157007,
+  "nom": "Nouilles udon au bœuf haché, curry et lait de coco, rubans de carotte et sésame",
+  "cat": "Pâtes",
+  "temps": 10,
+  "kcal": 914,
+  "prot": 32,
+  "est": 0,
+  "tags": [
+    "viande",
+    "rapide"
+  ],
+  "ing": [
+    "oignon",
+    "carotte",
+    "gingembre frais",
+    "gousse d’ail",
+    "viande hachée au bœuf",
+    "curry en poudre",
+    "nouilles udon fraîches",
+    "lait de coco",
+    "coriandre",
+    "graines de sésame",
+    "bouillon de bœuf",
+    "huile de tournesol",
+    "vinaigre balsamique blanc ou de riz"
+  ],
+  "q": {
+    "oignon": "2 pièce(s)",
+    "carotte": "2 pièce(s)",
+    "gingembre frais": "1 cm",
+    "gousse d’ail": "2 pièce(s)",
+    "viande hachée au bœuf": "400 g",
+    "curry en poudre": "2 sachet(s)",
+    "nouilles udon fraîches": "800 g",
+    "lait de coco": "360 ml",
+    "coriandre": "1 sachet(s)",
+    "graines de sésame": "10 g",
+    "bouillon de bœuf": "250 ml",
+    "huile de tournesol": "3 ½ cs",
+    "vinaigre balsamique blanc ou de riz": "2 cc"
+  },
+  "port": "4 personnes",
+  "prep": 5,
+  "cuis": 5,
+  "diff": "Facile",
+  "cout": "€€€",
+  "steps": [
+    "Préparer. Préparez le bouillon avec de l’eau chaude. Coupez l’oignon en fines demi-lunes. Épluchez la carotte, puis taillez-la en rubans avec un éplucheur. Terminez au couteau lorsque cela devient fastidieux. Râpez le gingembre, avec la peau si vous le souhaitez (ça pique ! Dosez-le selon votre goût) et ciselez l’ail (ou râpez-le).",
+    "Commencer à cuire. Faites chauffer un filet d’huile de tournesol à feu vif dans un wok ou une sauteuse. Ajoutez la viande hachée et ½ sachet de curry par personne (ça pique ! Dosez-le selon votre goût). Faites-la dorer 1-2 min. Baissez le feu à moyen-vif, déglacez en versant le vinaigre, puis ajoutez les légumes (gingembre, ail, oignon et carotte), puis faites revenir le tout 5-6 min.",
+    "Délier les nouilles. Pendant ce temps, dans un saladier d’eau tiède, ajoutez les nouilles udon et mélangez délicatement pour qu’elles se délient. Égouttez-les.",
+    "Finir et servir. Ajoutez les nouilles, le bouillon et le lait de coco (secouez-le bien avant) dans le wok. Prolongez la cuisson de 3-4 min à feu moyen, ou jusqu’à ce que la sauce ait réduit et que les nouilles soient chaudes. En attendant, effeuillez la coriandre. Servez les nouilles dans des assiettes creuses. Parsemez de coriandre et de graines de sésame."
+  ],
+  "src": "Ma recette"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1787681156973,
+  "nom": "Cuciniello foggiano : œufs pochés aux aubergines et poivrons confits, ricotta et tartines à l’ail",
+  "cat": "Plats",
+  "temps": 28,
+  "kcal": 639,
+  "prot": 27,
+  "est": 0,
+  "tags": [],
+  "ing": [
+    "gousse d’ail",
+    "aubergine",
+    "poivron",
+    "épices italiennes",
+    "chair de tomates",
+    "ricotta",
+    "pain de campagne tranché",
+    "crème de basilic",
+    "huile d’olive",
+    "sucre",
+    "œuf"
+  ],
+  "q": {
+    "gousse d’ail": "2 pièce(s)",
+    "aubergine": "2 pièce(s)",
+    "poivron": "2 pièce(s)",
+    "épices italiennes": "1 sachet(s)",
+    "chair de tomates": "2 paquet(s)",
+    "ricotta": "1 ½ pot(s)",
+    "pain de campagne tranché": "6 tranche(s)",
+    "crème de basilic": "2 pot(s)",
+    "huile d’olive": "2 cs",
+    "sucre": "2 cc",
+    "œuf": "8 pièce(s)"
+  },
+  "port": "4 personnes",
+  "prep": 10,
+  "cuis": 18,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Atelier découpe. Ciselez la moitié de l’ail (gardez le reste pour l’étape 5). Coupez l’aubergine en dés de 5 mm. Épépinez et coupez les poivrons en dés 5 mm.",
+    "Ça chauffe !. Faites chauffer un filet d’huile d’olive dans un wok ou une sauteuse et faites-y revenir l’ail ciselé et les poivrons 5-6 min à feu moyen-vif. Ajoutez-y l’aubergine et ¼ sachet d’épices italiennes par personne (ça pique ! Dosez-le selon votre goût). Salez et poivrez. Remuez et prolongez la cuisson de 10-12 min à couvert ou jusqu’à ce que les aubergines deviennent fondantes. Versez un filet d’eau si nécessaire. Une fois les légumes confits, ajoutez le sucre et la chair de tomate.",
+    "Ça chauffe encore. Si vous n’avez pas de grille-pain, préchauffez le four à 210 °C (190 °C chaleur tournante). Versez 30 ml d’eau par personne sur les légumes, portez à ébullition tout en remuant, puis laissez mijoter 2-3 min à couvert à feu moyen-vif. Salez et poivrez.",
+    "Les œufs en action. Pour chaque œuf, faites un petit cratère dans le mélange de légumes, puis cassez-le. Salez et poivrez. Répartissez la ricotta sur le dessus, puis couvrez et laissez les œufs cuire 4-5 min (voir L’ASTUCE).",
+    "La touche finale. Pendant ce temps, placez les tranches de pain de campagne sur une grille. Frottez l’ail restant sur le pain. Enfournez-les environ 5 min, ou jusqu’à ce qu’elles soient dorées.",
+    "Place au service. Garnissez avec la crème de basilic sur le dessus, et servez le cuciniello foggiano dans des assiettes creuses. Présentez les tartines à l’ail en accompagnement."
+  ],
+  "src": "Ma recette",
+  "astuce": "La cuisson des œufs dépend de votre ustensile de cuisson. Elle sera plus longue avec un wok profond à bord haut, contrairement à une sauteuse à bord plus bas. Pour gagner du temps, toastez le pain au grille-pain et frottez la gousse d’ail une fois le pain grillé."
+}

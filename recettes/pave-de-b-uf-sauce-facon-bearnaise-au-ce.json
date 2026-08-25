@@ -1,0 +1,54 @@
+{
+  "id": 1787681157010,
+  "nom": "Pavé de bœuf, sauce façon béarnaise au cerfeuil, grenailles rôties et salade aux noix",
+  "cat": "Salades",
+  "temps": 45,
+  "kcal": 694,
+  "prot": 32,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "pavé de bœuf mariné",
+    "grenailles",
+    "échalote",
+    "persil",
+    "cerfeuil",
+    "salade",
+    "noix concassées",
+    "beurre",
+    "œuf",
+    "huile d’olive",
+    "moutarde",
+    "vinaigre de vin rouge ou de cidre"
+  ],
+  "q": {
+    "pavé de bœuf mariné": "3 pièce(s)",
+    "grenailles": "750 g",
+    "échalote": "1 pièce(s)",
+    "persil": "¾ sachet(s)",
+    "cerfeuil": "¾ sachet(s)",
+    "salade": "1 sachet(s)",
+    "noix concassées": "¾ sachet(s)",
+    "beurre": "60 g",
+    "œuf": "1 pièce(s)",
+    "huile d’olive": "2 cs",
+    "moutarde": "1 ½ cc",
+    "vinaigre de vin rouge ou de cidre": "3 cc"
+  },
+  "port": "3 personnes",
+  "prep": 16,
+  "cuis": 29,
+  "diff": "Moyen",
+  "cout": "€€€",
+  "steps": [
+    "Préparer. Préchauffez le four à 220 °C (200 °C chaleur tournante). Sortez la viande du réfrigérateur. Lavez bien les grenailles et coupez les plus grosses en deux. Disposez-les sur une plaque recouverte de papier sulfurisé. Versez un filet d’huile d’olive par-dessus. Salez, poivrez et mélangez. Enfournez-les 32-38 min, ou jusqu’à ce qu’elles soient croustillantes et dorées.",
+    "Couper. Pendant ce temps, ciselez finement l’échalote. Effeuillez et ciselez finement le persil et le cerfeuil. Dans 2 bols, séparez le blanc du jaune d’œuf (voir CONSEIL) : vous n’aurez besoin que du jaune dans cette recette. Réutilisez le blanc pour réaliser des meringues, par exemple. CONSEIL : Vous allez consommer le jaune d’œuf cru, utilisez de ce fait des œufs bien frais pour réaliser la sauce.",
+    "Cuire la viande. Faites chauffer un filet d’huile d’olive dans une poêle à feu moyen-vif. Épongez le bœuf avec de l’essuie-tout, puis salez et poivrez-le. Lorsque l’huile est bien chaude, déposez délicatement la viande dans la poêle et faites-la dorer 2-4 min (selon l’épaisseur des morceaux) de chaque côté. Réservez-la dans une assiette recouverte d’aluminium jusqu’au moment de servir.",
+    "Assaisonner la salade. Faites fondre le beurre à feu moyen dans une petite casserole. Ajoutez-y l’échalote et faites-la cuire 2-3 min. Ajoutez le persil et le cerfeuil ciselés (selon votre goût) et prolongez la cuisson de 2 min. Réservez la casserole hors du feu quelques minutes. En attendant, faites une vinaigrette en mélangeant un filet d’huile d’olive et de vinaigre dans un saladier. Salez et poivrez. Juste avant de servir, ajoutez la salade et les noix au saladier, puis mélangez.",
+    "Faire la sauce secrète. Dans la casserole, ajoutez le jaune d’œuf ainsi que, par personne : ½ cc de moutarde et ½ cc de vinaigre de vin rouge. Salez et poivrez. Remettez la casserole à feu doux (le plus doux possible pour ne pas cuire le jaune d’œuf et qu’il se transforme en omelette) et mélangez énergiquement au fouet 2-3 min, ou jusqu’à ce que la sauce épaississe. Ajoutez 1 cc d’eau, si celle-ci est trop épaisse : l’objectif est d’obtenir une sauce ressemblant à une béarnaise.",
+    "Servir. Servez les grenailles dans les assiettes. Présentez le pavé de bœuf à côté et nappez-le de sauce. Accompagnez de salade (à côté ou dans un bol) et savourez ce plat comme au bistrot !"
+  ],
+  "src": "Ma recette"
+}

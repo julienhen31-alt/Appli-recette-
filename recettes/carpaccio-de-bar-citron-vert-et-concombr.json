@@ -1,0 +1,47 @@
+{
+  "id": 1787681157014,
+  "nom": "Carpaccio de bar, citron vert et concombre",
+  "cat": "Entrées",
+  "temps": 50,
+  "kcal": 180,
+  "prot": 22,
+  "est": 0,
+  "tags": [
+    "healthy",
+    "seche"
+  ],
+  "ing": [
+    "bar",
+    "concombre",
+    "groseilles à maquereau",
+    "citron vert",
+    "huile d’olive",
+    "piment vert",
+    "menthe"
+  ],
+  "q": {
+    "bar": "600 g",
+    "concombre": "1 demi",
+    "groseilles à maquereau": "50 g",
+    "citron vert": "le jus de 2",
+    "huile d’olive": "5 cl",
+    "piment vert": "1 petit",
+    "menthe": "quelques feuilles"
+  },
+  "port": "4 personnes",
+  "prep": 20,
+  "cuis": "30 min de repos + 24h de congélation",
+  "diff": "Moyen",
+  "cout": "€€€",
+  "astuce": "Le passage de 24h au congélateur à -20°C est indispensable pour la sécurité alimentaire d’un poisson cru consommé mariné, pas juste optionnel.",
+  "steps": [
+    "Placez le bar au congélateur pendant au moins 24 heures à −20 °C.",
+    "Passé ce temps, ôtez les arêtes du bar, puis tranchez-le en très fines lamelles avec un couteau bien aiguisé.",
+    "Rincez le demi-concombre à l’eau claire et coupez-le en fine brunoise. Coupez le piment en fines lamelles.",
+    "Coupez les groseilles à maquereau en deux ou en quatre selon leur taille.",
+    "Dans un bol, fouettez le jus des citrons verts avec l’huile d’olive, jusqu’à obtention d’une émulsion. Ajoutez le sel, le poivre, le piment et la brunoise de concombre.",
+    "Badigeonnez le carpaccio de cette marinade à l’aide d’un pinceau, ajoutez les groseilles à maquereau et la menthe et assaisonnez de sel et de poivre.",
+    "Placez au frais pendant 30 minutes avant de déguster."
+  ],
+  "src": "Ma recette"
+}

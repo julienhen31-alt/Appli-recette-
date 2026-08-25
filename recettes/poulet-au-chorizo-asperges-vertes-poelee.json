@@ -1,0 +1,51 @@
+{
+  "id": 1787681156972,
+  "nom": "Poulet au chorizo, asperges vertes poêlées et salade aux croûtons",
+  "cat": "Salades",
+  "temps": 22,
+  "kcal": 576,
+  "prot": 41,
+  "est": 0,
+  "tags": [
+    "viande",
+    "masse"
+  ],
+  "ing": [
+    "gousse d’ail",
+    "filet de poulet",
+    "dés de chorizo",
+    "petit pain",
+    "asperges vertes",
+    "salade",
+    "beurre",
+    "huile d’olive",
+    "vinaigre balsamique noir",
+    "moutarde"
+  ],
+  "q": {
+    "gousse d’ail": "2 pièce(s)",
+    "filet de poulet": "4 pièce(s)",
+    "dés de chorizo": "1 sachet(s)",
+    "petit pain": "4 pièce(s)",
+    "asperges vertes": "2 botte(s)",
+    "salade": "1 sachet(s)",
+    "beurre": "4 cs",
+    "huile d’olive": "2 cs",
+    "vinaigre balsamique noir": "4 cs",
+    "moutarde": "2 cc"
+  },
+  "port": "4 personnes",
+  "prep": 8,
+  "cuis": 14,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Lancer la préparation. Ciselez l’ail. Salez et poivrez le poulet. Faites chauffer une noix de beurre dans une poêle à feu moyen. Faites-y cuire le poulet 5-6 min par côté, ou jusqu’à ce qu’il soit doré et cuit à cœur. Ajoutez le chorizo lorsqu’il reste 3 min de cuisson. Réservez le poulet dans une assiette recouverte d’aluminium. Réservez le chorizo à part. 2. Crunchy time Préchauffez le four à 180 °C (160 °C chaleur tournante). Coupez les petits pains en croûtons et placez-les sur une plaque recouverte de papier sulfurisé. Arrosez-les d’huile d’olive. Salez, poivrez et mélangez bien. Enfournez-les 6-8 min, ou jusqu’à ce qu’ils soient légèrement dorés.",
+    "Pro du couteau. Coupez le pied dur des asperges, puis ôtez les feuilles des tiges avec un couteau ou avec un éplucheur. Si elles ne sont pas trop fines, coupez-les en deux dans l’épaisseur.",
+    "Allumer le feu. Faites chauffer une poêle à feu moyen-vif avec une noix de beurre. Faites sauter l’ail et les asperges 6-8 min. Déglacez avec un filet de vinaigre balsamique noir. Salez et poivrez.",
+    "La vinaigrette qui fait la diff’. Pendant ce temps, faites une vinaigrette en mélangeant un filet d’huile d’olive, de vinaigre balsamique et une pointe de moutarde dans un saladier. Mélangez la salade et les croûtons à la vinaigrette.",
+    "Bon appétit !. Servez la salade dans des assiettes creuses. Répartissez les asperges vertes sur la salade. Parsemez de chorizo et placez le poulet au milieu."
+  ],
+  "src": "Ma recette",
+  "astuce": "Si vous voulez gagner du temps, vous pouvez également toaster les pains avec un grille-pain et les couper en petits cubes par la suite."
+}

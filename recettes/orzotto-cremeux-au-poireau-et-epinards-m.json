@@ -1,0 +1,56 @@
+{
+  "id": 1787681156945,
+  "nom": "Orzotto crémeux au poireau et épinards, mascarpone et graines de courge torréfiées",
+  "cat": "Pâtes",
+  "temps": 17,
+  "kcal": 638,
+  "prot": 23,
+  "est": 0,
+  "tags": [
+    "rapide"
+  ],
+  "ing": [
+    "gousse d’ail",
+    "échalote",
+    "poireau",
+    "épinards",
+    "parmigiano reggiano aop",
+    "graines de courge",
+    "orzo",
+    "noix de muscade",
+    "mascarpone",
+    "salade",
+    "bouillon de légumes",
+    "huile d’olive",
+    "vinaigre balsamique blanc ou de riz"
+  ],
+  "q": {
+    "gousse d’ail": "1 pièce(s)",
+    "échalote": "1 pièce(s)",
+    "poireau": "1 pièce(s)",
+    "épinards": "¾ sachet(s)",
+    "parmigiano reggiano aop": "60 g",
+    "graines de courge": "30 g",
+    "orzo": "200 g",
+    "noix de muscade": "1 pincée(s)",
+    "mascarpone": "75 g",
+    "salade": "1 sachet(s)",
+    "bouillon de légumes": "600 ml",
+    "huile d’olive": "2 cs",
+    "vinaigre balsamique blanc ou de riz": "3 cc"
+  },
+  "port": "3 personnes",
+  "prep": 6,
+  "cuis": 11,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Préparer. Préparez le bouillon avec de l’eau chaude. Ciselez l’ail et l’échalote. Coupez le poireau en deux dans l’épaisseur, lavez-le bien, puis coupez-le en fines demi-lunes. Hachez les épinards ou déchirez-les avec vos mains. Râpez le parmesan.",
+    "Torréfier les graines. Faites chauffer une grande casserole à feu moyen-vif et faites-y torréfier les graines de courge à sec jusqu’à ce qu’elles commencent à sauter. Réservez-les hors de la casserole.",
+    "Cuire. Versez un généreux filet d’huile d’olive dans la même casserole et faites-y revenir l’échalote, l’ail et le poireau 3-5 min à feu moyen. Ajoutez-y l’orzo et râpez un peu de noix de muscade au-dessus (selon votre goût). Faites cuire 1 min.",
+    "Mijoter. Déglacez avec le vinaigre balsamique blanc (ou du vin blanc si vous en avez), puis ajoutez le bouillon et faites cuire 9-12 min à couvert et à feu moyen. Remuez souvent. CONSEIL : Vérifiez la cuisson de l’orzo en le goûtant : à ce stade, il doit être très légèrement al dente et finira de cuire à l’étape 5.",
+    "Faire réduire. Ajoutez les épinards, le mascarpone et la moitié du parmesan à l’orzo. Faites réchauffer le tout 1-2 min à feu doux, ou jusqu’à ce que les épinards réduisent. Salez et poivrez. Ajoutez un peu d’eau ou de bouillon si l’orzo s’assèche trop et n’est pas assez cuit.",
+    "Finir et servir. Servez la salade dans des assiettes creuses et arrosez-la d’un filet d’huile d’olive (voir CONSEIL). Disposez le risotto d’orzo par-dessus. Saupoudrez de graines de courge et du reste de parmesan. Rectifiez l’assaisonnement en sel, poivre et huile d’olive (selon votre goût). CONSEIL : Vous pouvez servir la salade à part si vous ne l’aimez pas chaude."
+  ],
+  "src": "Ma recette"
+}

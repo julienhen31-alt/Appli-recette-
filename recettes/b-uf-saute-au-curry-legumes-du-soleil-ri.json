@@ -1,0 +1,56 @@
+{
+  "id": 1787681156966,
+  "nom": "Bœuf sauté au curry, légumes du soleil, riz et noix de cajou",
+  "cat": "Plats",
+  "temps": 26,
+  "kcal": 626,
+  "prot": 33,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "gingembre frais",
+    "gousse d’ail",
+    "riz",
+    "courgette",
+    "poivron",
+    "oignon",
+    "émincés de bœuf",
+    "concentré de tomates",
+    "curry en poudre",
+    "noix de cajou concassées",
+    "bouillon de bœuf",
+    "beurre",
+    "farine",
+    "huile d’olive"
+  ],
+  "q": {
+    "gingembre frais": "1 cm",
+    "gousse d’ail": "2 pièce(s)",
+    "riz": "300 g",
+    "courgette": "2 pièce(s)",
+    "poivron": "2 pièce(s)",
+    "oignon": "2 pièce(s)",
+    "émincés de bœuf": "1 paquet(s)",
+    "concentré de tomates": "1 sachet(s)",
+    "curry en poudre": "2 sachet(s)",
+    "noix de cajou concassées": "1 sachet(s)",
+    "bouillon de bœuf": "600 ml",
+    "beurre": "2 cs",
+    "farine": "2 cs",
+    "huile d’olive": "2 cs"
+  },
+  "port": "4 personnes",
+  "prep": 9,
+  "cuis": 17,
+  "diff": "Facile",
+  "cout": "€€€",
+  "steps": [
+    "Le riz passe à la casserole. Portez une casserole d’eau à ébullition pour le riz. Préparez le bouillon avec de l’eau chaude. Râpez le gingembre (ça pique ! Dosez-le selon votre goût) et l’ail. Faites cuire le riz 12-14 min, ou jusqu’à ce qu’il soit tendre. Égouttez-le et réservez-le à couvert.",
+    "Chop, chop, chop. Pendant ce temps, coupez la courgette en rondelles de 5 mm d’épaisseur et l’oignon en fines demi-lunes. Épépinez le poivron et coupez-le en lanières de 5 mm. Recoupez le bœuf en plus petites lanières. Faites chauffer ½ cs de beurre par personne dans un wok ou une sauteuse à feu moyen-vif. Faites-y revenir le poivron, la courgette et l’oignon 5-7 min.",
+    "Et que ça saute !. Ajoutez l’ail, le gingembre et ¼ sachet de concentré de tomates par personne. Faites cuire 1-2 min en remuant. Ajoutez, par personne : ½ cs de farine et ½ sachet de curry (ça pique ! Dosez-le selon votre goût). Mélangez au fouet 2 min. Versez ⅓ du bouillon et mélangez au fouet jusqu’à ce qu’il soit incorporé. Répétez cette opération deux fois avec le reste du bouillon, jusqu’à obtenir une sauce homogène. Portez à ébullition et faites cuire 1-2 min de plus. Poivrez.",
+    "Place au dressage. En attendant, faites chauffer un filet d’huile d’olive dans une sauteuse à feu vif. Faites-y revenir les émincés de bœuf 1-2 min. Servez le riz dans des assiettes creuses. Déposez les légumes, puis la viande par-dessus. Parsemez de noix de cajou."
+  ],
+  "src": "Ma recette"
+}

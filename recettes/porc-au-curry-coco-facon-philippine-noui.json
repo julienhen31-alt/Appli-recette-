@@ -1,0 +1,56 @@
+{
+  "id": 1787681156941,
+  "nom": "Porc au curry coco façon philippine, nouilles de blé et concombre aigre-doux",
+  "cat": "Pâtes",
+  "temps": 15,
+  "kcal": 891,
+  "prot": 45,
+  "est": 0,
+  "tags": [
+    "viande",
+    "masse",
+    "rapide"
+  ],
+  "ing": [
+    "gousse d’ail",
+    "oignon nouveau",
+    "piment",
+    "gingembre frais",
+    "tranches de carré de porc",
+    "nouilles de blé",
+    "lait de coco",
+    "sauce poisson",
+    "curry en poudre",
+    "mini concombre / concombre",
+    "huile de tournesol",
+    "vinaigre balsamique blanc ou de riz",
+    "cassonade"
+  ],
+  "q": {
+    "gousse d’ail": "1 pièce(s)",
+    "oignon nouveau": "50 g",
+    "piment": "½ pièce(s)",
+    "gingembre frais": "1 cm",
+    "tranches de carré de porc": "3 pièce(s)",
+    "nouilles de blé": "300 g",
+    "lait de coco": "2 paquet(s)",
+    "sauce poisson": "¾ sachet(s)",
+    "curry en poudre": "¾ sachet(s)",
+    "mini concombre / concombre": "2 pièce(s)",
+    "huile de tournesol": "1 ½ cs",
+    "vinaigre balsamique blanc ou de riz": "3 cc",
+    "cassonade": "3 cc"
+  },
+  "port": "3 personnes",
+  "prep": 5,
+  "cuis": 10,
+  "diff": "Facile",
+  "cout": "€€",
+  "steps": [
+    "C’est parti pour les découpes. Ciselez l’ail, le blanc et le vert de l’oignon nouveau séparément. Épépinez et coupez le piment en fines demi-lunes, et râpez finement le gingembre (ça pique ! Dosez-les selon votre goût). Coupez les tranches de carré de porc en dés de 2 cm. Portez une casserole d’eau salée à ébullition pour les nouilles. Secouez le paquet de lait de coco afin que les éventuels grumeaux se décomposent.",
+    "Wok en action. Faites chauffer un filet d’huile de tournesol à feu moyen-vif dans un wok ou une sauteuse. Faites-y revenir l’ail, le blanc de l’oignon nouveau et le gingembre 1-2 min. Ajoutez le porc au wok et faites-le revenir 2-3 min à feu vif, ou jusqu’à ce qu’il soit légèrement doré et cuit à cœur. Déglacez avec 10 ml de sauce poisson par personne. Ajoutez ¼ sachet de curry par personne (ça pique ! Dosez-le selon votre goût). Faites cuire quelques secondes. Ajoutez le lait de coco, le piment et 2 cs d’eau par personne. Salez et poivrez. Portez à ébullition et faites mijoter 6-10 min à feu moyen-vif, ou jusqu’à ce que la sauce réduise de moitié. Remuez souvent.",
+    "Tout baigne. Pendant ce temps, coupez le concombre en deux, puis épépinez-le et coupez-le en fines demi-lunes. Placez-les dans un bol. Ajoutez, par personne : 1 cc de vinaigre balsamique blanc (ou de riz), 1 cc de cassonade, du sel et du poivre. Mélangez et laissez mariner en remuant de temps à autre. Faites cuire les nouilles 2-4 min dans la casserole. Égouttez, puis rincez-les à l’eau froide pour éviter qu’elles ne collent entre elles. Salez et poivrez.",
+    "Direction les Philippines. Servez les nouilles dans des assiettes creuses. Placez le porc avec sa sauce par-dessus. Saupoudrez avec le vert de l’oignon nouveau. Mélangez bien le tout avant de déguster. Servez le concombre aigre-doux dans des petits bols à côté."
+  ],
+  "src": "Ma recette"
+}

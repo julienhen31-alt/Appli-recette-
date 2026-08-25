@@ -1,0 +1,48 @@
+{
+  "id": 1787681157015,
+  "nom": "Poke bowl au tataki de thon",
+  "cat": "Plats",
+  "temps": 26,
+  "kcal": 520,
+  "prot": 32,
+  "est": 0,
+  "tags": [
+    "healthy"
+  ],
+  "ing": [
+    "thon sashimi",
+    "sauce soja sucrée",
+    "mélange d’épices mexicain",
+    "edamames",
+    "riz à sushi",
+    "concombre",
+    "chou rouge",
+    "mangue",
+    "aneth"
+  ],
+  "q": {
+    "thon sashimi": "2 pavés",
+    "sauce soja sucrée": "1 c. à c.",
+    "mélange d’épices mexicain": "1 c. à c.",
+    "edamames": "100 g",
+    "riz à sushi": "1 kg déjà cuit",
+    "concombre": "1",
+    "chou rouge": "1 demi",
+    "mangue": "1",
+    "aneth": "quelques feuilles"
+  },
+  "port": "4 personnes",
+  "prep": 20,
+  "cuis": 6,
+  "diff": "Facile",
+  "cout": "€€€",
+  "astuce": "Snackez le thon très rapidement à feu vif : l’intérieur doit rester cru façon tataki, seule la surface est saisie.",
+  "steps": [
+    "Dans un bol, mélangez la sauce soja et le mélange d’épices. Ajoutez les pavés de thon et laissez mariner 20 minutes avant de les tremper dans du sésame.",
+    "Pendant ce temps, faites cuire les edamames 8 minutes dans de l’eau bouillante salée avant de les égoutter.",
+    "Rincez le concombre et le chou rouge à l’eau claire et émincez-les. Découpez la mangue en cubes.",
+    "Snackez les pavés de thon dans une poêle bien chaude 2 à 3 minutes par face.",
+    "Disposez le riz vinaigré dans quatre bols. Ajoutez le thon coupé en fines tranches, les légumes, la mangue et décorez d’aneth. Servez sans attendre."
+  ],
+  "src": "Ma recette"
+}

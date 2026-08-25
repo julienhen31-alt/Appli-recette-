@@ -1,0 +1,51 @@
+{
+  "id": 1787681157006,
+  "nom": "Nasi goreng de poulet à la pâte javanaise, œuf au plat et oignons frits",
+  "cat": "Plats",
+  "temps": 26,
+  "kcal": 653,
+  "prot": 42,
+  "est": 0,
+  "tags": [
+    "viande",
+    "masse"
+  ],
+  "ing": [
+    "riz",
+    "gousse d’ail",
+    "carotte",
+    "cébette",
+    "filet de poulet",
+    "citron",
+    "sauce soja",
+    "pâte épicée javanaise",
+    "oignons frits",
+    "huile de tournesol",
+    "œuf"
+  ],
+  "q": {
+    "riz": "200 g",
+    "gousse d’ail": "1 pièce(s)",
+    "carotte": "1 ½ pièce(s)",
+    "cébette": "¾ botte(s)",
+    "filet de poulet": "3 pièce(s)",
+    "citron": "¾ pièce(s)",
+    "sauce soja": "30 ml",
+    "pâte épicée javanaise": "1 ½ sachet(s)",
+    "oignons frits": "15 g",
+    "huile de tournesol": "1 ½ cs",
+    "œuf": "3 pièce(s)"
+  },
+  "port": "3 personnes",
+  "prep": 9,
+  "cuis": 17,
+  "diff": "Facile",
+  "cout": "€€",
+  "steps": [
+    "Préparer. Portez une casserole d’eau salée à ébullition. Faites-y cuire le riz 12-14 min. Égouttez-le et réservez-le. Ciselez l’ail. Épluchez et coupez la carotte en dés de 5 mm. Ciselez le blanc et le vert de la cébette séparément. Coupez le poulet en petits dés. CONSEIL : Plus vos ingrédients sont coupés finement, plus ils cuiront rapidement !",
+    "Faire revenir. Faites chauffer un filet d’huile de tournesol dans un grand wok ou une sauteuse à feu moyen-vif. Faites-y revenir le blanc de la cébette et la carotte 2-3 min. Poivrez. Ajoutez le poulet et l’ail. Faites revenir 5-6 min en remuant, ou jusqu’à ce que le poulet soit cuit. Coupez le citron en quartiers.",
+    "Terminer la cuisson. Pendant ce temps, faites chauffer un filet d’huile de tournesol dans une poêle à feu moyen-vif. Cassez-y les œufs et faites-les cuire 2-4 min, ou jusqu’à avoir des œufs au plat dont le jaune sera encore coulant. Salez et poivrez. À feu moyen, ajoutez au wok la moitié du vert de cébette, le riz, la sauce soja, ½ sachet de pâte javanaise par personne (ça pique ! Dosez-la selon votre goût) et un filet d’eau (2-3 cs par personne). Faites sauter le tout 1-2 min à feu vif en mélangeant activement.",
+    "Servir. Servez immédiatement le riz dans des assiettes creuses et placez l’œuf au plat par-dessus. Saupoudrez avec le reste du vert de cébette et une pincée d’oignons frits (dosez-les avec parcimonie si vous faites attention aux calories). Arrosez de quelques gouttes de jus de citron et rectifiez l’assaisonnement en sel (attention à ne pas trop saler, la sauce soja l’étant déjà) et en poivre, selon votre goût. CONSEIL : Pour un plat onctueux, percez le jaune de votre œuf et mélangez-le à l’ensemble du plat."
+  ],
+  "src": "Ma recette"
+}

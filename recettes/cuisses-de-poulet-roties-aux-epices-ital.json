@@ -1,0 +1,49 @@
+{
+  "id": 1787681156997,
+  "nom": "Cuisses de poulet rôties aux épices italiennes, topinambours, carottes et croûtons, aïoli au persil",
+  "cat": "Plats",
+  "temps": 45,
+  "kcal": 1062,
+  "prot": 46,
+  "est": 0,
+  "tags": [
+    "viande",
+    "masse"
+  ],
+  "ing": [
+    "topinambour",
+    "carotte",
+    "oignon",
+    "petit pain",
+    "épices italiennes",
+    "cuisse de poulet",
+    "persil",
+    "aïoli",
+    "beurre",
+    "huile d’olive"
+  ],
+  "q": {
+    "topinambour": "4 pièce(s)",
+    "carotte": "3 pièce(s)",
+    "oignon": "2 pièce(s)",
+    "petit pain": "1 ½ pièce(s)",
+    "épices italiennes": "¾ sachet(s)",
+    "cuisse de poulet": "3 pièce(s)",
+    "persil": "¾ sachet(s)",
+    "aïoli": "3 sachet(s)",
+    "beurre": "1 ½ cc",
+    "huile d’olive": "2 cs"
+  },
+  "port": "3 personnes",
+  "prep": 16,
+  "cuis": 29,
+  "diff": "Facile",
+  "cout": "€€",
+  "steps": [
+    "Légumes à la chaîne !. Préchauffez le four à 220 °C (200 °C chaleur tournante). Sortez le beurre du réfrigérateur. Épluchez les topinambours et les carottes, puis taillez-les en petits dés de 1 cm. Coupez l’oignon en 8 morceaux. Coupez les petits pains en dés de 1 cm (comptez-en ½ pain par personne).",
+    "L’art de l’assaisonnement. Disposez les légumes dans un grand plat à four (utilisez-en 2 si vous êtes nombreux) et mélangez-les avec ½ cc d’épices italiennes (ça pique ! Dosez-les selon votre goût) par personne, un filet d’huile d’olive, un filet d’eau (pour qu’ils ne s’assèchent pas trop), du sel et du poivre. Ajoutez les cuisses de poulet sur une plaque recouverte de papier sulfurisé. Étalez grossièrement le beurre mou sur la peau du poulet et saupoudrez-le de ½ cc d’épices italiennes par personne, de sel et de poivre.",
+    "Hop, au four !. Enfournez le tout 45 min, ou jusqu’à ce que les légumes et la viande soient cuits (contrôlez la cuisson avec la pointe d’un couteau et prolongez-la un peu si nécessaire). À mi-cuisson, ajoutez les dés de pain avec les légumes et mélangez bien. Versez un filet d’huile d’olive si le mélange est sec.",
+    "Dressage en vue. Pendant ce temps, effeuillez et ciselez le persil. Mélangez l’aïoli avec la moitié du persil et ½ cc d’eau par personne. Servez les légumes et le poulet dans les assiettes. Ajoutez l’aïoli à côté et saupoudrez le tout du reste de persil."
+  ],
+  "src": "Ma recette"
+}

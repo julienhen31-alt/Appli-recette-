@@ -1,0 +1,52 @@
+{
+  "id": 1787681156943,
+  "nom": "Orzo aux crevettes, épinards et tomates semi-séchées, copeaux de grana padano",
+  "cat": "Pâtes",
+  "temps": 22,
+  "kcal": 470,
+  "prot": 26,
+  "est": 0,
+  "tags": [
+    "seche"
+  ],
+  "ing": [
+    "orzo",
+    "crevettes",
+    "gousse d’ail",
+    "oignon",
+    "épinards",
+    "tomates semi-séchées",
+    "épices italiennes",
+    "copeaux de grana padano",
+    "bouillon de légumes",
+    "beurre",
+    "vinaigre balsamique blanc ou de riz"
+  ],
+  "q": {
+    "orzo": "225 g",
+    "crevettes": "240 g",
+    "gousse d’ail": "1 ½ pièce(s)",
+    "oignon": "1 pièce(s)",
+    "épinards": "¾ sachet(s)",
+    "tomates semi-séchées": "75 g",
+    "épices italiennes": "1 ½ sachet(s)",
+    "copeaux de grana padano": "30 g",
+    "bouillon de légumes": "600 ml",
+    "beurre": "3 cc",
+    "vinaigre balsamique blanc ou de riz": "1 ½ cs"
+  },
+  "port": "3 personnes",
+  "prep": 8,
+  "cuis": 14,
+  "diff": "Moyen",
+  "cout": "€€€",
+  "steps": [
+    "Préparer. Préparez le bouillon avec de l’eau chaude. Ciselez finement l’oignon et l’ail. Coupez les tomates séchées en fines lanières.",
+    "Cuire les crevettes. Épongez les crevettes avec de l’essuie-tout. Faites fondre une noix de beurre dans une casserole à feu moyen-vif et faites-y cuire les crevettes et les tomates séchées 3-4 min. Ajoutez ½ cc d’épices italiennes par personne. Salez et poivrez. Réservez sur une assiette recouverte de papier d’aluminium.",
+    "Faire revenir. Remettez la casserole à feu moyen-vif avec un filet d’huile d’olive. Ajoutez-y l’oignon et faites revenir 2-3 min. Ajoutez l’orzo et l’ail et faites cuire le tout 1-2 min en mélangeant.",
+    "Cuire l’orzo. Déglacez en versant ½ cs de vinaigre balsamique blanc par personne dans la casserole. Ajoutez le bouillon et poivrez. Baissez le feu sur moyen-doux, couvrez et laissez cuire 13-15 min. CONSEIL : Ajoutez un peu d’eau en cours de cuisson s’il n’y en a plus et que l’orzo n’est pas encore cuit.",
+    "Mélanger. Déchirez les épinards à la main au-dessus de la casserole et laissez réduire en remuant. Ajoutez le reste des épices italiennes, les crevettes, les tomates séchées et la moitié des copeaux de grana padano à l’orzo. Mélangez jusqu’à ce que le fromage fonde et lie le tout. Salez et poivrez.",
+    "Servir. Disposez l’orzo dans des assiettes creuses. Garnissez avec le reste de copeaux de grana padano."
+  ],
+  "src": "Ma recette"
+}

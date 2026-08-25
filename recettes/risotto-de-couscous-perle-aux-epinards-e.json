@@ -1,0 +1,52 @@
+{
+  "id": 1787681156946,
+  "nom": "Risotto de couscous perlé aux épinards et pesto, mozzarella et amandes torréfiées",
+  "cat": "Pâtes",
+  "temps": 65,
+  "kcal": 866,
+  "prot": 27,
+  "est": 0,
+  "tags": [],
+  "ing": [
+    "oignon",
+    "gousse d’ail",
+    "couscous perlé",
+    "amandes entières grillées non salées",
+    "épinards",
+    "pesto vert alla genovese",
+    "pecorino râpé",
+    "mozzarella",
+    "bouillon de légumes",
+    "beurre",
+    "huile d’olive",
+    "vinaigre balsamique blanc ou de riz"
+  ],
+  "q": {
+    "oignon": "1 pièce(s)",
+    "gousse d’ail": "1 pièce(s)",
+    "couscous perlé": "225 g",
+    "amandes entières grillées non salées": "1 sachet(s)",
+    "épinards": "1 sachet(s)",
+    "pesto vert alla genovese": "90 g",
+    "pecorino râpé": "30 g",
+    "mozzarella": "1 ½ pièce(s)",
+    "bouillon de légumes": "600 ml",
+    "beurre": "1 ½ cc",
+    "huile d’olive": "1 ½ cs",
+    "vinaigre balsamique blanc ou de riz": "1 ½ cc"
+  },
+  "port": "3 personnes",
+  "prep": 23,
+  "cuis": 42,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Préparer. Préparez le bouillon avec de l’eau chaude. Ciselez finement l’oignon et l’ail. (Encadré : Ciselez l’ail efficacement avec nos conseils d’experts, RDV ici — QR code.)",
+    "Faire revenir. Faites fondre le beurre et un filet d’huile d’olive dans une casserole à feu moyen-vif. Faites-y revenir l’oignon 23 min. Salez. Ajoutez le couscous perlé et l’ail à la casserole et remuez 1 min.",
+    "Cuire le couscous perlé. Baissez le feu sur moyen, puis ajoutez le vinaigre balsamique blanc (ou du vin blanc si vous en avez) et le bouillon à la casserole. Laissez mijoter à feu moyen-doux et à couvert 14-20 min, ou jusqu’à absorption totale du bouillon. Remuez régulièrement. Le couscous perlé devrait être tout juste cuit.",
+    "Torréfier les amandes. Concassez les amandes. Gardez quelques feuilles d’épinards (6-8 par personne) pour le service, puis déchirez grossièrement les autres avec vos mains.",
+    "Finir le risotto. Au bout des 20 min de cuisson du couscous perlé, augmentez le feu sur moyen et ajoutez les épinards à la casserole. Salez, poivrez et mélangez 3-5 min, ou jusqu’à ce que les épinards flétrissent. Hors du feu, ajoutez le pesto et le fromage râpé. Mélangez bien.",
+    "Servir. Servez le risotto de couscous perlé dans des bols ou des assiettes creuses. Répartissez le reste d’épinards pardessus. Déchirez la mozzarella en morceaux et placez-les sur le risotto de couscous perlé. Poivrez et arrosez d’un filet d’huile d’olive si vous le souhaitez. Saupoudrez le tout d’amandes."
+  ],
+  "src": "Ma recette"
+}

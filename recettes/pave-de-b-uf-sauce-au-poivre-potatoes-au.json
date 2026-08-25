@@ -1,0 +1,54 @@
+{
+  "id": 1787681156969,
+  "nom": "Pavé de bœuf sauce au poivre, potatoes au thym et fondue de poireaux",
+  "cat": "Plats",
+  "temps": 48,
+  "kcal": 626,
+  "prot": 29,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "pommes de terre",
+    "thym séché",
+    "pavé de bœuf mariné",
+    "poireau",
+    "oignon",
+    "crème épaisse",
+    "bouillon de bœuf",
+    "huile de tournesol",
+    "beurre",
+    "huile d’olive",
+    "vinaigre balsamique blanc ou de riz",
+    "moutarde"
+  ],
+  "q": {
+    "pommes de terre": "600 g",
+    "thym séché": "¾ sachet(s)",
+    "pavé de bœuf mariné": "3 pièce(s)",
+    "poireau": "2 pièce(s)",
+    "oignon": "1 pièce(s)",
+    "crème épaisse": "1 pot(s)",
+    "bouillon de bœuf": "175 ml",
+    "huile de tournesol": "3 cs",
+    "beurre": "3 cc",
+    "huile d’olive": "1 ½ cs",
+    "vinaigre balsamique blanc ou de riz": "1 ½ cc",
+    "moutarde": "1 cc"
+  },
+  "port": "3 personnes",
+  "prep": 17,
+  "cuis": 31,
+  "diff": "Moyen",
+  "cout": "€€€",
+  "steps": [
+    "Enfourner les potatoes. Préchauffez le four à 220 °C (200 °C chaleur tournante). Lavez bien ou épluchez les pommes de terre, puis coupez-les en potatoes de 1 cm de large. Placez-les sur une plaque recouverte de papier sulfurisé. Arrosez-les d’un filet d’huile de tournesol, salez et saupoudrez-les de ¼ sachet de thym séché par personne. Mélangez bien. Enfournez-les 25-35 min dans la partie haute du four, ou jusqu’à ce qu’elles soient dorées et croustillantes. Remuez à mi-cuisson.",
+    "Préparer la viande. Sortez les pavés de bœuf du réfrigérateur. Préparez le bouillon avec de l’eau chaude (voir QR code). Coupez le poireau en deux dans l’épaisseur, lavez-le bien, puis coupez-le en fines demi-lunes. Coupez l’oignon en fines demi-lunes. (Encadré : Préparez un bouillon comme un chef avec nos conseils en vidéo — QR code.)",
+    "Faire la fondue de poireaux. Faites chauffer le beurre dans une poêle à feu moyen-vif. Faites-y revenir le poireau et l’oignon 1-2 min. Couvrez, baissez le feu et faites-les cuire 8-10 min de plus, ou jusqu’à ce qu’ils soient fondants. Remuez de temps à autre. Salez et poivrez. CONSEIL : Ajoutez un peu d’eau ou de beurre si vous trouvez que le mélange s’assèche trop.",
+    "Cuire la viande. Faites chauffer un filet d’huile d’olive dans une grande poêle à feu moyen-vif. Épongez la viande avec de l’essuie-tout, puis salez-la. Quand l’huile est bien chaude, déposez délicatement les pavés dans la poêle et faites-les dorer 2-3 min de chaque côté (voir CONSEIL). Réservez-les dans une assiette recouverte d’aluminium jusqu’au service. CONSEIL : La viande sera saignante. Pour une cuisson à point, cuisez-la 1 min de plus de chaque côté.",
+    "Faire la sauce au poivre. Remettez la poêle de la viande à feu moyen et déglacez-la en versant ½ cc de vinaigre balsamique blanc (ou de riz) par personne pour détacher les sucs de cuisson. Ajoutez le bouillon, la crème, la moutarde (selon votre goût) ainsi que 1 cs de grains de poivre concassés (ou 56 tours de moulin par personne). Laissez réduire 3-5 min à feu moyen-doux, ou jusqu’à ce que la sauce ait épaissi et soit nappante.",
+    "Finir et servir. Coupez la viande en tranches dans le sens inverse des fibres afin de conserver sa tendreté. Servez la fondue de légumes et les potatoes dans les assiettes. Disposez les tranches de viande à côté et nappez-les de sauce au poivre."
+  ],
+  "src": "Ma recette"
+}

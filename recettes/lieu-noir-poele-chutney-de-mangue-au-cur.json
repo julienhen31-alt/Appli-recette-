@@ -1,0 +1,52 @@
+{
+  "id": 1787681156961,
+  "nom": "Lieu noir poêlé, chutney de mangue au curry, riz et salade de concombre",
+  "cat": "Salades",
+  "temps": 26,
+  "kcal": 598,
+  "prot": 28,
+  "est": 0,
+  "tags": [],
+  "ing": [
+    "riz",
+    "concombre",
+    "mangue",
+    "oignon",
+    "gingembre frais",
+    "curry en poudre",
+    "filet de lieu noir",
+    "coriandre",
+    "yaourt à la grecque",
+    "vinaigre balsamique blanc ou de riz",
+    "sucre",
+    "beurre",
+    "huile d’olive"
+  ],
+  "q": {
+    "riz": "150 g",
+    "concombre": "1 pièce(s)",
+    "mangue": "½ pièce(s)",
+    "oignon": "1 pièce(s)",
+    "gingembre frais": "1 cm",
+    "curry en poudre": "1 sachet(s)",
+    "filet de lieu noir": "200 g",
+    "coriandre": "½ sachet(s)",
+    "yaourt à la grecque": "1 pot(s)",
+    "vinaigre balsamique blanc ou de riz": "3 cs",
+    "sucre": "3 cc",
+    "beurre": "1 cc",
+    "huile d’olive": "1 cs"
+  },
+  "port": "2 personnes",
+  "prep": 9,
+  "cuis": 17,
+  "diff": "Facile",
+  "cout": "€€",
+  "steps": [
+    "Chop, chop, c’est parti !. Portez une grande casserole d’eau salée à ébullition pour le riz. Coupez le concombre en fines demi-lunes, puis mélangez-le avec un filet de vinaigre balsamique blanc (ou de riz) et ½ cc de sucre par personne dans un bol. Laissez-le mariner en remuant de temps en temps. Épluchez et coupez ¼ de mangue par personne en petits dés. Ciselez l’oignon. Râpez le gingembre (ça pique ! Dosez-le selon votre goût).",
+    "Place au chutney. Faites fondre une noix de beurre dans une poêle à feu moyen-vif. Ajoutez le gingembre, 1 cc de curry par personne (ça pique ! Dosez-le selon votre goût), l’oignon et la mangue. Faites cuire le tout 6-7 min, puis ajoutez, par personne : 1 cc de sucre et 1 cc de vinaigre balsamique blanc (ou de riz). Laissez mijoter 3-4 min, ou jusqu’à ce que la mangue soit compotée. Réservez le chutney dans un petit bol (conservez la poêle).",
+    "Un A/R pour le poisson. Faites cuire le riz 12-14 min dans la casserole, ou jusqu’à ce qu’il soit tendre. Égouttez-le et réservez-le sans couvercle. Ajoutez une noisette de beurre, salez et poivrez. Épongez le lieu avec de l’essuie-tout. Faites fondre une noisette de beurre dans la poêle à feu moyen-vif. Faites-y cuire le lieu 3-4 min de chaque côté, ou jusqu’à ce qu’il soit doré et cuit à cœur. Effeuillez la coriandre. Assaisonnez le yaourt avec un filet d’huile d’olive, une pincée de curry (selon votre goût), du sel et du poivre.",
+    "Service !. Servez le riz dans les assiettes, ajoutez le lieu et le chutney de mangue par-dessus, puis la sauce yaourt. Servez la salade de concombre à côté. Parsemez le tout de coriandre."
+  ],
+  "src": "Ma recette"
+}

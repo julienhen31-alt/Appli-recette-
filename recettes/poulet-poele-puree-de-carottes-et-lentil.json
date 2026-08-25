@@ -1,0 +1,62 @@
+{
+  "id": 1787681156988,
+  "nom": "Poulet poêlé, purée de carottes et lentilles corail au paprika fumé, sauce yaourt aux herbes",
+  "cat": "Plats",
+  "temps": 26,
+  "kcal": 626,
+  "prot": 43,
+  "est": 0,
+  "tags": [
+    "viande",
+    "masse"
+  ],
+  "ing": [
+    "carotte",
+    "oignon",
+    "gousse d’ail",
+    "lentilles corail",
+    "aneth et ciboulette",
+    "yaourt à la grecque",
+    "graines de tournesol",
+    "filet de poulet",
+    "paprika fumé en poudre",
+    "salade",
+    "bouillon de légumes",
+    "huile d’olive",
+    "moutarde",
+    "vinaigre balsamique blanc ou de riz",
+    "beurre"
+  ],
+  "q": {
+    "carotte": "4 pièce(s)",
+    "oignon": "2 pièce(s)",
+    "gousse d’ail": "2 pièce(s)",
+    "lentilles corail": "150 g",
+    "aneth et ciboulette": "1 sachet(s)",
+    "yaourt à la grecque": "1 pot(s)",
+    "graines de tournesol": "1 sachet(s)",
+    "filet de poulet": "4 pièce(s)",
+    "paprika fumé en poudre": "1 sachet(s)",
+    "salade": "2 sachet(s)",
+    "bouillon de légumes": "450 ml",
+    "huile d’olive": "2 cs",
+    "moutarde": "2 cc",
+    "vinaigre balsamique blanc ou de riz": "2 cc",
+    "beurre": "2 cs"
+  },
+  "port": "4 personnes",
+  "prep": 9,
+  "cuis": 17,
+  "diff": "Moyen",
+  "cout": "€€",
+  "steps": [
+    "Les légumes en avant !. Préparez le bouillon avec de l’eau chaude. Épluchez les carottes et coupez-les en fines demi-lunes. Plus elles seront fines, plus elles cuiront vite. Ciselez l’oignon et l’ail.",
+    "Ils passent à la casserole. Faites chauffer un filet d’huile d’olive dans une casserole et faites-y revenir l’oignon, l’ail et les carottes 3-4 min à feu moyen-vif. Poivrez. Ajoutez ensuite les lentilles corail et le bouillon. Faites cuire à couvert et à feu doux 15-20 min.",
+    "Graines en folie !. Pendant ce temps, effeuillez l’aneth et ciselez-le avec la ciboulette. Dans un bol, mélangez le yaourt, l’aneth et la ciboulette avec du sel et du poivre. Faites chauffer une poêle à feu vif et faites-y griller les graines de tournesol à sec jusqu’à ce qu’elles soient dorées. Réservez-les hors de la poêle.",
+    "Sauce qui peut !. Dans la poêle des graines, faites chauffer un filet d’huile d’olive à feu moyen-vif. Faites-y cuire le poulet 4-5 min de chaque côté, ou jusqu’à ce qu’il soit doré à l’extérieur et opaque à cœur (voir L’ASTUCE). Salez et poivrez, puis réservez-le jusqu’au service dans une assiette recouverte d’aluminium. Faites une vinaigrette en mélangeant la moutarde et le vinaigre balsamique avec ½ cs d’huile d’olive par personne dans un saladier. Salez et poivrez.",
+    "Les carottes sont cuites. Une fois les carottes et les lentilles cuites, mixez-les avec un mixeur plongeant jusqu’à obtenir la consistance d’une purée (ajustez si besoin la quantité d’eau : égouttez un peu s’il y a trop de bouillon, ou rajoutez-en s’il n’y en a pas assez). Ajoutez ½ cs de beurre et ¼ sachet de paprika fumé par personne (voir L’ASTUCE). Salez et poivrez. Réservez la purée dans la casserole à couvert jusqu’au service.",
+    "Clap de fin. Au moment de servir, déposez la salade et les graines de tournesol dans le saladier. Coupez le poulet en tranches et servez-le avec la sauce par-dessus. Accompagnez-le de la salade et de la purée de carottes et lentilles. Goûtez et ajustez l’assaisonnement."
+  ],
+  "src": "Ma recette",
+  "astuce": "Faites une entaille dans le poulet pour l’ouvrir, ainsi, il cuira plus rapidement. Si vous mangez avec des enfants, vous pouvez ne pas mettre de paprika fumé car le goût est assez prononcé. Vous pouvez ajouter un trait d’huile d’olive sur le poulet mais cela sera plus calorique !"
+}
