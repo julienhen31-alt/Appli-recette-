@@ -1,0 +1,32 @@
+{
+  "id": 1787646029643,
+  "nom": "Galette de sarrasin au comté et jambon",
+  "cat": "Plats",
+  "temps": 5,
+  "kcal": 346,
+  "prot": 29,
+  "est": 0,
+  "tags": ["seche", "rapide", "peuvaisselle"],
+  "ing": ["galette de sarrasin", "comté", "jambon", "crème", "œufs"],
+  "q": {
+    "galette de sarrasin": "1",
+    "comté": "20g râpé",
+    "jambon": "70g",
+    "crème": "15g",
+    "œufs": "1"
+  },
+  "port": "1 personne",
+  "prep": 1,
+  "cuis": 4,
+  "diff": "Facile",
+  "cout": "€",
+  "astuce": "Couvre la poêle avec un couvercle pour cuire le blanc d'œuf sans trop cuire le jaune, et replie les bords à la spatule délicatement pour ne pas casser la galette.",
+  "steps": [
+    "Placer la galette de sarrasin dans une poêle.",
+    "Étaler un peu de crème sur la galette.",
+    "Ajouter le comté râpé par-dessus.",
+    "Ajouter le jambon en morceaux et casser l'œuf au centre.",
+    "Faire cuire le tout à la poêle jusqu'à la cuisson de l'œuf, puis replier les bords."
+  ],
+  "src": "Ma recette"
+}
