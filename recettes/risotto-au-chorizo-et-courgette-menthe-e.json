@@ -14,24 +14,24 @@
     "échalote",
     "citron",
     "menthe",
-    "dés de chorizo",
-    "riz pour risotto",
-    "fromage râpé à l’italienne",
+    "chorizo",
+    "riz",
+    "fromage râpé",
     "salade",
     "huile d’olive",
-    "cube de bouillon de légumes"
+    "bouillon de légumes"
   ],
   "q": {
     "courgette": "1 ½ pièce(s)",
     "échalote": "2 pièce(s)",
     "citron": "¾ pièce(s)",
     "menthe": "¾ sachet(s)",
-    "dés de chorizo": "120 g",
-    "riz pour risotto": "225 g",
-    "fromage râpé à l’italienne": "60 g",
+    "chorizo": "120 g",
+    "riz": "225 g",
+    "fromage râpé": "60 g",
     "salade": "1 sachet(s)",
     "huile d’olive": "1 ½ cs",
-    "cube de bouillon de légumes": "1 ½ pièce(s)"
+    "bouillon de légumes": "1 ½ pièce(s)"
   },
   "port": "3 personnes",
   "prep": 12,

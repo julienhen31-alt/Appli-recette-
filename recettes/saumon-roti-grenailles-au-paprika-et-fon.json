@@ -10,28 +10,28 @@
   "ing": [
     "grenailles",
     "paprika en poudre",
-    "gousse d’ail",
+    "ail",
     "échalote",
     "poireau",
     "aneth",
-    "filet de saumon avec peau",
-    "crème liquide",
+    "saumon",
+    "crème",
     "huile d’olive",
     "beurre",
-    "vinaigre balsamique blanc ou de riz"
+    "vinaigre balsamique"
   ],
   "q": {
     "grenailles": "1000 g",
     "paprika en poudre": "1 sachet(s)",
-    "gousse d’ail": "2 pièce(s)",
+    "ail": "2 pièce(s)",
     "échalote": "2 pièce(s)",
     "poireau": "2 pièce(s)",
     "aneth": "1 sachet(s)",
-    "filet de saumon avec peau": "4 pièce(s)",
-    "crème liquide": "1 ¼ paquet(s)",
+    "saumon": "4 pièce(s)",
+    "crème": "1 ¼ paquet(s)",
     "huile d’olive": "4 ½ cs",
     "beurre": "2 cs",
-    "vinaigre balsamique blanc ou de riz": "2 cc"
+    "vinaigre balsamique": "2 cc"
   },
   "port": "4 personnes",
   "prep": 17,

@@ -11,26 +11,26 @@
     "masse"
   ],
   "ing": [
-    "cuisse de poulet",
+    "poulet",
     "mélange d’épices pour bbq",
     "melon charentais",
-    "tomate",
+    "tomates",
     "pain de campagne tranché",
     "origan séché",
     "salade",
-    "vinaigre balsamique noir",
+    "vinaigre balsamique",
     "huile d’olive",
     "beurre"
   ],
   "q": {
-    "cuisse de poulet": "3 pièce(s)",
+    "poulet": "3 pièce(s)",
     "mélange d’épices pour bbq": "1 ½ sachet(s)",
     "melon charentais": "¾ pièce(s)",
-    "tomate": "3 pièce(s)",
+    "tomates": "3 pièce(s)",
     "pain de campagne tranché": "3 tranche(s)",
     "origan séché": "1 sachet(s)",
     "salade": "1 sachet(s)",
-    "vinaigre balsamique noir": "1 ½ cs",
+    "vinaigre balsamique": "1 ½ cs",
     "huile d’olive": "4 cs",
     "beurre": "3 cc"
   },

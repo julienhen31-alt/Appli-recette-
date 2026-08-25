@@ -10,9 +10,9 @@
     "viande"
   ],
   "ing": [
-    "gousse d’ail",
+    "ail",
     "citron",
-    "blanc de poulet",
+    "poulet",
     "labneh",
     "mélange d’épices du moyen-orient",
     "fenouil",
@@ -22,14 +22,14 @@
     "persil plat et menthe",
     "bouillon de volaille",
     "huile d’olive",
-    "vinaigre balsamique blanc ou de riz",
+    "vinaigre balsamique",
     "beurre",
     "miel"
   ],
   "q": {
-    "gousse d’ail": "2 pièce(s)",
+    "ail": "2 pièce(s)",
     "citron": "1 ½ pièce(s)",
-    "blanc de poulet": "2 paquet(s)",
+    "poulet": "2 paquet(s)",
     "labneh": "2 pot(s)",
     "mélange d’épices du moyen-orient": "3 sachet(s)",
     "fenouil": "3 pièce(s)",
@@ -39,7 +39,7 @@
     "persil plat et menthe": "2 sachet(s)",
     "bouillon de volaille": "900 ml",
     "huile d’olive": "6 cs",
-    "vinaigre balsamique blanc ou de riz": "6 cc",
+    "vinaigre balsamique": "6 cc",
     "beurre": "6 cc",
     "miel": "6 cc"
   },

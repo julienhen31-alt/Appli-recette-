@@ -10,11 +10,11 @@
     "rapide"
   ],
   "ing": [
-    "gousse d’ail",
+    "ail",
     "échalote",
     "poireau",
     "épinards",
-    "parmigiano reggiano aop",
+    "parmesan",
     "graines de courge",
     "orzo",
     "noix de muscade",
@@ -22,14 +22,14 @@
     "salade",
     "bouillon de légumes",
     "huile d’olive",
-    "vinaigre balsamique blanc ou de riz"
+    "vinaigre balsamique"
   ],
   "q": {
-    "gousse d’ail": "1 pièce(s)",
+    "ail": "1 pièce(s)",
     "échalote": "1 pièce(s)",
     "poireau": "1 pièce(s)",
     "épinards": "¾ sachet(s)",
-    "parmigiano reggiano aop": "60 g",
+    "parmesan": "60 g",
     "graines de courge": "30 g",
     "orzo": "200 g",
     "noix de muscade": "1 pincée(s)",
@@ -37,7 +37,7 @@
     "salade": "1 sachet(s)",
     "bouillon de légumes": "600 ml",
     "huile d’olive": "2 cs",
-    "vinaigre balsamique blanc ou de riz": "3 cc"
+    "vinaigre balsamique": "3 cc"
   },
   "port": "3 personnes",
   "prep": 6,

@@ -12,8 +12,8 @@
   ],
   "ing": [
     "nouilles plates de riz",
-    "gousse d’ail",
-    "blanc de poulet",
+    "ail",
+    "poulet",
     "sauce poisson",
     "citronnelle moulue",
     "carotte",
@@ -24,13 +24,13 @@
     "huile de sésame",
     "cacahuètes non salées",
     "cassonade",
-    "vinaigre balsamique blanc ou de riz",
+    "vinaigre balsamique",
     "huile de tournesol"
   ],
   "q": {
     "nouilles plates de riz": "300 g",
-    "gousse d’ail": "1 pièce(s)",
-    "blanc de poulet": "300 g",
+    "ail": "1 pièce(s)",
+    "poulet": "300 g",
     "sauce poisson": "30 ml",
     "citronnelle moulue": "1 sachet(s)",
     "carotte": "1 ½ pièce(s)",
@@ -41,7 +41,7 @@
     "huile de sésame": "30 ml",
     "cacahuètes non salées": "¾ sachet(s)",
     "cassonade": "3 cc",
-    "vinaigre balsamique blanc ou de riz": "1 ½ cs",
+    "vinaigre balsamique": "1 ½ cs",
     "huile de tournesol": "1 ½ cs"
   },
   "port": "3 personnes",

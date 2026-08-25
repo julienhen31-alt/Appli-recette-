@@ -11,9 +11,9 @@
   ],
   "ing": [
     "riz",
-    "filet de poulet",
+    "poulet",
     "épices mexicaines",
-    "gousse d’ail",
+    "ail",
     "oignon",
     "carotte",
     "chair de tomates",
@@ -23,14 +23,14 @@
     "beurre",
     "bouillon de légumes",
     "huile d’olive",
-    "vinaigre balsamique noir",
+    "vinaigre balsamique",
     "cassonade"
   ],
   "q": {
     "riz": "200 g",
-    "filet de poulet": "4 pièce(s)",
+    "poulet": "4 pièce(s)",
     "épices mexicaines": "1 ½ sachet(s)",
-    "gousse d’ail": "2 pièce(s)",
+    "ail": "2 pièce(s)",
     "oignon": "2 pièce(s)",
     "carotte": "1 ½ pièce(s)",
     "chair de tomates": "1 paquet(s)",
@@ -40,7 +40,7 @@
     "beurre": "2 cc",
     "bouillon de légumes": "150 ml",
     "huile d’olive": "4 cs",
-    "vinaigre balsamique noir": "2 cc",
+    "vinaigre balsamique": "2 cc",
     "cassonade": "2 cc"
   },
   "port": "4 personnes",

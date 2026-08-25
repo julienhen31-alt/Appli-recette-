@@ -15,14 +15,14 @@
     "citron",
     "coriandre",
     "oignon",
-    "gousse d’ail",
-    "filet de poulet",
+    "ail",
+    "poulet",
     "mélange d’épices africaines",
     "sucrine",
     "amandes effilées",
-    "cube de bouillon de volaille",
+    "bouillon de volaille",
     "huile d’olive",
-    "vinaigre balsamique noir"
+    "vinaigre balsamique"
   ],
   "q": {
     "patate douce": "1 pièce(s)",
@@ -30,14 +30,14 @@
     "citron": "¾ pièce(s)",
     "coriandre": "3 sachet(s)",
     "oignon": "1 ½ pièce(s)",
-    "gousse d’ail": "1 pièce(s)",
-    "filet de poulet": "3 pièce(s)",
+    "ail": "1 pièce(s)",
+    "poulet": "3 pièce(s)",
     "mélange d’épices africaines": "1 sachet(s)",
     "sucrine": "¾ pièce(s)",
     "amandes effilées": "¾ sachet(s)",
-    "cube de bouillon de volaille": "¾ pièce(s)",
+    "bouillon de volaille": "¾ pièce(s)",
     "huile d’olive": "4 cs",
-    "vinaigre balsamique noir": "1 ½ cc"
+    "vinaigre balsamique": "1 ½ cc"
   },
   "port": "3 personnes",
   "prep": 8,

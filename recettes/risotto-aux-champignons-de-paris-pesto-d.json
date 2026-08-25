@@ -8,28 +8,26 @@
   "est": 0,
   "tags": [],
   "ing": [
-    "gousse d’ail",
+    "ail",
     "échalote",
-    "riz pour risotto",
+    "riz",
     "champignons de paris",
-    "parmigiano reggiano aop",
+    "parmesan",
     "pesto de champignons",
-    "huile d’olive saveur truffe",
-    "bouillon de légumes",
     "huile d’olive",
-    "vinaigre balsamique blanc ou de riz"
+    "bouillon de légumes",
+    "vinaigre balsamique"
   ],
   "q": {
-    "gousse d’ail": "2 pièce(s)",
+    "ail": "2 pièce(s)",
     "échalote": "1 pièce(s)",
-    "riz pour risotto": "300 g",
+    "riz": "300 g",
     "champignons de paris": "500 g",
-    "parmigiano reggiano aop": "80 g",
+    "parmesan": "80 g",
     "pesto de champignons": "180 g",
-    "huile d’olive saveur truffe": "24 ml",
+    "huile d’olive": "24 ml",
     "bouillon de légumes": "1400 ml",
-    "huile d’olive": "4 cs",
-    "vinaigre balsamique blanc ou de riz": "2 cs"
+    "vinaigre balsamique": "2 cs"
   },
   "port": "4 personnes",
   "prep": 12,

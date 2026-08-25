@@ -10,7 +10,7 @@
   "ing": [
     "riz",
     "oignon",
-    "gousse d’ail",
+    "ail",
     "piment",
     "carotte",
     "patate douce",
@@ -18,16 +18,16 @@
     "curry jaune",
     "coriandre",
     "épinards",
-    "yaourt à la grecque",
+    "yaourt grec",
     "huile de tournesol",
     "beurre",
-    "œuf",
-    "cube de bouillon de légumes"
+    "œufs",
+    "bouillon de légumes"
   ],
   "q": {
     "riz": "110 g",
     "oignon": "1 pièce(s)",
-    "gousse d’ail": "2 pièce(s)",
+    "ail": "2 pièce(s)",
     "piment": "⅓ pièce(s)",
     "carotte": "2 pièce(s)",
     "patate douce": "¾ pièce(s)",
@@ -35,11 +35,11 @@
     "curry jaune": "1 ½ sachet(s)",
     "coriandre": "1 sachet(s)",
     "épinards": "1 sachet(s)",
-    "yaourt à la grecque": "80 g",
+    "yaourt grec": "80 g",
     "huile de tournesol": "2 cs",
     "beurre": "1 cs",
-    "œuf": "3 pièce(s)",
-    "cube de bouillon de légumes": "¾ pièce(s)"
+    "œufs": "3 pièce(s)",
+    "bouillon de légumes": "¾ pièce(s)"
   },
   "port": "3 personnes",
   "prep": 12,

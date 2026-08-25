@@ -10,7 +10,7 @@
     "viande"
   ],
   "ing": [
-    "pavé de bœuf mariné",
+    "bœuf",
     "grenailles",
     "échalote",
     "persil",
@@ -18,13 +18,13 @@
     "salade",
     "noix concassées",
     "beurre",
-    "œuf",
+    "œufs",
     "huile d’olive",
     "moutarde",
     "vinaigre de vin rouge ou de cidre"
   ],
   "q": {
-    "pavé de bœuf mariné": "3 pièce(s)",
+    "bœuf": "3 pièce(s)",
     "grenailles": "750 g",
     "échalote": "1 pièce(s)",
     "persil": "¾ sachet(s)",
@@ -32,7 +32,7 @@
     "salade": "1 sachet(s)",
     "noix concassées": "¾ sachet(s)",
     "beurre": "60 g",
-    "œuf": "1 pièce(s)",
+    "œufs": "1 pièce(s)",
     "huile d’olive": "2 cs",
     "moutarde": "1 ½ cc",
     "vinaigre de vin rouge ou de cidre": "3 cc"

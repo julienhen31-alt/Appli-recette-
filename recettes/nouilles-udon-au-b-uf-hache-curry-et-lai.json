@@ -14,8 +14,8 @@
     "oignon",
     "carotte",
     "gingembre frais",
-    "gousse d’ail",
-    "viande hachée au bœuf",
+    "ail",
+    "bœuf haché",
     "curry en poudre",
     "nouilles udon fraîches",
     "lait de coco",
@@ -23,14 +23,14 @@
     "graines de sésame",
     "bouillon de bœuf",
     "huile de tournesol",
-    "vinaigre balsamique blanc ou de riz"
+    "vinaigre balsamique"
   ],
   "q": {
     "oignon": "2 pièce(s)",
     "carotte": "2 pièce(s)",
     "gingembre frais": "1 cm",
-    "gousse d’ail": "2 pièce(s)",
-    "viande hachée au bœuf": "400 g",
+    "ail": "2 pièce(s)",
+    "bœuf haché": "400 g",
     "curry en poudre": "2 sachet(s)",
     "nouilles udon fraîches": "800 g",
     "lait de coco": "360 ml",
@@ -38,7 +38,7 @@
     "graines de sésame": "10 g",
     "bouillon de bœuf": "250 ml",
     "huile de tournesol": "3 ½ cs",
-    "vinaigre balsamique blanc ou de riz": "2 cc"
+    "vinaigre balsamique": "2 cc"
   },
   "port": "4 personnes",
   "prep": 5,

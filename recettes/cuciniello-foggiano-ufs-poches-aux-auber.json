@@ -8,7 +8,7 @@
   "est": 0,
   "tags": [],
   "ing": [
-    "gousse d’ail",
+    "ail",
     "aubergine",
     "poivron",
     "épices italiennes",
@@ -18,10 +18,10 @@
     "crème de basilic",
     "huile d’olive",
     "sucre",
-    "œuf"
+    "œufs"
   ],
   "q": {
-    "gousse d’ail": "2 pièce(s)",
+    "ail": "2 pièce(s)",
     "aubergine": "2 pièce(s)",
     "poivron": "2 pièce(s)",
     "épices italiennes": "1 sachet(s)",
@@ -31,7 +31,7 @@
     "crème de basilic": "2 pot(s)",
     "huile d’olive": "2 cs",
     "sucre": "2 cc",
-    "œuf": "8 pièce(s)"
+    "œufs": "8 pièce(s)"
   },
   "port": "4 personnes",
   "prep": 10,
