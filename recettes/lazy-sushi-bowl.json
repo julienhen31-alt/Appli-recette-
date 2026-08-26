@@ -1,0 +1,53 @@
+{
+  "id": 1787744293226,
+  "nom": "Lazy sushi bowl",
+  "cat": "Plats",
+  "temps": 25,
+  "kcal": 580,
+  "prot": 26,
+  "est": 0,
+  "tags": [
+    "healthy",
+    "mealprep",
+    "airfryer"
+  ],
+  "ing": [
+    "riz",
+    "vinaigre de riz",
+    "sirop d’agave",
+    "truite fumée",
+    "fromage frais",
+    "avocat",
+    "graines de sésame",
+    "oignons nouveaux",
+    "sauce soja"
+  ],
+  "q": {
+    "riz": "1 verre",
+    "vinaigre de riz": "2 càs",
+    "sirop d’agave": "1 càs (ou sucre blanc)",
+    "truite fumée": "2 à 3 tranches (ou saumon)",
+    "fromage frais": "au goût",
+    "avocat": "1/2",
+    "graines de sésame": "au goût",
+    "oignons nouveaux": "au goût (ou ciboulette)",
+    "sauce soja": "sucrée, au goût"
+  },
+  "port": "1 personne",
+  "prep": 5,
+  "cuis": 20,
+  "diff": "Facile",
+  "cout": "€€",
+  "astuce": "Tasse bien le riz dans le moule avant de démouler : c’est ce qui permet au bowl de garder sa forme une fois retourné sur l’assiette.",
+  "steps": [
+    "Rincer le riz à l'eau claire pour retirer l'amidon.",
+    "Faire cuire le riz avec les 2 verres d'eau (10 min à feu doux dès ébullition, puis 10 min hors du feu à couvert).",
+    "Ajouter le vinaigre de riz, le sirop d'agave et une pincée de sel au riz, mélanger et laisser tiédir/refroidir.",
+    "Huiler légèrement les parois d'un récipient en verre (type plat carré ou tupperware).",
+    "Déposer les tranches de truite fumée au fond, étaler une couche de fromage frais, puis ajouter les lamelles d'avocat.",
+    "Recouvrir avec le riz vinaigré en tassant bien, puis parsemer de graines de sésame.",
+    "Retourner le plat sur une assiette pour démouler.",
+    "Garnir d'oignons nouveaux émincés, de graines de sésame et de sauce soja sucrée avant de servir."
+  ],
+  "src": "Ma recette"
+}

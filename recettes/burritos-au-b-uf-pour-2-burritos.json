@@ -1,0 +1,45 @@
+{
+  "id": 1787744293230,
+  "nom": "Burritos au bœuf (pour 2 burritos)",
+  "cat": "Plats",
+  "temps": 15,
+  "kcal": 615,
+  "prot": 35,
+  "est": 0,
+  "tags": [
+    "viande",
+    "seche",
+    "mealprep"
+  ],
+  "ing": [
+    "wraps",
+    "mélange d’épices",
+    "cheddar",
+    "bœuf haché",
+    "riz",
+    "crème"
+  ],
+  "q": {
+    "wraps": "2",
+    "mélange d’épices": "10 g",
+    "cheddar": "50 g",
+    "bœuf haché": "150 g 5%",
+    "riz": "100 g pesé cru",
+    "crème": "50 g 4%"
+  },
+  "port": "2 personnes",
+  "prep": 5,
+  "cuis": 10,
+  "diff": "Facile",
+  "cout": "€€",
+  "astuce": "Fais dorer les burritos pliés à la poêle avant de servir : la chaleur scelle le pli et le wrap ne s’ouvre plus.",
+  "steps": [
+    "Faire cuire le riz.",
+    "Faire cuire le bœuf haché à la poêle avec le mélange d'épices et un peu d'eau pour faire une petite sauce.",
+    "Sur chaque wrap, déposer la moitié du riz et la moitié de la viande.",
+    "Ajouter le cheddar et un peu de crème par-dessus.",
+    "Plier les wraps pour bien fermer les burritos.",
+    "Faire dorer les burritos à la poêle."
+  ],
+  "src": "Ma recette"
+}

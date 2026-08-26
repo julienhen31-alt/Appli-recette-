@@ -1,0 +1,56 @@
+{
+  "id": 1787744293227,
+  "nom": "Carrot wraps",
+  "cat": "Plats",
+  "temps": 15,
+  "kcal": 336,
+  "prot": 31,
+  "est": 0,
+  "tags": [
+    "healthy",
+    "seche",
+    "viande",
+    "rapide"
+  ],
+  "ing": [
+    "carotte",
+    "mozzarella",
+    "œufs",
+    "poulet",
+    "jambon",
+    "avocat",
+    "oignon rouge",
+    "tomates",
+    "salade",
+    "ciboulette",
+    "mayonnaise"
+  ],
+  "q": {
+    "carotte": "350 g râpées",
+    "mozzarella": "100 g allégée",
+    "œufs": "4",
+    "poulet": "200 g",
+    "jambon": "100 g",
+    "avocat": "1/2",
+    "oignon rouge": "au goût",
+    "tomates": "au goût",
+    "salade": "au goût",
+    "ciboulette": "au goût",
+    "mayonnaise": "allégée, ou sauce sriracha"
+  },
+  "port": "2 personnes",
+  "prep": 8,
+  "cuis": 7,
+  "diff": "Moyen",
+  "cout": "€€",
+  "astuce": "Étale la pâte à galette pas trop épaisse sur la plaque : elle doit bien se tenir à la cuisson pour pouvoir être pliée en wrap sans casser.",
+  "steps": [
+    "Mélanger les carottes râpées, 50g de mozzarella allégée, les œufs, du sel et du poivre dans un récipient.",
+    "Former des galettes (wraps) sur une plaque recouverte de papier cuisson et enfourner.",
+    "Préparer la garniture en écrasant l'avocat avec les tomates en dés, l'oignon rouge émincé et la ciboulette.",
+    "Une fois les galettes cuites, étaler le mélange à l'avocat par-dessus.",
+    "Ajouter le jambon, les morceaux de poulet préalablement cuits, le reste de mozzarella et la sauce.",
+    "Ajouter la salade, plier le wrap en deux et déguster."
+  ],
+  "src": "Ma recette"
+}

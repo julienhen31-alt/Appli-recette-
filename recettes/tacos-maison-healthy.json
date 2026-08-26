@@ -1,0 +1,47 @@
+{
+  "id": 1787744293229,
+  "nom": "Tacos maison healthy",
+  "cat": "Plats",
+  "temps": 20,
+  "kcal": 1010,
+  "prot": 59,
+  "est": 0,
+  "tags": [
+    "viande",
+    "masse",
+    "airfryer"
+  ],
+  "ing": [
+    "durum",
+    "cheddar",
+    "crème",
+    "pommes de terre",
+    "bœuf haché",
+    "sauce barbecue",
+    "mélange d’épices burrito"
+  ],
+  "q": {
+    "durum": "1 wrap",
+    "cheddar": "40 g",
+    "crème": "50 g 4%",
+    "pommes de terre": "300 g",
+    "bœuf haché": "150 g 5%",
+    "sauce barbecue": "30 g",
+    "mélange d’épices burrito": "7 g"
+  },
+  "port": "1 personne",
+  "prep": 5,
+  "cuis": 15,
+  "diff": "Moyen",
+  "cout": "€€",
+  "astuce": "Fais dorer le tacos plié à la poêle à la toute fin : c’est ce qui le fait tenir fermé et donne le croustillant caractéristique.",
+  "steps": [
+    "Couper les pommes de terre et les faire cuire au Airfryer pour faire des frites maison.",
+    "Faire cuire le bœuf haché à la poêle avec le mélange d'épices et un fond d'eau pour lier le tout.",
+    "Préparer la sauce fromagère en faisant chauffer la crème avec le cheddar.",
+    "Étaler la viande hachée sur le wrap, puis ajouter les frites par-dessus.",
+    "Verser la sauce fromagère et la sauce barbecue sur la garniture.",
+    "Plier le tacos et le faire dorer à la poêle."
+  ],
+  "src": "Ma recette"
+}

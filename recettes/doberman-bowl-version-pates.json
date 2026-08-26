@@ -1,0 +1,42 @@
+{
+  "id": 1787744293228,
+  "nom": "Doberman bowl version pâtes",
+  "cat": "Pâtes",
+  "temps": 10,
+  "kcal": 811,
+  "prot": 56,
+  "est": 0,
+  "tags": [
+    "viande",
+    "peuvaisselle",
+    "masse",
+    "rapide"
+  ],
+  "ing": [
+    "pâtes",
+    "bœuf haché",
+    "cheddar",
+    "crème",
+    "mélange d’épices"
+  ],
+  "q": {
+    "pâtes": "100 g pesé cru",
+    "bœuf haché": "150 g 5%",
+    "cheddar": "40 g",
+    "crème": "50 g 4%",
+    "mélange d’épices": "7 g"
+  },
+  "port": "1 personne",
+  "prep": 3,
+  "cuis": 7,
+  "diff": "Facile",
+  "cout": "€€",
+  "astuce": "Fais fondre le cheddar et la crème au micro-ondes plutôt qu’à la poêle : ça évite que le fromage n’accroche et grumelle.",
+  "steps": [
+    "Faire cuire les pâtes dans l'eau bouillante.",
+    "Faire cuire le bœuf à la poêle avec du sel, du poivre et le mélange d'épices, puis ajouter un peu d'eau pour faire un fond de sauce.",
+    "Préparer la sauce au fromage en faisant chauffer la crème et le cheddar 30 secondes au micro-ondes dans un bol.",
+    "Verser la sauce au fromage et les pâtes cuites directement dans la poêle avec la viande, puis mélanger."
+  ],
+  "src": "Ma recette"
+}
