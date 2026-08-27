@@ -1,0 +1,48 @@
+{
+  "id": 1787846463091,
+  "nom": "Smash Tacos cheddar",
+  "cat": "Plats",
+  "temps": 20,
+  "kcal": 600,
+  "prot": 30,
+  "est": 0,
+  "tags": [
+    "viande",
+    "pascher",
+    "rapide"
+  ],
+  "ing": [
+    "tortillas",
+    "bœuf haché",
+    "cheddar",
+    "oignon rouge",
+    "cornichons",
+    "salade",
+    "mayonnaise",
+    "ketchup"
+  ],
+  "q": {
+    "tortillas": "4 de blé",
+    "bœuf haché": "200 g",
+    "cheddar": "4 tranches",
+    "oignon rouge": "1/2",
+    "cornichons": "4",
+    "salade": "4 feuilles",
+    "mayonnaise": "2 c. à soupe",
+    "ketchup": "1 c. à soupe"
+  },
+  "port": "2 personnes",
+  "prep": 10,
+  "cuis": 10,
+  "diff": "Facile",
+  "cout": "€",
+  "astuce": "Étale la viande hachée bien fine sur la tortilla : c’est ça le principe \"smash\", elle doit cuire vite et croustiller sur les bords.",
+  "steps": [
+    "Étaler finement le bœuf haché cru directement sur une face de chaque tortilla.",
+    "Mettre la tortilla à cuire dans une poêle bien chaude, côté viande vers le bas, jusqu'à ce qu'elle soit cuite.",
+    "Retourner la tortilla, déposer une tranche de cheddar sur la viande chaude pour la faire fondre.",
+    "Mélanger la mayonnaise et le ketchup pour la sauce.",
+    "Ajouter la salade, les cornichons en tranches, l'oignon rouge émincé et la sauce avant de replier les tacos."
+  ],
+  "src": "Ma recette"
+}

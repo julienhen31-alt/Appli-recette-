@@ -1,0 +1,46 @@
+{
+  "id": 1787846463092,
+  "nom": "Pâtes tomates-feta",
+  "cat": "Pâtes",
+  "temps": 25,
+  "kcal": 550,
+  "prot": 20,
+  "est": 0,
+  "tags": [
+    "veg",
+    "pascher",
+    "peuvaisselle"
+  ],
+  "ing": [
+    "pâtes",
+    "feta",
+    "tomates cerises",
+    "ail",
+    "huile d’olive",
+    "piment",
+    "herbes de provence"
+  ],
+  "q": {
+    "pâtes": "180 g courtes",
+    "feta": "100 g",
+    "tomates cerises": "120 g",
+    "ail": "1 gousse",
+    "huile d’olive": "1 c. à soupe",
+    "piment": "1 c. à café",
+    "herbes de provence": "1 c. à café"
+  },
+  "port": "2 personnes",
+  "prep": 5,
+  "cuis": 20,
+  "diff": "Facile",
+  "cout": "€",
+  "astuce": "Écrase la feta et les tomates encore chaudes directement dans le plat de cuisson : c’est ce qui crée la sauce crémeuse sans casserole en plus.",
+  "steps": [
+    "Préchauffer le four. Placer le bloc de feta au centre d'un plat allant au four avec les tomates cerises et la gousse d'ail autour.",
+    "Arroser d'huile d'olive et saupoudrer de piment et d'herbes de Provence. Enfourner environ 20 minutes.",
+    "Pendant ce temps, faire cuire les pâtes dans l'eau bouillante.",
+    "Sortir le plat du four et écraser les tomates et la feta à la fourchette pour créer une sauce onctueuse.",
+    "Ajouter les pâtes cuites dans le plat et tout mélanger."
+  ],
+  "src": "Ma recette"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1787846463090,
+  "nom": "Sushi Stack",
+  "cat": "Plats",
+  "temps": 30,
+  "kcal": 520,
+  "prot": 24,
+  "est": 0,
+  "tags": [
+    "healthy",
+    "pascher"
+  ],
+  "ing": [
+    "riz",
+    "saumon fumé",
+    "avocat",
+    "concombre",
+    "mayonnaise",
+    "sriracha",
+    "sauce soja",
+    "graines de sésame"
+  ],
+  "q": {
+    "riz": "140 g",
+    "saumon fumé": "120 g",
+    "avocat": "1",
+    "concombre": "1/2",
+    "mayonnaise": "2 c. à soupe",
+    "sriracha": "1 c. à café",
+    "sauce soja": "2 c. à soupe",
+    "graines de sésame": "1 c. à café"
+  },
+  "port": "1 personne",
+  "prep": 15,
+  "cuis": 15,
+  "diff": "Facile",
+  "cout": "€",
+  "astuce": "Tasse bien chaque couche dans l’emporte-pièce avant de passer à la suivante : c’est ce qui permet au dôme de garder sa forme au démoulage.",
+  "steps": [
+    "Faire cuire le riz.",
+    "Couper le saumon fumé, l'avocat et le concombre en petits dés.",
+    "Dans un emporte-pièce (ou un bol chemisé de film plastique), tasser d'abord l'avocat, puis le concombre, le saumon et enfin le riz.",
+    "Démouler sur une assiette.",
+    "Mélanger la mayonnaise et la sriracha, puis verser cette sauce et la sauce soja sur le dôme.",
+    "Parsemer de graines de sésame."
+  ],
+  "src": "Ma recette"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1787846463089,
+  "nom": "Crousty Chicken Bowl",
+  "cat": "Plats",
+  "temps": 30,
+  "kcal": 650,
+  "prot": 45,
+  "est": 0,
+  "tags": [
+    "viande",
+    "pascher"
+  ],
+  "ing": [
+    "poulet",
+    "riz",
+    "corn-flakes",
+    "œufs",
+    "concombre",
+    "mayonnaise",
+    "sriracha",
+    "sauce soja"
+  ],
+  "q": {
+    "poulet": "250 g de blanc",
+    "riz": "140 g",
+    "corn-flakes": "50 g",
+    "œufs": "1",
+    "concombre": "1/2",
+    "mayonnaise": "2 c. à soupe",
+    "sriracha": "1 c. à café",
+    "sauce soja": "2 c. à soupe"
+  },
+  "port": "1 personne",
+  "prep": 15,
+  "cuis": 15,
+  "diff": "Moyen",
+  "cout": "€",
+  "astuce": "Émiette bien finement les corn-flakes pour une panure régulière qui adhère mieux au poulet.",
+  "steps": [
+    "Faire cuire le riz.",
+    "Émietter les corn-flakes. Tremper le blanc de poulet dans l'œuf battu puis l'enrober de corn-flakes.",
+    "Faire cuire le poulet pané jusqu'à ce qu'il soit bien doré, puis le couper en tranches.",
+    "Couper le concombre en fines rondelles.",
+    "Préparer la sauce en mélangeant la mayonnaise et la sriracha.",
+    "Servir le riz dans un bol, disposer le poulet et le concombre, puis napper de sauce épicée et de sauce soja."
+  ],
+  "src": "Ma recette"
+}

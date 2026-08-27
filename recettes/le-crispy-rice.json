@@ -1,0 +1,46 @@
+{
+  "id": 1787846463088,
+  "nom": "Le Crispy Rice",
+  "cat": "Plats",
+  "temps": 25,
+  "kcal": 450,
+  "prot": 22,
+  "est": 0,
+  "tags": [
+    "pascher"
+  ],
+  "ing": [
+    "riz",
+    "thon",
+    "mayonnaise",
+    "sriracha",
+    "concombre",
+    "sauce soja",
+    "graines de sésame",
+    "ciboulette"
+  ],
+  "q": {
+    "riz": "140 g",
+    "thon": "140 g égoutté",
+    "mayonnaise": "2 c. à soupe",
+    "sriracha": "1 c. à café",
+    "concombre": "1/2",
+    "sauce soja": "2 c. à soupe",
+    "graines de sésame": "1 c. à café",
+    "ciboulette": "5 brins"
+  },
+  "port": "1 personne",
+  "prep": 10,
+  "cuis": 15,
+  "diff": "Facile",
+  "cout": "€",
+  "astuce": "Bien tasser et dorer le riz sur toutes ses faces à la poêle : c’est cette croûte croustillante qui fait la texture du plat.",
+  "steps": [
+    "Faire cuire le riz, le façonner en pavés rectangulaires et les faire dorer à la poêle pour les rendre bien croustillants.",
+    "Mélanger le thon égoutté avec la mayonnaise et la sriracha.",
+    "Couper le concombre en fines rondelles et ciseler la ciboulette.",
+    "Déposer le mélange au thon épicé sur les pavés de riz croustillants.",
+    "Garnir avec les rondelles de concombre, la ciboulette, les graines de sésame et ajouter un filet de sauce soja."
+  ],
+  "src": "Ma recette"
+}
