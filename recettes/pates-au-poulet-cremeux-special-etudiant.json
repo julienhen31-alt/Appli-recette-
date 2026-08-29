@@ -1,0 +1,57 @@
+{
+  "id": 1788026518108,
+  "nom": "Pâtes au poulet crémeux (Spécial étudiant)",
+  "cat": "Pâtes",
+  "temps": 30,
+  "kcal": 720,
+  "prot": 42,
+  "est": 0,
+  "tags": [
+    "pascher",
+    "viande"
+  ],
+  "ing": [
+    "poulet",
+    "pâtes",
+    "paprika",
+    "ail en poudre",
+    "origan",
+    "huile d’olive",
+    "beurre",
+    "ail",
+    "crème",
+    "citron",
+    "parmesan",
+    "piment"
+  ],
+  "q": {
+    "poulet": "2 blancs",
+    "pâtes": "type tagliatelles ou linguine",
+    "paprika": "au goût",
+    "ail en poudre": "au goût",
+    "origan": "au goût",
+    "huile d’olive": "au goût",
+    "beurre": "au goût",
+    "ail": "quelques gousses",
+    "crème": "de la crème fraîche",
+    "citron": "1 (jus)",
+    "parmesan": "au goût",
+    "piment": "au goût"
+  },
+  "port": "2 personnes",
+  "prep": 10,
+  "cuis": 20,
+  "diff": "Moyen",
+  "cout": "€",
+  "astuce": "Garde toujours un peu d’eau de cuisson des pâtes : c’est elle qui lie et assouplit la sauce crème-parmesan à la fin.",
+  "steps": [
+    "Assaisonner les blancs de poulet avec du poivre, de l'ail en poudre, de l'origan, du paprika, du sel et bien les badigeonner d'huile d'olive.",
+    "Faire revenir le poulet dans une poêle puis déglacer avec du beurre. Retirer le poulet une fois cuit et le réserver.",
+    "Dans la même poêle, faire revenir de l'ail puis ajouter la crème fraîche. Bien remuer.",
+    "Quand les bulles commencent à apparaître, ajouter le jus de citron.",
+    "Terminer la sauce en ajoutant du parmesan, du piment et un peu d'eau de cuisson des pâtes.",
+    "Ajouter les pâtes préalablement cuites dans la sauce et bien mélanger.",
+    "Servir dans une assiette avec les blancs de poulet coupés en tranches sur le dessus."
+  ],
+  "src": "Ma recette"
+}
