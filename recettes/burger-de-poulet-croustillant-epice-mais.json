@@ -1,0 +1,62 @@
+{
+  "id": 1788259350679,
+  "nom": "Burger de poulet croustillant épicé maison",
+  "cat": "Plats",
+  "temps": 45,
+  "kcal": 850,
+  "prot": 45,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "poulet",
+    "yaourt grec",
+    "ail",
+    "paprika",
+    "piment de cayenne",
+    "crème",
+    "moutarde",
+    "miel",
+    "cornichons",
+    "cébette",
+    "sucrine",
+    "fécule de maïs",
+    "farine",
+    "pain burger brioché",
+    "huile neutre"
+  ],
+  "q": {
+    "poulet": "2 blancs (filets)",
+    "yaourt grec": "1 tasse (~240 g), pour la marinade",
+    "ail": "2-3 gousses",
+    "paprika": "2 c. à c. au total (marinade + panure)",
+    "piment de cayenne": "1 c. à c. au total (marinade + panure)",
+    "crème": "1 tasse de crème fraîche épaisse",
+    "moutarde": "2 c. à s. à l'ancienne",
+    "miel": "1 c. à s.",
+    "cornichons": "1 gros cornichon malossol (fermenté)",
+    "cébette": "2-3",
+    "sucrine": "1/2 tête, émincée",
+    "fécule de maïs": "1/2 tasse",
+    "farine": "1/2 tasse",
+    "pain burger brioché": "2 pains",
+    "huile neutre": "pour la friture"
+  },
+  "port": "2 personnes",
+  "prep": 30,
+  "cuis": 15,
+  "diff": "Confirmé",
+  "cout": "€€",
+  "astuce": "Prélève une cuillerée de la marinade au yaourt et écrase-la dans le mélange farine-fécule sec avant de paner : ça crée de petits grumeaux irréguliers qui donnent une panure bien plus croustillante qu'un enrobage lisse.",
+  "steps": [
+    "Préparer le poulet et la marinade : sécher les blancs de poulet avec du papier absorbant, saler et poivrer légèrement des deux côtés. Dans un bol, mélanger le yaourt grec, l'ail écrasé, le paprika et le piment de Cayenne. Immerger complètement le poulet dans la marinade, couvrir et laisser reposer au réfrigérateur au moins 20 minutes (idéalement plusieurs heures).",
+    "Préparer la sauce façon coleslaw : mélanger la crème fraîche, la moutarde à l'ancienne, le miel et le cornichon finement haché. Saler, poivrer, puis incorporer la sucrine émincée et la cébette hachée jusqu'à ce que le tout soit bien enrobé de sauce. Réserver au frais.",
+    "Préparer la panure croustillante : dans un plat creux, mélanger la fécule de maïs, la farine, le paprika et le piment de Cayenne, avec une pincée de sel et de poivre. Prélever une cuillerée de la marinade au yaourt sur le poulet et l'émietter dans le mélange sec pour créer de petits grumeaux irréguliers.",
+    "Paner le poulet : sortir chaque filet mariné du réfrigérateur et le presser fermement dans la panure de tous les côtés, pour un enrobage bien épais et complet.",
+    "Frire le poulet : verser plusieurs centimètres d'huile dans une poêle profonde ou une casserole et chauffer à 170°C (un petit bout de pain doit grésiller immédiatement et dorer vite si tu n'as pas de thermomètre). Plonger délicatement les filets panés dans l'huile chaude sans surcharger la poêle. Frire environ 8-9 minutes en retournant à mi-cuisson, jusqu'à un brun doré profond et une température à cœur de 74°C.",
+    "Égoutter et assaisonner : retirer le poulet à l'aide de pinces et le déposer sur une grille. Saupoudrer immédiatement d'un peu de sel et de paprika à chaud.",
+    "Assembler les burgers : faire toaster les pains burger brioché (toasteur, grill ou poêle avec un peu de beurre). Déposer une bonne cuillerée de sauce coleslaw sur le pain du bas, poser un filet de poulet croustillant chaud, ajouter une autre cuillerée de sauce par-dessus, puis refermer avec le pain du haut."
+  ],
+  "src": "Ma recette"
+}
