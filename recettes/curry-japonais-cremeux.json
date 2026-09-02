@@ -1,0 +1,51 @@
+{
+  "id": 1788356794233,
+  "nom": "Curry japonais crémeux",
+  "cat": "Plats",
+  "temps": 30,
+  "kcal": 570,
+  "prot": 34,
+  "est": 0,
+  "tags": [
+    "viande"
+  ],
+  "ing": [
+    "poulet",
+    "curry",
+    "paprika",
+    "ail en poudre",
+    "curcuma",
+    "oignon",
+    "sauce soja",
+    "lait de coco",
+    "golden curry",
+    "ciboulette",
+    "graines de sésame"
+  ],
+  "q": {
+    "poulet": "400 g de hauts de cuisse désossés avec peau (ou blancs pour une version plus légère)",
+    "curry": "1 c. à c. de poudre",
+    "paprika": "1 c. à c.",
+    "ail en poudre": "1/2 c. à c.",
+    "curcuma": "1/4 c. à c.",
+    "oignon": "100 g en dés",
+    "sauce soja": "10 g",
+    "lait de coco": "200 ml léger",
+    "golden curry": "2 cubes (~36-40 g)",
+    "ciboulette": "ciselée, pour la garniture",
+    "graines de sésame": "pour la garniture"
+  },
+  "port": "2 personnes",
+  "prep": 10,
+  "cuis": 20,
+  "diff": "Moyen",
+  "cout": "€€",
+  "astuce": "La technique de la peau croustillante : dépose le poulet côté peau vers le bas dans une poêle FROIDE sans huile, puis allume à feu moyen-doux. La montée en température progressive fait fondre la graisse de la peau tout en douceur, ce qui la rend incroyablement croustillante — contrairement à une poêle déjà chaude qui la ferait accrocher. Avec des blancs de poulet à la place des hauts de cuisse, on tombe à environ 390 kcal et 48 g de protéines par portion (pour le curry seul, riz non compris).",
+  "steps": [
+    "Assaisonner le poulet : dans un bol, mélanger le poulet avec la poudre de curry, le paprika, l'ail en poudre, le curcuma, le sel et le poivre. S'assurer que les morceaux soient bien enrobés d'épices.",
+    "Cuire le poulet (la technique secrète) : prendre une poêle antiadhésive froide, sans huile. Déposer les morceaux de poulet côté peau vers le bas. Allumer à feu moyen-doux : la montée en température progressive fait fondre la graisse de la peau en douceur et la rend incroyablement croustillante. Une fois la peau bien dorée et croustillante, retourner les morceaux et terminer la cuisson. Retirer le poulet de la poêle et le réserver sur une assiette.",
+    "Préparer la sauce : garder la graisse de cuisson du poulet au fond de la poêle. Ajouter l'oignon en dés et faire revenir jusqu'à ce qu'il soit tendre. Verser la sauce soja, puis le lait de coco léger. Ajouter les cubes de Golden Curry et laisser fondre en épaississant à feu doux, en remuant bien pour une texture crémeuse. Ajouter un peu d'eau seulement si nécessaire pour obtenir une sauce onctueuse qui nappe le dos d'une cuillère.",
+    "Assemblage : couper le poulet cuit en lamelles. En option, filtrer la sauce à la passoire pour une texture bien lisse (sinon garder les oignons pour le topping). Servir une portion de riz dans une assiette ou un bol, disposer les lamelles de poulet dessus, napper généreusement de sauce curry, puis garnir en option d'oignons réservés, de ciboulette ciselée et de graines de sésame."
+  ],
+  "src": "Ma recette"
+}
