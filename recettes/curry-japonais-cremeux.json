@@ -3,11 +3,14 @@
   "nom": "Curry japonais crémeux",
   "cat": "Plats",
   "temps": 30,
-  "kcal": 570,
-  "prot": 34,
+  "kcal": 390,
+  "prot": 48,
   "est": 0,
   "tags": [
-    "viande"
+    "viande",
+    "healthy",
+    "seche",
+    "masse"
   ],
   "ing": [
     "poulet",

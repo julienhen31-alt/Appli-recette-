@@ -1,0 +1,51 @@
+{
+  "id": 1788602880245,
+  "nom": "Viral Sushi Cake",
+  "cat": "Plats",
+  "temps": 25,
+  "kcal": 350,
+  "prot": 18,
+  "est": 0,
+  "tags": [
+    "healthy"
+  ],
+  "ing": [
+    "saumon",
+    "riz",
+    "concombre",
+    "avocat",
+    "fromage frais",
+    "algue nori",
+    "vinaigre de riz",
+    "sauce soja",
+    "graines de sésame"
+  ],
+  "q": {
+    "saumon": "2 pavés",
+    "riz": "300 g à sushi",
+    "concombre": "1/2",
+    "avocat": "1",
+    "fromage frais": "au goût",
+    "algue nori": "quelques feuilles",
+    "vinaigre de riz": "au goût",
+    "sauce soja": "un peu",
+    "graines de sésame": "pour la déco"
+  },
+  "port": "4 personnes",
+  "prep": 15,
+  "cuis": 10,
+  "diff": "Moyen",
+  "cout": "€€€",
+  "astuce": "Manipule le riz assaisonné avec les mains humides : ça évite qu'il n'accroche et permet de bien le tasser en couches régulières sans que ça colle partout.",
+  "steps": [
+    "Laver le riz à sushi plusieurs fois à l'eau froide jusqu'à ce que l'eau soit claire, puis le cuire selon les indications du paquet.",
+    "Une fois cuit, laisser refroidir le riz puis l'assaisonner avec du vinaigre de riz et un peu de sauce soja (manipuler avec les mains humides pour que ça ne colle pas).",
+    "Huiler légèrement le fond d'un plat carré ou rectangulaire et y déposer les tranches de saumon pour tapisser le fond.",
+    "Ajouter une couche de riz, puis une feuille d'algue nori et une couche de fromage frais.",
+    "Disposer le concombre et l'avocat en tranches par-dessus.",
+    "Ajouter une nouvelle feuille d'algue, puis une seconde couche de riz, et terminer avec une dernière feuille d'algue.",
+    "Bien tasser l'ensemble afin que le gâteau se tienne parfaitement.",
+    "Démouler délicatement en retournant le plat sur une planche, parsemer de graines de sésame et découper en jolis cubes."
+  ],
+  "src": "Ma recette"
+}
