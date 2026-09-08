@@ -1,0 +1,46 @@
+{
+  "id": 1788894043348,
+  "nom": "Pain burger pliable",
+  "cat": "Plats",
+  "temps": 120,
+  "kcal": 350,
+  "prot": 10,
+  "est": 0,
+  "tags": [
+    "mealprep"
+  ],
+  "ing": [
+    "farine",
+    "œufs",
+    "sucre",
+    "lait",
+    "levure",
+    "beurre",
+    "parmesan"
+  ],
+  "q": {
+    "farine": "100 g (préferment) + 300 g (pâte)",
+    "œufs": "1",
+    "sucre": "35 g",
+    "lait": "140 ml",
+    "levure": "2 g (préferment) + 5 g (pâte)",
+    "beurre": "25 g",
+    "parmesan": "pour saupoudrer (ou chapelure)"
+  },
+  "port": "4 personnes",
+  "prep": 100,
+  "cuis": 20,
+  "diff": "Confirmé",
+  "cout": "€",
+  "astuce": "Le préferment (repos 1h avant même de faire la pâte finale) donne beaucoup plus de goût et de moelleux au pain qu’une pâte à levée unique.",
+  "steps": [
+    "Mélanger les ingrédients du préferment et laisser reposer 1h.",
+    "Préparer la pâte en mélangeant le reste de farine, sucre, sel, lait, œuf, levure, et le préferment.",
+    "Incorporer le beurre et pétrir la pâte, puis laisser reposer.",
+    "Diviser en portions, former des boules puis les étaler avec un rouleau.",
+    "Badigeonner d'eau, saupoudrer de parmesan (ou chapelure) et plier la pâte en deux sur elle-même.",
+    "Déposer du beurre sur les pains et enfourner 20 minutes à 190°C.",
+    "À la sortie du four, ouvrir le pain pliable et ajouter la garniture de ton choix (salade, charcuterie, fromage, sauce tzatziki...)."
+  ],
+  "src": "Ma recette"
+}

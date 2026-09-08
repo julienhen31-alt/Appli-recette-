@@ -1,0 +1,58 @@
+{
+  "id": 1788894043345,
+  "nom": "Nouilles udon sauce cacahuète & haché végétal",
+  "cat": "Pâtes",
+  "temps": 15,
+  "kcal": 550,
+  "prot": 20,
+  "est": 0,
+  "tags": [
+    "veg",
+    "rapide"
+  ],
+  "ing": [
+    "beurre de cacahuètes",
+    "ail",
+    "sriracha",
+    "gingembre frais",
+    "sauce soja",
+    "huile de sésame",
+    "haché végétal",
+    "nouilles udon",
+    "œufs",
+    "graines de sésame",
+    "coriandre",
+    "huile pimentée",
+    "cébette"
+  ],
+  "q": {
+    "beurre de cacahuètes": "2 bonnes càs (100%)",
+    "ail": "1 gousse écrasée",
+    "sriracha": "une pointe",
+    "gingembre frais": "1 cm râpé",
+    "sauce soja": "3 càs (2 sauce + 1 haché)",
+    "huile de sésame": "1 càc",
+    "haché végétal": "grillé (ex. marque Accro)",
+    "nouilles udon": "2 portions",
+    "œufs": "2",
+    "graines de sésame": "pour la déco",
+    "coriandre": "pour la déco",
+    "huile pimentée": "pour la déco",
+    "cébette": "émincée, pour la déco"
+  },
+  "port": "2 personnes",
+  "prep": 5,
+  "cuis": 10,
+  "diff": "Facile",
+  "cout": "€€",
+  "astuce": "Utilise l'eau de cuisson des nouilles bien chaude (1,5 louche) pour détendre la sauce cacahuète : c'est l'amidon qui la rend soyeuse sans avoir besoin d'ajouter de la crème.",
+  "steps": [
+    "Cuire les nouilles udon et réserver un peu d'eau de cuisson.",
+    "Faire revenir le haché végétal avec 1 cuillère à soupe de sauce soja.",
+    "Mélanger tous les ingrédients de la sauce en fouettant bien.",
+    "Incorporer les nouilles dans la sauce et mélanger à nouveau pour bien les enrober.",
+    "Cuire les œufs mollets 6 minutes dans l'eau bouillante.",
+    "Servir les nouilles avec les œufs, le haché végétal et les toppings."
+  ],
+  "src": "Ma recette"
+}

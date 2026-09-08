@@ -1,0 +1,49 @@
+{
+  "id": 1788894043349,
+  "nom": "Pâtes au chorizo et lardons",
+  "cat": "Pâtes",
+  "temps": 15,
+  "kcal": 700,
+  "prot": 28,
+  "est": 0,
+  "tags": [
+    "viande",
+    "peuvaisselle",
+    "pascher",
+    "rapide"
+  ],
+  "ing": [
+    "chorizo",
+    "lardons",
+    "thym séché",
+    "bouillon de volaille",
+    "pâtes",
+    "crème",
+    "fromage râpé"
+  ],
+  "q": {
+    "chorizo": "1",
+    "lardons": "au goût",
+    "thym séché": "au goût",
+    "bouillon de volaille": "1 cube + 1 grand verre d’eau",
+    "pâtes": "type macaroni",
+    "crème": "liquide entière",
+    "fromage râpé": "mozzarella ou autre"
+  },
+  "port": "2 personnes",
+  "prep": 5,
+  "cuis": 10,
+  "diff": "Facile",
+  "cout": "€",
+  "astuce": "Cuis les pâtes directement dans le bouillon façon \"one pot\" : elles absorbent tout le goût du chorizo en cuisant, pas besoin d’égoutter ni de sortir une casserole en plus.",
+  "steps": [
+    "Couper le chorizo en petites lamelles.",
+    "Faire revenir le chorizo dans une poêle à feu moyen pour libérer son gras.",
+    "Ajouter les lardons et laisser cuire 3 à 4 minutes.",
+    "Ajouter le poivre, le thym et les épices, puis bien mélanger.",
+    "Verser un grand verre d'eau, émietter le bouillon de volaille, puis ajouter les pâtes crues directement dans la poêle.",
+    "Laisser chauffer le tout jusqu'à ce que les pâtes soient cuites et aient absorbé le bouillon.",
+    "Verser la crème liquide, ajouter généreusement le fromage râpé et mélanger jusqu'à ce qu'il soit bien fondu."
+  ],
+  "src": "Ma recette"
+}

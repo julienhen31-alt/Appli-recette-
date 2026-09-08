@@ -1,0 +1,63 @@
+{
+  "id": 1788894043347,
+  "nom": "Moussaka",
+  "cat": "Plats",
+  "temps": 60,
+  "kcal": 550,
+  "prot": 28,
+  "est": 0,
+  "tags": [
+    "viande",
+    "mealprep"
+  ],
+  "ing": [
+    "bœuf haché",
+    "oignon",
+    "ail",
+    "tomates concassées",
+    "concentré de tomate",
+    "origan",
+    "cannelle",
+    "huile d’olive",
+    "aubergine",
+    "pommes de terre",
+    "beurre",
+    "farine",
+    "lait",
+    "fromage râpé",
+    "noix de muscade"
+  ],
+  "q": {
+    "bœuf haché": "300 g",
+    "oignon": "1 petit",
+    "ail": "1 gousse",
+    "tomates concassées": "150 g",
+    "concentré de tomate": "1 c. à café",
+    "origan": "1/2 c. à café",
+    "cannelle": "1 pincée (facultatif)",
+    "huile d’olive": "au goût",
+    "aubergine": "1 grosse",
+    "pommes de terre": "2 grosses",
+    "beurre": "30 g",
+    "farine": "30 g",
+    "lait": "375 ml",
+    "fromage râpé": "100 g",
+    "noix de muscade": "au goût"
+  },
+  "port": "4 personnes",
+  "prep": 25,
+  "cuis": 35,
+  "diff": "Confirmé",
+  "cout": "€€",
+  "astuce": "Précuis toujours l’aubergine et la pomme de terre au four avant le montage : ça évite un plat détrempé, elles rendent leur eau à part plutôt que dans la béchamel.",
+  "steps": [
+    "Couper les légumes en tranches de 5 mm, les assaisonner et ajouter un généreux filet d'huile d'olive.",
+    "Enfourner à 200°C (20 à 25 minutes pour les aubergines, 25 à 30 minutes pour les pommes de terre).",
+    "Faire revenir l'ail et l'oignon, puis ajouter la viande et la laisser bien colorer.",
+    "Ajouter les tomates, le concentré et les épices, puis laisser mijoter 20 minutes pour obtenir une sauce bien réduite.",
+    "Préparer la béchamel : faire fondre le beurre, ajouter la farine puis verser progressivement le lait en fouettant. Laisser épaissir, ajouter le fromage et assaisonner (sel, poivre, muscade).",
+    "Dans un plat, superposer les pommes de terre, la viande puis les aubergines.",
+    "Recouvrir généreusement de béchamel et enfourner 20 minutes à 200°C, jusqu'à ce que le dessus soit bien doré. Laisser reposer quelques minutes avant de découper."
+  ],
+  "src": "Ma recette"
+}

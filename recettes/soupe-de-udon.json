@@ -1,0 +1,48 @@
+{
+  "id": 1788894043346,
+  "nom": "Soupe de Udon",
+  "cat": "Pâtes",
+  "temps": 15,
+  "kcal": 500,
+  "prot": 25,
+  "est": 0,
+  "tags": [
+    "viande",
+    "rapide"
+  ],
+  "ing": [
+    "bœuf haché",
+    "huile de sésame",
+    "pâte de miso",
+    "lait de coco",
+    "sauce soja",
+    "huile pimentée",
+    "nouilles udon",
+    "graines de sésame",
+    "coriandre"
+  ],
+  "q": {
+    "bœuf haché": "100 g",
+    "huile de sésame": "1 càs",
+    "pâte de miso": "1 càs",
+    "lait de coco": "15 cl",
+    "sauce soja": "1 càs",
+    "huile pimentée": "1 càc (+ un peu pour le service)",
+    "nouilles udon": "1 paquet",
+    "graines de sésame": "pour la déco",
+    "coriandre": "pour la déco"
+  },
+  "port": "2 personnes",
+  "prep": 5,
+  "cuis": 10,
+  "diff": "Facile",
+  "cout": "€€",
+  "astuce": "Fais bien revenir le bœuf haché avant de mouiller : les sucs caramélisés au fond de la casserole donnent toute la profondeur au bouillon miso-coco.",
+  "steps": [
+    "Faire revenir le bœuf haché dans l'huile de sésame avec du sel et du poivre.",
+    "Ajouter la pâte de miso, le lait de coco, l'eau, la sauce soja et l'huile pimentée pour créer le bouillon.",
+    "Plonger les nouilles udon dans le bouillon chaud et laisser cuire.",
+    "Servir dans un bol avec des graines de sésame, de la coriandre fraîche et un filet d'huile pimentée."
+  ],
+  "src": "Ma recette"
+}
