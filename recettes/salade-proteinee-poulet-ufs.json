@@ -1,0 +1,44 @@
+{
+  "id": 1788976422075,
+  "nom": "Salade protéinée poulet & œufs",
+  "cat": "Salades",
+  "temps": 15,
+  "kcal": 445,
+  "prot": 38,
+  "est": 0,
+  "tags": [
+    "healthy",
+    "seche",
+    "viande"
+  ],
+  "ing": [
+    "yaourt grec",
+    "poulet",
+    "concombre",
+    "tomates cerises",
+    "oignon rouge",
+    "œufs"
+  ],
+  "q": {
+    "yaourt grec": "quelques cuillères, pour la base",
+    "poulet": "1 blanc grillé",
+    "concombre": "1/2",
+    "tomates cerises": "une poignée",
+    "oignon rouge": "quelques rondelles",
+    "œufs": "2, brouillés"
+  },
+  "port": "1 personne",
+  "prep": 10,
+  "cuis": 5,
+  "diff": "Facile",
+  "cout": "€€",
+  "astuce": "Étale le yaourt grec au fond du saladier avant tout le reste : il fait office de sauce et enrobe les ingrédients quand tu mélanges, pas besoin d’une vinaigrette en plus.",
+  "steps": [
+    "Faire griller le poulet et préparer des œufs brouillés à la poêle (tu peux aussi utiliser des restes pour aller plus vite).",
+    "Couper le concombre en demi-lunes, les tomates cerises en deux et émincer l'oignon rouge.",
+    "Dans un grand saladier, étaler une belle couche de yaourt grec au fond.",
+    "Ajouter par-dessus les morceaux de poulet grillé, le concombre, les tomates cerises, l'oignon rouge et enfin les œufs brouillés.",
+    "Bien mélanger le tout pour que le yaourt grec fasse office de sauce et enrobe tous les ingrédients."
+  ],
+  "src": "Ma recette"
+}
