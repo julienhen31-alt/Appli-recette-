@@ -14,7 +14,7 @@ import json
 import os
 import sys
 
-SIZE_LIMIT = 256 * 1024   # bytes: below this, a whole-file read is cheap
+SIZE_LIMIT = 100 * 1024   # bytes: below this, a whole-file read is cheap
 MAX_LIMIT = 2000          # lines: a partial read at or under this is reasonable
 PASSTHROUGH = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".bmp", ".svg",
                ".pdf", ".ipynb"}

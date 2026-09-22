@@ -44,6 +44,40 @@ def offenders(cmd):
     return out
 
 
+# --- producteurs de sortie non bornee, au-dela du simple `cat` ---------------
+# (motif de detection, alternative bornee). Verifie sur la commande normalisee.
+UNBOUNDED = [
+    (re.compile(r"^git\s+log\b(?!.*(-n\s*\d|--oneline|-\d))"),
+     "git log --oneline -n 20"),
+    (re.compile(r"^git\s+(diff|show)\b(?!.*(--stat|--shortstat|--name-only|--name-status))"),
+     "git diff --stat   puis un diff cible sur un chemin"),
+    (re.compile(r"^find\b(?!.*(-maxdepth|-name|-type\s+f\s+-newer))"),
+     "fd MOTIF | head -n 50"),
+    (re.compile(r"^ls\b.*-[a-zA-Z]*R"), "fd --max-depth 2 | head -n 50"),
+    (re.compile(r"^tree\b(?!.*-L)"), "tree -L 2"),
+    (re.compile(r"^(env|printenv)\s*$"), "env | rg -i 'MOTIF'"),
+    (re.compile(r"^(docker\s+logs|journalctl|kubectl\s+logs)\b(?!.*(-n|--tail|--lines))"),
+     "... --tail 100"),
+    (re.compile(r"^(npm|pnpm|yarn)\s+ls\b(?!.*--depth)"), "npm ls --depth 0"),
+    (re.compile(r"^pip\s+(list|freeze)\b"), "pip list | rg -i 'MOTIF'"),
+]
+
+
+def unbounded_cmds(cmd):
+    """Return (segment, suggestion) for unbounded output producers."""
+    hits = []
+    for seg in re.split(r"[;&]{1,2}|\|\|", cmd):
+        seg = seg.strip()
+        if not seg or BOUNDED.search(seg):
+            continue
+        base = seg.split("|")[0].strip()
+        for rx, alt in UNBOUNDED:
+            if rx.search(base):
+                hits.append((base, alt))
+                break
+    return hits
+
+
 def main():
     try:
         payload = json.load(sys.stdin)
@@ -57,6 +91,18 @@ def main():
 
     bad = offenders(cmd)
     if not bad:
+        loose = unbounded_cmds(cmd)
+        if loose:
+            lines = [f"  {c}\n    -> {alt}" for c, alt in loose]
+            json.dump({"hookSpecificOutput": {
+                "hookEventName": "PreToolUse",
+                "permissionDecision": "deny",
+                "permissionDecisionReason": (
+                    "Sortie potentiellement non bornee. Borne-la:\n"
+                    + "\n".join(lines)
+                    + "\n\nSi le volume complet est vraiment necessaire, redirige vers "
+                      "un fichier puis fouille-le avec rg."),
+            }}, sys.stdout)
         sys.exit(0)
 
     lines = [f"  - {exe} {p} ({kb} Ko)" for exe, p, kb in bad]
